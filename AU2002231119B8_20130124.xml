@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questel-patent-document lang="en" date-produced="20180716" produced-by="Questel" schema-version="3.23" file="AU2002231119B8_20130124.xml">
+  <bibliographic-data lang="en">
+    <publication-reference publ-desc="Corrected first page of granted doc.">
+      <document-id>
+        <country>AU</country>
+        <doc-number>2002231119</doc-number>
+        <kind>B8</kind>
+        <date>20130124</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>AU2002231119</doc-number>
+      </document-id>
+    </publication-reference>
+    <original-publication-kind>B2</original-publication-kind>
+    <application-reference family-id="25021507" extended-family-id="1544465">
+      <document-id>
+        <country>AU</country>
+        <doc-number>2002231119</doc-number>
+        <kind>A</kind>
+        <date>20011218</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>2002AU-0231119</doc-number>
+      </document-id>
+      <document-id data-format="questel_Uid">
+        <doc-number>1607726</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>en</language-of-filing>
+    <language-of-publication>en</language-of-publication>
+    <priority-claims>
+      <priority-claim kind="national" sequence="1">
+        <country>US</country>
+        <doc-number>75132900</doc-number>
+        <kind>A</kind>
+        <date>20001229</date>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="1">
+        <doc-number>2000US-09751329</doc-number>
+      </priority-claim>
+      <priority-claim kind="international" sequence="2">
+        <country>WO</country>
+        <doc-number>US0149335</doc-number>
+        <kind>A</kind>
+        <date>20011218</date>
+        <priority-linkage-type>W</priority-linkage-type>
+        <priority-active-indicator>N</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="2">
+        <doc-number>2001WO-US49335</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability>
+      <publication-of-grant-date>
+        <date>20061207</date>
+      </publication-of-grant-date>
+    </dates-of-public-availability>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B32B   5/04        20060101AFI20051008BMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>B</section>
+        <class>32</class>
+        <subclass>B</subclass>
+        <main-group>5</main-group>
+        <subgroup>04</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>A47K  10/32        20060101ALN20051008BMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>47</class>
+        <subclass>K</subclass>
+        <main-group>10</main-group>
+        <subgroup>32</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>N</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>A47L  13/17        20060101ALI20051008BMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>47</class>
+        <subclass>L</subclass>
+        <main-group>13</main-group>
+        <subgroup>17</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>B32B   5/26        20060101ALI20051008BMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>B</section>
+        <class>32</class>
+        <subclass>B</subclass>
+        <main-group>5</main-group>
+        <subgroup>26</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="5">
+        <text>D04H  13/00        20060101ALI20051008BMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>D</section>
+        <class>04</class>
+        <subclass>H</subclass>
+        <main-group>13</main-group>
+        <subgroup>00</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <patent-classifications>
+      <patent-classification sequence="1">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>B32B-005/26</classification-symbol>
+        <section>B</section>
+        <class>32</class>
+        <subclass>B</subclass>
+        <main-group>5</main-group>
+        <subgroup>26</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20171108</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="2">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A47K-2010/3266</classification-symbol>
+        <section>A</section>
+        <class>47</class>
+        <subclass>K</subclass>
+        <main-group>2010</main-group>
+        <subgroup>3266</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20150410</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="3">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A47L-013/17</classification-symbol>
+        <section>A</section>
+        <class>47</class>
+        <subclass>L</subclass>
+        <main-group>13</main-group>
+        <subgroup>17</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20150410</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="4">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>B32B-005/022</classification-symbol>
+        <section>B</section>
+        <class>32</class>
+        <subclass>B</subclass>
+        <main-group>5</main-group>
+        <subgroup>022</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20171105</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="5">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>B32B-005/04</classification-symbol>
+        <section>B</section>
+        <class>32</class>
+        <subclass>B</subclass>
+        <main-group>5</main-group>
+        <subgroup>04</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20171108</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="6">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>B32B-038/004</classification-symbol>
+        <section>B</section>
+        <class>32</class>
+        <subclass>B</subclass>
+        <main-group>38</main-group>
+        <subgroup>004</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20171102</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="7">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>B32B-2038/0028</classification-symbol>
+        <section>B</section>
+        <class>32</class>
+        <subclass>B</subclass>
+        <main-group>2038</main-group>
+        <subgroup>0028</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20171102</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="8">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>B32B-2250/20</classification-symbol>
+        <section>B</section>
+        <class>32</class>
+        <subclass>B</subclass>
+        <main-group>2250</main-group>
+        <subgroup>20</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20171105</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="9">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>B32B-2307/51</classification-symbol>
+        <section>B</section>
+        <class>32</class>
+        <subclass>B</subclass>
+        <main-group>2307</main-group>
+        <subgroup>51</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20171102</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="10">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>B32B-2307/5825</classification-symbol>
+        <section>B</section>
+        <class>32</class>
+        <subclass>B</subclass>
+        <main-group>2307</main-group>
+        <subgroup>5825</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20171105</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="11">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>D04H-013/00</classification-symbol>
+        <section>D</section>
+        <class>04</class>
+        <subclass>H</subclass>
+        <main-group>13</main-group>
+        <subgroup>00</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20160901</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="12">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20150401</date>
+        </classification-scheme>
+        <classification-symbol>Y10T-442/3382</classification-symbol>
+        <section>Y</section>
+        <class>10</class>
+        <subclass>T</subclass>
+        <main-group>442</main-group>
+        <subgroup>3382</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>C</classification-data-source>
+        <action-date>
+          <date>20150409</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="13">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20150401</date>
+        </classification-scheme>
+        <classification-symbol>Y10T-442/60</classification-symbol>
+        <section>Y</section>
+        <class>10</class>
+        <subclass>T</subclass>
+        <main-group>442</main-group>
+        <subgroup>60</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>C</classification-data-source>
+        <action-date>
+          <date>20150409</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="14">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20150401</date>
+        </classification-scheme>
+        <classification-symbol>Y10T-442/601</classification-symbol>
+        <section>Y</section>
+        <class>10</class>
+        <subclass>T</subclass>
+        <main-group>442</main-group>
+        <subgroup>601</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>C</classification-data-source>
+        <action-date>
+          <date>20150409</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="15">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20150401</date>
+        </classification-scheme>
+        <classification-symbol>Y10T-442/659</classification-symbol>
+        <section>Y</section>
+        <class>10</class>
+        <subclass>T</subclass>
+        <main-group>442</main-group>
+        <subgroup>659</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>C</classification-data-source>
+        <action-date>
+          <date>20150409</date>
+        </action-date>
+      </patent-classification>
+    </patent-classifications>
+    <figures>
+      <image-key data-format="questel">AU2002231119</image-key>
+    </figures>
+    <invention-title lang="en" id="title_en">Composite material with cloth-like feel</invention-title>
+    <parties>
+      <applicants>
+        <applicant data-format="original" app-type="applicant" sequence="1">
+          <addressbook>
+            <name>Kimberly-Clark Worldwide, Inc.</name>
+          </addressbook>
+        </applicant>
+        <applicant data-format="questel" app-type="applicant" sequence="2">
+          <addressbook lang="en">
+            <orgname>KIMBERLY CLARK WORLDWIDE</orgname>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="original" sequence="1">
+          <addressbook>
+            <name>Baer, David J.</name>
+          </addressbook>
+        </inventor>
+        <inventor data-format="original" sequence="2">
+          <addressbook>
+            <name>Close, Kenneth B.</name>
+          </addressbook>
+        </inventor>
+        <inventor data-format="original" sequence="3">
+          <addressbook>
+            <name>Lange, Scott R.</name>
+          </addressbook>
+        </inventor>
+        <inventor data-format="original" sequence="4">
+          <addressbook>
+            <name>Beck, Richard C.</name>
+          </addressbook>
+        </inventor>
+        <inventor data-format="original" sequence="5">
+          <addressbook>
+            <name>Smith, Charles A.</name>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent sequence="1" rep-type="agent">
+          <addressbook>
+            <name>Spruson &amp; Ferguson</name>
+            <address>
+              <address-1>SYDNEY, NSW, 2000, AU</address-1>
+              <city>SYDNEY</city>
+              <state>NSW</state>
+              <postcode>2000</postcode>
+              <country>AU</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <pct-or-regional-filing-data>
+      <document-id>
+        <country>WO</country>
+        <doc-number>US0149335</doc-number>
+        <date>20011218</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>2001WO-US49335</doc-number>
+      </document-id>
+    </pct-or-regional-filing-data>
+    <pct-or-regional-publishing-data>
+      <document-id>
+        <country>WO</country>
+        <doc-number>02053365</doc-number>
+        <kind>A2</kind>
+        <date>20020711</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>WO200253365</doc-number>
+      </document-id>
+    </pct-or-regional-publishing-data>
+    <lgst-data>
+      <lgst-status>GRANTED</lgst-status>
+    </lgst-data>
+  </bibliographic-data>
+  <abstract format="original" lang="en" id="abstr_en">
+    <p id="P-EN-00001" num="00001">
+      <br/>
+      The present invention provides a wet-wipe comprising a non-woven composite elastic material comprising a non-woven elastic layer; and a non-woven gatherable layer.
+      <br/>
+      The gatherable layer is bonded to the elastic layer at at least two points; and is gathered between the bonded points.
+      <br/>
+      These wet-wipes have a softer more cloth like feel.
+    </p>
+  </abstract>
+</questel-patent-document>
