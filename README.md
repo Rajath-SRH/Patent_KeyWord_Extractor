@@ -12,3 +12,17 @@ Follow the MongoDB installation Wizard.
 Install mongoDB as a service and also check the option to install mongoDB compass.
 Install mongosh - https://docs.mongodb.com/mongodb-shell/install/
 
+
+## Pipeline
+The general flow of the pipeline is depicted in the flowchart above and is explained below : 
+* Read the patent xml file.
+* Extract the abstract text. The text is preprocessed which inlcudes lemmatization and removal of tags. The data is cleaned in this stage.
+* The text is then to the RAKE(Rapid Automatic Keyword Extraction) algorithm. The algorithm removes stopwords and ranks the important keywords and keyphrases that commonly occur in the text.
+* The extracted keywords are then stored in monogDB as a json mapped to the patent filename.
+
+
+
+
+## Program changes required.
+* Replace the relative path to the folder containing the patents. "DIR" variable stored the path of the patent folder.
+
