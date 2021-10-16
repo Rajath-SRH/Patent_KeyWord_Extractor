@@ -26,3 +26,12 @@ The general flow of the pipeline is depicted in the flowchart above and is expla
 ## Program changes required - extract_rake.py
 * Replace the relative path to the folder containing the patents. "DIR" variable stored the path of the patent folder.
 
+
+
+## Other ideas
+
+
+## Run Docker
+
+
+
