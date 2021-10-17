@@ -41,7 +41,7 @@ mongodb+srv://db:challenge123@cluster0.0wp5e.mongodb.net/test
 
 ## Code Execution time
 
-For 10 patent documents the average time running all the services locally(parser + monogDB writes) takes about 2.5 seconds. Since the mongoDB that has been use for deplyement is on the mongo cloud cluster it takes about 16 seconds to writw to the repository.
+For 10 patent documents the average time running all the services locally(parser + monogDB writes) takes about 2.5 seconds. The total proces time to parse 20000 patent documents takes on average 17mins to complete. To simplify the deployment for the challenge it uses mongoDB that has been use for deplyement is on the mongo cloud cluster it takes about 16 seconds to writw to the repository.
 
 ## Ideas for future improvements
 
