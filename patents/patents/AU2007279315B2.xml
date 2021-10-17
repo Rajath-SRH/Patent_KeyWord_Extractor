@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questel-patent-document lang="en" date-produced="20180716" produced-by="Questel" schema-version="3.23" file="AU2007279315B2.xml">
+  <bibliographic-data lang="en">
+    <publication-reference publ-desc="Patent proceeded by OPI">
+      <document-id>
+        <country>AU</country>
+        <doc-number>2007279315</doc-number>
+        <kind>B2</kind>
+        <date>20130321</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>AU2007279315</doc-number>
+      </document-id>
+    </publication-reference>
+    <original-publication-kind>A1</original-publication-kind>
+    <application-reference family-id="38982309" extended-family-id="1744816">
+      <document-id>
+        <country>AU</country>
+        <doc-number>2007279315</doc-number>
+        <kind>A</kind>
+        <date>20070725</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>2007AU-0279315</doc-number>
+      </document-id>
+      <document-id data-format="questel_Uid">
+        <doc-number>1823979</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>en</language-of-filing>
+    <language-of-publication>en</language-of-publication>
+    <priority-claims>
+      <priority-claim kind="national" sequence="1">
+        <country>US</country>
+        <doc-number>82073206</doc-number>
+        <kind>P</kind>
+        <date>20060728</date>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="1">
+        <doc-number>2006US-60820732</doc-number>
+      </priority-claim>
+      <priority-claim kind="international" sequence="2">
+        <country>WO</country>
+        <doc-number>US2007074356</doc-number>
+        <kind>A</kind>
+        <date>20070725</date>
+        <priority-linkage-type>W</priority-linkage-type>
+        <priority-active-indicator>N</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="2">
+        <doc-number>2007WO-US74356</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability>
+      <unexamined-printed-without-grant>
+        <date>20080131</date>
+      </unexamined-printed-without-grant>
+      <publication-of-grant-date>
+        <date>20130321</date>
+      </publication-of-grant-date>
+    </dates-of-public-availability>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>B65G  45/00        20060101AFI20081127BHUS</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>B</section>
+        <class>65</class>
+        <subclass>G</subclass>
+        <main-group>45</main-group>
+        <subgroup>00</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>US</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20081127</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>B65G  45/12        20060101ALI20081127BHUS</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>B</section>
+        <class>65</class>
+        <subclass>G</subclass>
+        <main-group>45</main-group>
+        <subgroup>12</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>US</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20081127</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>B65G  45/16        20060101ALI20081127BHUS</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>B</section>
+        <class>65</class>
+        <subclass>G</subclass>
+        <main-group>45</main-group>
+        <subgroup>16</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>US</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20081127</date>
+        </action-date>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <patent-classifications>
+      <patent-classification sequence="1">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>B08B-001/02</classification-symbol>
+        <section>B</section>
+        <class>08</class>
+        <subclass>B</subclass>
+        <main-group>1</main-group>
+        <subgroup>02</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="2">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>B65G-045/12</classification-symbol>
+        <section>B</section>
+        <class>65</class>
+        <subclass>G</subclass>
+        <main-group>45</main-group>
+        <subgroup>12</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+    </patent-classifications>
+    <number-of-claims>15</number-of-claims>
+    <figures>
+      <image-key data-format="questel">AU2007279315</image-key>
+    </figures>
+    <invention-title lang="en" id="title_en">Reinforced cleaning blade and method of manufacturing thereof</invention-title>
+    <references-cited>
+      <citation srep-phase="examiner">
+        <patcit num="1">
+          <text>LAW ROBERT R</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>6581754</doc-number>
+            <kind>B2</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US6581754</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="2">
+          <text>WALLAART JACOBUS J</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4742906</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4742906</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <parties>
+      <applicants>
+        <applicant data-format="original" app-type="applicant" sequence="1">
+          <addressbook>
+            <name>Flexible Steel Lacing Company</name>
+          </addressbook>
+        </applicant>
+        <applicant data-format="questel" app-type="applicant" sequence="2">
+          <addressbook lang="en">
+            <orgname>FLEXIBLE STEEL LACING</orgname>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="original" sequence="1">
+          <addressbook>
+            <name>Devries, Brett Edwin</name>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent sequence="1" rep-type="agent">
+          <addressbook>
+            <name>Spruson &amp; Ferguson</name>
+            <address>
+              <address-1>SYDNEY, NSW, 2000, AU</address-1>
+              <city>SYDNEY</city>
+              <state>NSW</state>
+              <postcode>2000</postcode>
+              <country>AU</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <pct-or-regional-filing-data>
+      <document-id>
+        <country>WO</country>
+        <doc-number>US2007074356</doc-number>
+        <date>20070725</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>2007WO-US74356</doc-number>
+      </document-id>
+    </pct-or-regional-filing-data>
+    <pct-or-regional-publishing-data>
+      <document-id>
+        <country>WO</country>
+        <doc-number>2008014342</doc-number>
+        <kind>A2</kind>
+        <date>20080131</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>WO200814342</doc-number>
+      </document-id>
+    </pct-or-regional-publishing-data>
+    <lgst-data>
+      <lgst-status>GRANTED</lgst-status>
+    </lgst-data>
+  </bibliographic-data>
+  <abstract format="original" lang="en" id="abstr_en">
+    <p id="P-EN-00001" num="00001">
+      <br/>
+      A reinforced conveyor belt cleaning blade is provided.
+      <br/>
+      In one form, the reinforced cleaning blade includes a blade body and a metal insert that is of a substantially constant cross-sectional configuration extending between the ends thereof.
+      <br/>
+      The ends are surrounded by molded material of the blade body so that the blade body and insert have a secure connection therebetween.
+      <br/>
+      The preferred insert is a formed sheet metal member that has smooth surfaces extending along its length without projections or sharp corners.
+      <br/>
+      In another aspect, a method of manufacturing a conveyor belt cleaning blade is provided including placing a metallic insert for the cleaning blade in a mold and molding the body of the cleaning blade with polymeric material extending completely around ends of the insert.
+      <br/>
+      Preferably, the insert is magnetically held in position in the mold such as on a rail on which magnets are mounted.
+    </p>
+  </abstract>
+  <description format="original" lang="en" id="desc_en">
+    <p num="1">Field of the Invention</p>
+    <p num="2">The invention relates to cleaning blades for conveyor belts and, more particularly, to reinforcement inserts for cleaning blades and methods of manufacturing reinforced cleaning blades.</p>
+    <p num="3">Background of the Invention</p>
+    <p num="4">Cleaning blades for conveyor belts are known that are mounted to elongate support members or poles extending under or adjacent a conveyor belt with the tip of the blade engaged with the belt for scraping material therefrom. Certain cleaners are specifically designed for engaging the conveyor belt as it travels about the head pulley and are called primary cleaners versus those secondary cleaners that engage under the conveyor belt during its return run. In many of these primary cleaner systems, the cleaning blade is mounted to an upstanding flange attached to the support pole adjacent to the head pulley such as shown in the applicant's assignee's United States Design Patent No. D482,508.</p>
+    <p num="5">The blade bodies of primary cleaners such as of that in the '508 patent extend along the width of the conveyor belt and have a curved configuration for engaging the belt at a tip end portion thereof. The base portion of the blade body at the lower end is typically thicker or wider for providing additional support where the blade is mounted to the support pole. In addition, as shown in the '508 patent, an extruded support member or insert can be provided in the base portion at the slot opening thereof. As shown in FIG. 6, this aluminum insert is provided with a convex configuration including a number of projections and sharp corners to provide a secure connection between the blade body and the insert, particularly during use when exposed to scraping and impact forces. However, this complexly configured aluminum insert has an undesirably high cost associated with the extrusion manufacturer thereof. Accordingly, there is a need for an insert for cleaning blade bodies that can be manufactured economically.</p>
+    <heading>OBJECT</heading>
+    <p num="6">It is the object of the present invention to substantially overcome or ameliorate one or more of the above disadvantages.</p>
+    <heading>SUMMARY</heading>
+    <p num="7">The present invention provides a reinforced conveyor belt cleaning blade comprising: a blade body having a tip end portion for scraping engagement with a conveyor belt, the blade body being of a predetermined molded material; and a reinforcing insert of a metallic material and a substantially constant cross-sectional thickness extending between ends thereof that are both disposed within and surrounded by the molded material of the blade body.</p>
+    <p num="8">The present invention also provides a method of manufacturing a conveyor belt cleaning blade, the method comprising: placing a metallic insert for the cleaning blade in a mold; and molding a body of the cleaning blade with a polymeric material extending completely around ends of the metallic insert.</p>
+    <heading>BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+    <p num="9">FIG. I is a cross-sectional view of a cleaning blade showing a blade body having an insert molded therein; FIG. 2 is an elevational view of the cleaning blade of FIG. I showing a faceted surface thereof; FIG. 3 is an enlarged elevational view of the insert showing an upper flat portion and depending leg portion thereof; AH26(7113428-1) MLW</p>
+    <p num="10">FIG. 4 is a plan view of a mold rail for use in the mold for forming the blade of FIG. 1;</p>
+    <p num="11">FIG. 5 is an enlarged flat, fragmentary elevational view of the rail of FIG. 4 showing magnets fixed thereto; and</p>
+    <p num="12">FIG. 6 is a cross-sectional view of a prior cleaning blade including an extruded aluminum insert.</p>
+    <p num="13">Detailed Description of the Preferred Embodiments</p>
+    <p num="14">In FIGS. 1 and 2, a cleaning blade 10 having a body 12 of polymeric material and an insert 14 of metallic material is shown. The cleaning blade body 12 has a configuration similar to the configuration of prior cleaning blade 16 shown in FIG. 6 provided by applicant's assignee herein. The main differences reside in the respective base portions 18 and 20 thereof and, more particularly, with respect to the respective metallic inserts 14 and 22 thereof.</p>
+    <p num="15">In this regard, the blade body 12 has an upper tip end portion 24 that is curved for engaging the conveyor belt as it extends around the head pulley such as when the blade 10 is used as a primary cleaner. As can be seen in FIG. 2, the blade has a facetted outer surface including a series of flat surface portions 26 with corners or sharp break lines 28 formed therebetween. The inner surface 30 of the blade body 12 that faces the head pulley and belt traveling thereabout has a similar faceted configuration. Other configurations for the corresponding inner and outer surfaces 26 and 30 could be provided. The lower base portion 18 has a slightly greater width than the remainder of the blade body 12 and has the insert 14 embedded therein such as during the molding process, as will be described hereinafter.</p>
+    <p num="16">The base portion 18 has depending leg portions 32 and 34 spaced to form a open ended slot opening 36 therebetween. As is known, the slot 36 opens downwardly and is adapted to receive an upstanding plate or flange attached or welded to the support pole extending along and adjacent to the head pulley, for instance. The blade body 12 is also provided with a series of laterally extending throughbores 38 for receiving mounting pins or bolts that affix the cleaning blade to the upstanding flange of the support pole.</p>
+    <p num="17">To provide the blade 10 with sufficient stiffness, particularly at the base portion 18 thereof where it is mounted to the support pole, a metallic insert 14 is provided, as shown in FIGS. 1 and 3. The present insert 14 is of low cost construction and provides manufacturing efficiencies over the manufacturer of the prior blade body 16 along with its extruded aluminum insert 22. In this regard, the insert 14 has a fairly simple construction being of substantially constant crosssectional thickness extending between ends 40 and 42 thereof. The low cost insert 14 is molded in the blade body 12 so that the ends 40 and 42 are disposed within and surrounded by the molded material of the base body 12. The molded material is a polymeric material such as polyurethane.</p>
+    <p num="18">Rather than an extrusion similar to insert 22 having various rib projections 43 and sharp angled corners 45 along its surfaces, the insert 14 extends lengthwise in the blade body 12 and has substantially smooth upper and lower surfaces 46 and 48 extending along its length so that ribs 43 and corners 45 such as in the extruded prior insert 22 are avoided. Instead of relying on projections 43 and sharp corners 45 to provide increased bonding area between the urethane of the blade body 16 and the extruded insert 22, the insert 14 has both of the ends 40 and 42 embedded completely within the blade body 12, and specifically the leg portions 32 and 34 thereof. In this regard, the preferred insert 14 has a generally inverted U-shape configuration. As illustrated, the insert 14 has an upper flat portion 50 and depending side leg portions 52 and 54 that extend from the upper portion 50 to the insert ends 40 and 42. The upper flat portion 50 extends in the base portion 44 across the upper end of the slot opening 36. The leg portions 52 and 54 extend in the corresponding leg portions 32 and 34 of the blade body base portion 34. With the insert ends 40 and 42 completely surrounded by molded polymeric material, there is molded material below the leg ends 40 and 42, as can be seen in FIG. 1. In addition, the insert legs 52 and 54 are completely embedded and surrounded by molded polymeric material in the corresponding leg portions 32 and 34. Accordingly, while there is a sacrifice in the resistance to sheer forces at the interface of the smooth surfaces 46 and 48 of the insert and the molded material of the blade body 12 versus the ribbed and sharply contoured extruded insert 42, the provision of the leg ends 40 and 42 completely embedded in the blade body 12 with molded material below the leg ends 40 and 42 provides the insert 14 with a secure connection to the blade body 12 and resistance to separation therefrom during scraping operations with the cleaning blade 10 herein.</p>
+    <p num="19">The preferred and illustrated insert 14 is a bent or formed sheet metal member such as of a steel material. As mentioned, there is a substantially constant thickness between the upper and lower surfaces 46 and 48 as they extend along the upper flat portion 50 and the leg portions 52 and 54 of the elongate insert 14. The leg portions 52 and 54 are bent from the upper portion 50 so that there are radiused or curved transitions along the surfaces 46 and 48 between the upper portion 50 and the leg portions 52 and 54. As can be seen in FIG. 3, the legs 52 and 54 extend downwardly from the upper portion 50 and taper away from each other to the ends 40 and 42. The sheet metal can be approximately 7 gage or approximately 0.18 inch in thickness between the surfaces 46 and 48 thereof.</p>
+    <p num="20">To form the blade body with the insert 14 therein, the insert 14 is molded in situ with the blade body 12. In this regard, the insert 14 is placed in the mold for forming the cleaning blade body 12 and the body 12 is molded about the insert 14 such that the ends 40 and 42 are completely surrounded by the polymeric material of the cleaning blade body 12. The insert 14 is first formed to the generally inverted U-shaped configuration by bending the sheet steel member so that the leg portions 52 and 54 depend from the upper flat portion 50, as shown in FIG. 3. For securely holding the steel insert 14 in the mold, an elongate support rail 56 is provided, as shown in FIGS. 4 and 5. The support rail 56 has several magnets 58 mounted along its length so that the insert 14 is magnetically held to the rail 56.</p>
+    <p num="21">More specifically, the elongate insert 14 is placed into the mold so that the flat upper portion 50 extends along and rests on the rail 56 with the leg portions 52 and 54 extending downwardly in the mold from the rail 56 along either side thereof. For locating the insert 14 on the rail 56, locating pins and openings can be used on the rail and the insert 14. With the insert 14 properly located on the rail 56, the magnets 58 will draw the lower surface 58 at the insert flat portion 50 down into tightly held engagement with the rail 56. The legs 52 and 54 will extend downwardly from either side of the rail 56 with their ends 40 and 42 positioned in the mold so that when the blade body is molded, molded material of the blade body leg portions 32 and 34 will extend below the insert leg ends 40 and 42, as previously has been described.</p>
+    <p num="22">While there have been illustrated and described particular embodiments of the present invention, it will be appreciated that numerous changes and modifications will occur to those skilled in the art, and it is intended in the appended claims to cover all those changes and modifications which fall within the true spirit and scope of the present invention.</p>
+  </description>
+  <claims format="original" lang="en" id="claim_en">
+    <claim num="1">
+      <claim-text>1. A reinforced conveyor belt cleaning blade comprising: a blade body having a tip end portion for scraping engagement with a conveyor belt, the blade body being of a predetermined molded material; and a reinforcing insert of a metallic material and a substantially constant cross-sectional thickness extending between ends thereof that are both disposed within and surrounded by the molded material of the blade body.</claim-text>
+    </claim>
+    <claim num="2">
+      <claim-text>2. The reinforced cleaning blade of claim 1 wherein the insert comprises a bent sheet metal member.</claim-text>
+    </claim>
+    <claim num="3">
+      <claim-text>3. The reinforced cleaning blade of claim 1 wherein the blade body and the insert therein have an elongate configuration, and the insert has smooth surfaces extending lengthwise therealong without projections or sharp corners.</claim-text>
+    </claim>
+    <claim num="4">
+      <claim-text>4. The reinforced cleaning blade of claim 3 wherein the insert has an upper flat portion and side leg portions bent therefrom extending to the ends of the insert with transitions between the upper flat portion and the side leg portions being radiused.</claim-text>
+    </claim>
+    <claim num="5">
+      <claim-text>5. The reinforced cleaning blade of claim 1 wherein the metallic material comprises a steel material.</claim-text>
+    </claim>
+    <claim num="6">
+      <claim-text>6. The reinforced cleaning blade of claim 1 wherein the insert has a generally inverted U-shape configuration.</claim-text>
+    </claim>
+    <claim num="7">
+      <claim-text>7. The reinforced cleaning blade of claim 1 wherein the blade body has a lower base end portion including depending leg portions and an open ended slot extending therebetween, and the insert includes leg portions completely embedded in the corresponding leg portions of the lower end portion.</claim-text>
+    </claim>
+    <claim num="8">
+      <claim-text>8. The reinforced cleaning blade of claim 7 wherein the insert leg portions extend downwardly and away from each other to the insert ends in the corresponding leg portions of the base lower end portions so that the insert ends have molded material therebelow and the insert legs have molded material extending up along either side thereof.</claim-text>
+    </claim>
+    <claim num="9">
+      <claim-text>9. A method of manufacturing a conveyor belt cleaning blade, the method comprising: placing a metallic insert for the cleaning blade in a mold; and molding a body of the cleaning blade with a polymeric material extending completely around ends of the metallic insert.</claim-text>
+    </claim>
+    <claim num="10">
+      <claim-text>10. The method of claim 9 including magnetically holding the insert at a predetermined position in the mold.</claim-text>
+    </claim>
+    <claim num="11">
+      <claim-text>11. The method of claim 10 wherein the insert is magnetically held by supporting the insert on a rail on which magnets are mounted.</claim-text>
+    </claim>
+    <claim num="12">
+      <claim-text>12. The method of claim 9 wherein molding the cleaning blade body includes forming the body with the insert at lower portion thereof and polymeric material extending below the insert ends.</claim-text>
+    </claim>
+    <claim num="13">
+      <claim-text>13. The method of claim 9 including bending the insert to a predetermined configuration prior to placing the insert in the mold.</claim-text>
+    </claim>
+    <claim num="14">
+      <claim-text>14. A reinforced conveyor belt cleaning blade substantially as hereinbefore described with reference to any one of the embodiments as that embodiment is shown in the accompanying drawings.</claim-text>
+    </claim>
+    <claim num="15">
+      <claim-text>15. A method of manufacturing a conveyor belt cleaning blade substantially as hereinbefore described with reference to the accompanying drawings. Dated 11 February 2013 Flexible Steel Lacing Company Patent Attorneys for the Applicant/Nominated Person SPRUSON &amp; FERGUSON AH26(7113428-1) MLW</claim-text>
+    </claim>
+  </claims>
+</questel-patent-document>

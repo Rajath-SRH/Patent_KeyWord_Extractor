@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questel-patent-document lang="en" date-produced="20180716" produced-by="Questel" schema-version="3.23" file="AU2007278758B2.xml">
+  <bibliographic-data lang="en">
+    <publication-reference publ-desc="Patent proceeded by OPI">
+      <document-id>
+        <country>AU</country>
+        <doc-number>2007278758</doc-number>
+        <kind>B2</kind>
+        <date>20130502</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>AU2007278758</doc-number>
+      </document-id>
+    </publication-reference>
+    <original-publication-kind>A1</original-publication-kind>
+    <application-reference family-id="38981062" extended-family-id="1744485">
+      <document-id>
+        <country>AU</country>
+        <doc-number>2007278758</doc-number>
+        <kind>A</kind>
+        <date>20070725</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>2007AU-0278758</doc-number>
+      </document-id>
+      <document-id data-format="questel_Uid">
+        <doc-number>1823605</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>en</language-of-filing>
+    <language-of-publication>en</language-of-publication>
+    <priority-claims>
+      <priority-claim kind="national" sequence="1">
+        <country>US</country>
+        <doc-number>83295706</doc-number>
+        <kind>P</kind>
+        <date>20060725</date>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="1">
+        <doc-number>2006US-60832957</doc-number>
+      </priority-claim>
+      <priority-claim kind="international" sequence="2">
+        <country>WO</country>
+        <doc-number>AU2007001033</doc-number>
+        <kind>A</kind>
+        <date>20070725</date>
+        <priority-linkage-type>W</priority-linkage-type>
+        <priority-active-indicator>N</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="2">
+        <doc-number>2007WO-AU01033</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability>
+      <unexamined-printed-without-grant>
+        <date>20080131</date>
+      </unexamined-printed-without-grant>
+      <publication-of-grant-date>
+        <date>20130502</date>
+      </publication-of-grant-date>
+    </dates-of-public-availability>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>G01T   5/02        20060101AFI20080131BHAU</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>G</section>
+        <class>01</class>
+        <subclass>T</subclass>
+        <main-group>5</main-group>
+        <subgroup>02</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>AU</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080131</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>G01N  21/88        20060101ALI20080131BHAU</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>G</section>
+        <class>01</class>
+        <subclass>N</subclass>
+        <main-group>21</main-group>
+        <subgroup>88</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>AU</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080131</date>
+        </action-date>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <patent-classifications>
+      <patent-classification sequence="1">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>G01T-005/10</classification-symbol>
+        <section>G</section>
+        <class>01</class>
+        <subclass>T</subclass>
+        <main-group>5</main-group>
+        <subgroup>10</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="2">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>G01N-021/958</classification-symbol>
+        <section>G</section>
+        <class>01</class>
+        <subclass>N</subclass>
+        <main-group>21</main-group>
+        <subgroup>958</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+    </patent-classifications>
+    <number-of-claims>16</number-of-claims>
+    <figures>
+      <image-key data-format="questel">AU2007278758</image-key>
+    </figures>
+    <invention-title lang="en" id="title_en">A method of automatically counting fission tracks</invention-title>
+    <references-cited>
+      <citation srep-phase="examiner">
+        <patcit num="1">
+          <text>DONELICK RAYMOND A</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5267274</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5267274</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="2">
+          <text>ROBERTS JAMES H, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4900935</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4900935</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="3">
+          <text>DOBRILLA PAOLO</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4925298</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4925298</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="1">
+          <text>GLEADOW, A.J.W. et al "Fully-automated counting for fission track dating and thermochronology" August 2006, Geochimica et Cosmochimica Acta Supplement, Vol. 70, Iss. 18, page A205</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <parties>
+      <applicants>
+        <applicant data-format="original" app-type="applicant" sequence="1">
+          <addressbook>
+            <name>The University of Melbourne</name>
+          </addressbook>
+        </applicant>
+        <applicant data-format="questel" app-type="applicant" sequence="2">
+          <addressbook lang="en">
+            <orgname>UNIVERSITY OF MELBOURNE</orgname>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="original" sequence="1">
+          <addressbook>
+            <name>Gleadow, Andrew John Ward</name>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent sequence="1" rep-type="agent">
+          <addressbook>
+            <name>Davies Collison Cave</name>
+            <address>
+              <address-1>MELBOURNE, VIC, 3000, AU</address-1>
+              <city>MELBOURNE</city>
+              <state>VIC</state>
+              <postcode>3000</postcode>
+              <country>AU</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <pct-or-regional-filing-data>
+      <document-id>
+        <country>WO</country>
+        <doc-number>AU2007001033</doc-number>
+        <date>20070725</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>2007WO-AU01033</doc-number>
+      </document-id>
+    </pct-or-regional-filing-data>
+    <pct-or-regional-publishing-data>
+      <document-id>
+        <country>WO</country>
+        <doc-number>2008011674</doc-number>
+        <kind>A1</kind>
+        <date>20080131</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>WO200811674</doc-number>
+      </document-id>
+    </pct-or-regional-publishing-data>
+    <lgst-data>
+      <lgst-status>GRANTED</lgst-status>
+    </lgst-data>
+  </bibliographic-data>
+  <abstract format="original" lang="en" id="abstr_en">
+    <p id="P-EN-00001" num="00001">
+      <br/>
+      The present invention relates generally to the task of automatically counting the fission track density in a prepared crystal.
+      <br/>
+      Two images are captured by a charged coupled device (CCD) (16) attached to a microscope (14).
+      <br/>
+      The first or reflected light image (18) is of the surface of the crystal (12), the light captured by the CCD (16) having been reflected from the crystal surface.
+      <br/>
+      The reflected light image (18) is a RGB image of a prepared crystal of mica (12) containing surface voids corresponding to etched fission tracks.
+      <br/>
+      The second or transmitted light image (24) is of a plane near the surface of the crystal (12).
+      <br/>
+      The transmitted lighting image (24) is generally the same view as the reflected light image (18).
+      <br/>
+      A fission track void can be detected by comparing the reflected light (18) and the transmitted light (24) images.
+      <br/>
+      This comparison of the reflected light and the transmitted light images is best achieved using a computer software program, although this can also be done by a person comparing the images side by side or visually superimposing one on top of the other.
+    </p>
+  </abstract>
+  <description format="original" lang="en" id="desc_en">
+    <heading>FIELD</heading>
+    <p num="1">This invention relates broadly to a method of detecting fission tracks in a crystal. The invention also relates to a computer software program for detecting fission tracks in a crystal. The invention further relates to a method of producing an image for detecting fission tracks in a crystal.</p>
+    <heading>BACKGROUND</heading>
+    <p num="2">
+      Natural crystals of minerals such as mica, apatite and zircon contain trace amounts of the isotope U
+      <sup>238</sup>
+      , which undergoes radioactive decay by spontaneous nuclear fission with a half life of 10
+      <sup>16</sup>
+      years. The resulting charged fission fragments disrupt the crystal lattice as they travel through it, leaving a trail of radiation damage known as a fission track of a characteristic width of approximately 10 nanometers and a characteristic length of up to 20 micrometers. Because the decay rate of U
+      <sup>238</sup>
+      is constant, knowing the fission track density and the U
+      <sup>238</sup>
+      content of a crystal allows a geological age to be estimated.
+    </p>
+    <p num="3">
+      The damaged lattice slowly repairs itself upon exposure to elevated temperatures causing the fission tracks to fade and shorten. The rate of repair increases with temperature. Consequently, the number of tracks that intersect a surface of a crystal and the distribution of their lengths are dependent on the thermal history of the crystal. The fission track age of a geological sample can be estimated by counting the number of fission tracks per unit area on a suitable crystal surface, a quantity known as the fission track density. After independently measuring its U
+      <sup>238</sup>
+      concentration, the thermal history of a sample can be reconstructed by combining the fission track age and the track length distribution.
+    </p>
+    <p num="4">Crystals of uranium-bearing minerals, such as apatite, occur widely in many common rock types, allowing the thermal history or geological age of the rocks hosting these crystals to be determined. Determining the thermal histOry of geological samples is important in many areas of economic endeavour, such as, the exploration for oil and diamonds. The determination of thermal histories is also important for fundamental geological studies of scientific interest. Determination of the fission track age, based on the measured fission track density, is a critical step in these applications.</p>
+    <p num="5">Currently, the fission track density in a crystal is determined by a highly skilled operator viewing the crystal under a microscope in transmitted light. A crystal containing fission tracks is prepared by first extracting it from the host rock sample, mounting them in a suitable medium and then grinding and polishing an optically flat surface. Fission tracks crossing the surface are then enlarged to optical dimensions (1-2 micrometers diameter) by etching the polished surface using a suitable chemical agent, such as nitric or hydrofluoric acid. The etched fission tracks are then revealed as surface voids intersecting the surface that can be observed using a high quality, but largely conventional, light microscope. The operator moves the focal plane of the microscope through the crystal, following a void from the surface into the crystal bulk and thus confirming that the visual feature is due to a surface void located where an etched fission track was and not some artefact due to surface dust or a crystal defect. The manual counting of fission tracks is a slow and laborious process, compounded by the requirement that many tracks be counted, typically up to 1000, to reduce the statistical track count error. Manual track counting is therefore time consuming and expensive.</p>
+    <p num="6">It is desired to address or ameliorate one or more disadvantages or limitations associated with the prior art, or to at least provide a useful alternative.</p>
+    <heading>SUMMARY</heading>
+    <p num="7">In accordance with the present invention there is provided a method of detecting a fission track in a crystal, the method comprising the steps of: capturing light reflected from a surface of the crystal to produce a reflected light image; imaging a plane near the surface with light transmitted through the crystal to produce a transmitted light image; and comparing the reflected light and the transmitted light images to detect the fission track.</p>
+    <p num="8">The present invention also provides a method of detecting a fission track in a crystal, the method comprising the steps of: receiving a reflected light image produced by the capture of light reflected from a surface of the crystal; receiving a transmitted light image produced by the capture of light transmitted through the crystal; and comparing the reflected light and the transmitted light images to detect the fission track.</p>
+    <p num="9">The present invention also provides a method of producing an image for detecting a fission track in a crystal, the method comprising the step of imaging a plane near a surface of the crystal with light transmitted through the crystal to produce a transmitted light image.</p>
+    <p num="10">The present invention also provides a computer software program for detecting a fission track in a crystal, the program comprising instructions for: loading a reflected light image produced by the capture of light reflected from a surface of the crystal; loading a transmitted light image produced by the capture of light transmitted through the crystal; and comparing the reflected light and the transmitted light images to detect the fission track.</p>
+    <p num="11">Preferably the step of capturing light reflected from the surface of the crystal to produce the reflected light image includes the step of imaging the surface. More preferably, the step of imaging the surface includes the step of imaging the surface with white light reflected from the surface. Alternatively, the step of capturing light reflected from the surface of the crystal to produce a reflected light image includes the step of imaging a plane near the surface of the crystal with light reflected from the crystal.</p>
+    <p num="12">Preferably the step of imaging the plane near the surface of the crystal with light transmitted through the crystal includes the step of imaging a plane 0.5 to 2 micrometers in front of the surface of the crystal. More preferably the step of imaging a plane in front of the surface of the crystal involves imaging with white light.</p>
+    <p num="13">Preferably the step of comparing the reflected light and the transmitted light images to detect the fission track includes the step of matching a visual feature in the reflected light image with a visual feature in the transmitted light image or vice versa, the visual features sharing a common area.</p>
+    <p num="14">Preferably the instructions for comparing the reflected light and the transmitted light images include instructions for reducing the colour depth of the images to 1 bit. More preferably, the instructions for comparing the two images include instructions for performing a logical AND operation between a corresponding pixel from each image.</p>
+    <heading>BRIEF DESCRIPTION OF THE FIGURES</heading>
+    <p num="15">Preferred embodiments of the present invention are hereinafter further described, by way of non-limiting example only, with reference to the accompanying drawings, in which: Figure 1 is a schematic illustration of a preferred embodiment of a method of detecting fission tracks in a crystal; Figures 2a to 2d are images of fission tracks in a crystal, the images being used in the method of Figure 1; Figure 3 is a series of conventional images of fission tracks that demonstrate their unsuitability for automated detection of fission tracks; Figure 3a illustrates a histogram of brightness levels obtained from an image of fission tracks for calculating the threshold used to reduce the image colour depth; Figures 4a to 4c are visualised outputs of a computer program for detecting fission tracks; Figure 5 demonstrates the agreement between the conventional method of detecting a fission track and the method disclosed here; and Figure 6 schematically depicts the formation of spurious visual features when imaging shallow fission tracks.</p>
+    <heading>DETAILED DESCRIPTION</heading>
+    <p num="16">The following embodiment of the invention can be applied to the task of automatically counting the fission track density in a prepared crystal The fission tracks are first made visible under an optical microscope by the known steps of polishing the sample and revealing the fission tracks by etching the polished crystal in acid to create surface voids. It will be appreciated however, that other embodiments of the invention can be used for detecting many other types of micro or macroscopic surface voids in many different transparent solids of arbitrary thickness.</p>
+    <p num="17">
+      In one embodiment of the invention, generally shown as 10 in figure 1, the prepared crystal 12 is placed under an optical microscope 14. A suitable microscope is, for example, a ZeissTM AxiotronTM with white light illumination of the samples. The microscope 14 may have a motorised stage and focus mechanism, motorised objective nosepiece and light source shutters. A physik instrumenteTM piezoelectric microscope objective nano focusing device, for example, can aid in the focusing of the microscope. The motorised stage and focusing motor are used for preliminary positioning of the crystal 12 to previously labelled points of interest. The piezoelectric microscope objective nano focusing device can then be used for precise control of focusing using an OlympusTM Color View
+      <sup>1</sup>
+      M 1 CCD digital microscope camera with 3.3 megapixel resolution.
+    </p>
+    <p num="18">Two images are captured by a charged coupled device (CCD) 16 attached to the microscope 14.</p>
+    <p num="19">The first or reflected light image 18 is of the surface of the crystal 12, the light captured by the CCD 16 having been reflected from the crystal surface. An example of such an image 18 is shown in figure 2a. The reflected light image 18 is a RGB image of a prepared crystal of mica 12 containing surface voids corresponding to the etched fission tracks. The dark feature 20 is a typical opening of a surface void. There arc many similar features in the image 18, however some of these, such as 22, are caused by something other than an opening of a surface void, for example, a dust particle or scratch. Generally, it is difficult or impossible to differentiate a surface void from a non-surface void feature, such as 22, in the reflected light image alone.</p>
+    <p num="20">The second or transmitted light image 24 such as that shown in figure 2b is of a plane near the surface of the crystal 12, the plane preferably being 1.0 micrometers in front of the crystal surface. However, the distance between the crystal surface and the image plane can vary from 0.5 to 2 micrometers. The light captured to form the second or transmitted light image has passed or been transmitted through the crystal. The image is called a 'slept/auk' image by the inventors.</p>
+    <p num="21">The transmitted light image 24 is otherwise generally the same view as the reflected light image 18. The dark feature 26 is formed by the presence of a surface void in the crystal. There are many similar features in the image 24, however, sometimes dark features are caused by something other than the surface void, for example, a fluid inclusion, polishing artifact or dislocation.</p>
+    <p num="22">The series of images 32 in figure 3 demonstrates why it is desirable to form the transmitted light image by imaging a plane above a crystal surface instead of at or beneath the crystal surface. This series of images is of a single fission track void as the focal plane is moved through the crystal. It can be seen that the imaged void is not a solid feature but rather the axis tends to be lighter compared to the edges. This is caused by a refractive effect of the void. This undesirable effect interferes with the automated processing of the images by a computer 17 because computers generally require geometrically simple and preferably images of 1 bit colour depth. It has been found by the inventors that this undesirable feature is eliminated in the transmitted light image 24 in figure 2b by imaging a plane in front of the crystal surface.</p>
+    <p num="23">A fission track void can be detected by comparing the reflected light 18 and the transmitted light 24 images of figure Za and 2b, respectively. A visual feature, such as 20, in the reflected light image 18 that shares a common area with a visual feature, such as 26, in the transmitted light image 24 is very likely to be a fission track void. Visual features that appear in one image but not the other, can be rejected. This comparison of the reflected light and the transmitted light images is best achieved using a computer software program, although this can also be done by a person comparing the images side by side or visually superimposing one on top of the other.</p>
+    <p num="24">Instructions contained in one embodiment of the program are described generally below, and shown as a flowchart 15 in figure 1. As shown in figure 1, a software program on a computer 17 loads the reflected light 18 and transmitted light 24 images taken by the CCD 16. The program then reduces the colour depth of the images to 1 bit by assigning all pixels below a certain brightness threshold to 0 and those above to I. A variable threshold routine was written specifically for this task by the inventors. The routine utilises the particular characteristics of the histogram of brightness levels typical of both the reflected and transmitted light images, such as shown in figure 3a. The most obvious feature of the histogram in the approximately Gaussian peak of brightness levels representing the background. A threshold value for segmenting the image into foreground and background colours is selected to lie three standard deviations below the mean of the background peak.</p>
+    <p num="25">The 1 bit colour depth reflected 28 and transmitted 30 light images are shown in figures 2c and 2d, respectively. Reducing the colour depth tot bit allows logical Operations to be performed on the images. The computer 17 then performs logical AND operations between corresponding pixels from each image to form a coincidence map. The left picture 34 in figure 4a shows the overlap of the reflected light and transmitted light l'bit colour depth images corresponding to the images in figures 2c and 2d. The middle picture 36 of figure 4b shows the coincidence map identifying the positions of the surface voids and the right picture 38 of figure 4c shows the rejected visual features that are not due to surface voids. The computer counts the regions in the coincidence map 36 to count the number of surface voids.</p>
+    <p num="26">
+      It will be appreciated that the use of a crystal surface image allows the counting of surface voids in crystals that have fission track densities far greater than could be counted manually. This is largely because the image of the opening of the surface void has a much smaller arca than the image of the whole surface void formed when the crystal is viewed in transmitted light. Surface voids are easily resolved in a crystal surface image even when they overlap in the image of the crystal in transmitted light. This latter type of image is used in the manual counting method. The circled regions 29 in figures 2c and 2d show well resolved surface voids in the first image 28 which are not resolved in the second image 30. Fission track densities up to 1 x 10
+      <sup>8</sup>
+      cm
+      <sup>.</sup>
+      2 can be counted using the method disclosed here whereas the practical limit for manual counting is 1 x 10
+      <sup>7</sup>
+      cm
+      <sup>-2</sup>
+      .
+    </p>
+    <p num="27">Figure 5 shows the excel lent agreement between the manual counting of fission tracks in a sample crystal with automated counting using the method disclosed here and implemented using a computer.</p>
+    <p num="28">In some cases, especially if the sample has a higher fission track density, the coincidence map will have abutting or partially merged features that are not resolved. In this case, the number of fission tracks represented by non-resolved abutting or possibly partially merged features can be estimated by dividing the total area of the abutting or partially merged features by the average area of a resolved surface void.</p>
+    <p num="29">Sometimes a fission track makes a shallow angle to the crystal surface. In this case, the reflected light image of the crystal surface contains bright artefacts, such as 23 in figure 2a. that are due to optical interference of light waves reflected off the boundaries defining the surface void, a process schematically depicted in figure 6. These artefacts have a "zebra striped" appearance due to alternating zones of constructive and destructive interference along their length. For some of these tracks the first and brightest band overlaps the dark feature of the surface void and obscures it so that the track is not detected by the above method. Such tracks make up a very small proportion of the total, usually less than 5%, but can themselves be detected by a further step in the program. In this step the reflected light image is either captured at a plane focussed above the surface, or may be digitally blurred so that the individual bands are no longer resolved. The bright features are then detected by reducing the images to 1 bit colour depth using a threshold value above the background peak. A similar coincidence method to the normal procedure is then used to overlap these features with the transmitted light image thereby detecting those bright features previously overlooked. Those fission tracks not previously detected are then added to those detected by the previous coincidence mapping to provide a corrected track density.</p>
+    <p num="30">It will be appreciated by persons skilled in the art that numerous variations and/or modifications may be made to the invention as shown in the specific embodiment without departing from the spirit or scope of the invention as broadly described. For example, instead of light radiation, x-ray, particle, or sound radiation may be used for some solid samples. Furthermore, the crystal may be some other solid such as an engineering structure and the surface void may be a fault in the engineering structure. The present embodiments are, therefore, to be considered in all respects as illustrative and not restrictive.</p>
+    <p num="31">Throughout this specification and the claims which follow, unless the context requires otherwise, the word "comprise", and variations such as "comprises" and "comprising", will be understood to imply the inclusion of a stated integer or step or group of integers or steps but not the exclusion of any other integer or step or group of integers or steps.</p>
+    <p num="32">The reference in this specification to any prior publication (or information derived from it), or to any matter which is known, is not, and should not be taken as an acknowledgment or admission or any form of suggestion that that prior publication (or information derived from it) or known matter forms part of the common general knowledge in the field of endeavour to which this specification relates.</p>
+  </description>
+  <claims format="original" lang="en" id="claim_en">
+    <claim num="1">
+      <claim-text>1. A method of detecting a fission track in a crystal, the method comprising the steps of: capturing light reflected from a surface of the crystal to produce a reflected light image; imaging a plane near the surface with light transmitted through the crystal to produce a transmitted light image; and comparing the reflected light and the transmitted light images to detect the fission track.</claim-text>
+    </claim>
+    <claim num="2">
+      <claim-text>2. A method as defined in claim 1 wherein the step of imaging the plane near the surface of the crystal with light transmitted through the crystal includes the step of imaging a plane 0.5 to 2 micrometers in front of the surface of the crystal.</claim-text>
+    </claim>
+    <claim num="3">
+      <claim-text>3. A method as defined in claim 2 wherein the step of imaging a plane in front of the surface of the crystal involves imaging with white light.</claim-text>
+    </claim>
+    <claim num="4">
+      <claim-text>4. A method as defined in any one of the preceding claims wherein the step of capturing light reflected from the surface of the crystal to produce the reflected light image includes the step of imaging the surface.</claim-text>
+    </claim>
+    <claim num="5">
+      <claim-text>5. A method as defined in claim 4 wherein the step of imaging the surface includes the step of imaging the surface with white light reflected from the surface.</claim-text>
+    </claim>
+    <claim num="6">
+      <claim-text>6. A method as defined in any one of claims 1 to 5 wherein the step of capturing light reflected from the surface of the crystal to produce a reflected light image includes the step of imaging a plane near the surface of the crystal with light reflected from the crystal.</claim-text>
+    </claim>
+    <claim num="7">
+      <claim-text>7. A method of detecting a fission track in a crystal, the method comprising the steps of: receiving a reflected light image produced by the capture of light reflected from a surface of the crystal; receiving a transmitted light image produced by the capture of light transmitted through the crystal; and comparing the reflected light and the transmitted light images to detect the fission track.</claim-text>
+    </claim>
+    <claim num="8">
+      <claim-text>8. A method as defined in any one of the preceding claims wherein the step of comparing the reflected light and the transmitted light images to detect the fission track includes the step of matching a visual feature in the reflected light image with a visual feature in the transmitted light image or vice versa, the visual features sharing a common area.</claim-text>
+    </claim>
+    <claim num="9">
+      <claim-text>9. A method of producing an image for detecting a fission track in a crystal, the method comprising the step of imaging a plane near a surface of the crystal with light transmitted through the crystal to produce a transmitted light image.</claim-text>
+    </claim>
+    <claim num="10">
+      <claim-text>10. A method as defined in claim 9 wherein the step of imaging a plane near the surface of the crystal includes the step of imaging a plane 0.5 to 2 micrometers in front of the surface of the crystal.</claim-text>
+    </claim>
+    <claim num="11">
+      <claim-text>11. A method as defined in claim 10 wherein the step of imaging a plane in front of the surface of the crystal involves imaging with white light.</claim-text>
+    </claim>
+    <claim num="12">
+      <claim-text>12. A method as defined in any one of claims 9 to 11 also comprising the step of imaging the surface of the crystal with light reflected from the surface of the crystal to produce a reflected light image.</claim-text>
+    </claim>
+    <claim num="13">
+      <claim-text>13. A method as defined in any one of claims 9 to 11 also comprising the step of imaging a plane near the surface of the crystal with light reflected from the surface of the crystal.</claim-text>
+    </claim>
+    <claim num="14">
+      <claim-text>14. A computer software program for detecting a fission track in a crystal, the program comprising instructions for: loading a reflected light image produced by the capture of light reflected from a surface of the crystal; loading a transmitted light image produced by the capture of light transmitted through the crystal; and comparing the reflected light and the transmitted light images to detect the fission track.</claim-text>
+    </claim>
+    <claim num="15">
+      <claim-text>15. A computer software program as defined in claim 14 wherein the instructions for comparing the reflected light and the transmitted light images include instructions for reducing the colour depth of the images to 1 bit.</claim-text>
+    </claim>
+    <claim num="16">
+      <claim-text>16. A computer software program as defined in claim 15 wherein the instructions for comparing the two images include instructions for performing a logical AND operation between a corresponding pixel from each image.</claim-text>
+    </claim>
+  </claims>
+</questel-patent-document>

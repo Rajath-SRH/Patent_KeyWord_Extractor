@@ -1,0 +1,22 @@
+version: "3.9"
+
+services:
+
+  db:
+    image: mongo:latest
+    hostname: db
+    environment:
+      - MONGO_INITDB_DATABASE=patent_extractor
+      - MONGO_INITDB_ROOT_USERNAME=db
+      - MONGO_INITDB_ROOT_PASSWORD=secret
+    ports:
+      - 27017:27017
+    links:
+      - parser
+
+  parser:
+    build: .
+    command: python -u extract_rake.py
+    ports:
+      - "5000:5000"
+    

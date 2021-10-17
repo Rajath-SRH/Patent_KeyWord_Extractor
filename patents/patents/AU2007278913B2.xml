@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questel-patent-document lang="en" date-produced="20180716" produced-by="Questel" schema-version="3.23" file="AU2007278913B2.xml">
+  <bibliographic-data lang="en">
+    <publication-reference publ-desc="Patent proceeded by OPI">
+      <document-id>
+        <country>AU</country>
+        <doc-number>2007278913</doc-number>
+        <kind>B2</kind>
+        <date>20130321</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>AU2007278913</doc-number>
+      </document-id>
+    </publication-reference>
+    <original-publication-kind>A1</original-publication-kind>
+    <application-reference family-id="38981851" extended-family-id="1744627">
+      <document-id>
+        <country>AU</country>
+        <doc-number>2007278913</doc-number>
+        <kind>A</kind>
+        <date>20070709</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>2007AU-0278913</doc-number>
+      </document-id>
+      <document-id data-format="questel_Uid">
+        <doc-number>1823759</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>en</language-of-filing>
+    <language-of-publication>en</language-of-publication>
+    <priority-claims>
+      <priority-claim kind="national" sequence="1">
+        <country>US</country>
+        <doc-number>49425206</doc-number>
+        <kind>A</kind>
+        <date>20060727</date>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="1">
+        <doc-number>2006US-11494252</doc-number>
+      </priority-claim>
+      <priority-claim kind="international" sequence="2">
+        <country>WO</country>
+        <doc-number>IB2007052701</doc-number>
+        <kind>A</kind>
+        <date>20070709</date>
+        <priority-linkage-type>W</priority-linkage-type>
+        <priority-active-indicator>N</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="2">
+        <doc-number>2007WO-IB52701</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability>
+      <unexamined-printed-without-grant>
+        <date>20080131</date>
+      </unexamined-printed-without-grant>
+      <publication-of-grant-date>
+        <date>20130321</date>
+      </publication-of-grant-date>
+    </dates-of-public-availability>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A61K   9/14        20060101AFI20080529BHEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>61</class>
+        <subclass>K</subclass>
+        <main-group>9</main-group>
+        <subgroup>14</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080529</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>A61K   9/16        20060101ALI20080529BHEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>61</class>
+        <subclass>K</subclass>
+        <main-group>9</main-group>
+        <subgroup>16</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080529</date>
+        </action-date>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <patent-classifications>
+      <patent-classification sequence="1">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A61K-008/11</classification-symbol>
+        <section>A</section>
+        <class>61</class>
+        <subclass>K</subclass>
+        <main-group>8</main-group>
+        <subgroup>11</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="2">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A61K-009/0014</classification-symbol>
+        <section>A</section>
+        <class>61</class>
+        <subclass>K</subclass>
+        <main-group>9</main-group>
+        <subgroup>0014</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="3">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A61K-2800/412</classification-symbol>
+        <section>A</section>
+        <class>61</class>
+        <subclass>K</subclass>
+        <main-group>2800</main-group>
+        <subgroup>412</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="4">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A61K-2800/438</classification-symbol>
+        <section>A</section>
+        <class>61</class>
+        <subclass>K</subclass>
+        <main-group>2800</main-group>
+        <subgroup>438</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="5">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A61Q-017/005</classification-symbol>
+        <section>A</section>
+        <class>61</class>
+        <subclass>Q</subclass>
+        <main-group>17</main-group>
+        <subgroup>005</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+    </patent-classifications>
+    <number-of-claims>11</number-of-claims>
+    <figures>
+      <image-key data-format="questel">AU2007278913</image-key>
+    </figures>
+    <invention-title lang="en" id="title_en">Thermochromic compositions for skin application</invention-title>
+    <references-cited>
+      <citation srep-phase="examiner">
+        <patcit num="1">
+          <text>KIMBERLY CLARK CO, et al</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>2007070118</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>WO200770118</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="2">
+          <text>KIMBERLY CLARK CO, et al</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>2006137955</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>WO2006137955</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="3">
+          <text>COTY BV</text>
+          <document-id>
+            <country>DE</country>
+            <doc-number>10219296</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>DE10219296</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="4">
+          <text>FRIARS GARY, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>6290977</doc-number>
+            <kind>B1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US6290977</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="5">
+          <text>UNILEVER PLC, et al</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>200112150</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>WO200112150</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="1">
+          <text>MACLAREN D. C. &amp; WHITE M. A.: Journal of Materials, 2003, vol. 13, pp. 1695-1700</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <parties>
+      <applicants>
+        <applicant data-format="original" app-type="applicant" sequence="1">
+          <addressbook>
+            <name>Kimberly-Clark Worldwide, Inc.</name>
+          </addressbook>
+        </applicant>
+        <applicant data-format="questel" app-type="applicant" sequence="2">
+          <addressbook lang="en">
+            <orgname>KIMBERLY CLARK WORLDWIDE</orgname>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="original" sequence="1">
+          <addressbook>
+            <name>Brown, Tameka S.</name>
+          </addressbook>
+        </inventor>
+        <inventor data-format="original" sequence="2">
+          <addressbook>
+            <name>Schorr, Phillip</name>
+          </addressbook>
+        </inventor>
+        <inventor data-format="original" sequence="3">
+          <addressbook>
+            <name>Linton, Lisa A.</name>
+          </addressbook>
+        </inventor>
+        <inventor data-format="original" sequence="4">
+          <addressbook>
+            <name>Oslund, Susan G.</name>
+          </addressbook>
+        </inventor>
+        <inventor data-format="original" sequence="5">
+          <addressbook>
+            <name>Arehart, Kelly D.</name>
+          </addressbook>
+        </inventor>
+        <inventor data-format="original" sequence="6">
+          <addressbook>
+            <name>MacDonald, John Gavin</name>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent sequence="1" rep-type="agent">
+          <addressbook>
+            <name>Freehills Patent Attorneys</name>
+            <address>
+              <address-1>SYDNEY, NSW, 2000, AU</address-1>
+              <city>SYDNEY</city>
+              <state>NSW</state>
+              <postcode>2000</postcode>
+              <country>AU</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <pct-or-regional-filing-data>
+      <document-id>
+        <country>WO</country>
+        <doc-number>IB2007052701</doc-number>
+        <date>20070709</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>2007WO-IB52701</doc-number>
+      </document-id>
+    </pct-or-regional-filing-data>
+    <pct-or-regional-publishing-data>
+      <document-id>
+        <country>WO</country>
+        <doc-number>2008012709</doc-number>
+        <kind>A2</kind>
+        <date>20080131</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>WO200812709</doc-number>
+      </document-id>
+    </pct-or-regional-publishing-data>
+    <lgst-data>
+      <lgst-status>GRANTED</lgst-status>
+    </lgst-data>
+  </bibliographic-data>
+  <abstract format="original" lang="en" id="abstr_en">
+    <p id="P-EN-00001" num="00001">
+      <br/>
+      Thermochromatic dyes may be added to compositions to be applied to skin in order to indicate where the composition is applied.
+      <br/>
+      After application to the skin the composition will turn from colored to colorless in a short period of time as its temperature rises in response to the curing reaction and to heat from the skin.
+      <br/>
+      The dyes are microencapsulated in order to avoid migration of the dye into the wound and to remain protected and functional.
+      <br/>
+      The dyes are selected such that they have a transition temperature between room temperature and that of the skin.
+    </p>
+  </abstract>
+  <description format="original" lang="en" id="desc_en">
+    <heading>BACKGROUND OF THE INVENTION</heading>
+    <p num="1">Various compositions are used to prepare the skin prior to surgery. Skin preparations or "preps" are used to remove some level of microbial load on the skin prior to making an incision. Skin sealant materials are used to protect patients from bacterial infections associated with surgical site incisions and insertion of intravenous needles. Skin preps are applied to the skin and allowed to dry to maximize effectiveness for reducing microorganisms. After the skin prep has dried, the sealant may be applied directly to the skin in liquid form. The sealant forms a coherent film with strong adhesion to the skin through various techniques based on the chemistry of the sealant composition.</p>
+    <p num="2">Skin preps currently are predominantly povidone-iodine or chlorhexidine gluconate based formulations and may contain alcohol for fast drying and more effective killing of organisms. Time constraints in the operating room and the lack of an indicator that the prep has dried often result in the skin remaining wet when draping and/or surgery begin, creating the possibility of infection.</p>
+    <p num="3">Skin sealants now use a polymer composition that dries to form a film through evaporation of a solvent, for example. Other skin sealants contain monomeric units that polymerize in situ to from a polymeric film. Cyanoacrylate sealants containing 2-cyanoacrylate monomer are an example of the latter type wherein the monomer polymerizes in the presence of a polar species such as water or protein molecules to form an acrylic film. The resulting film formed serves to immobilize bacterial flora found on the skin and prevents their migration into an incision made during a surgical procedure or skin puncture associated with insertion of an intravenous needle.</p>
+    <p num="4">Skin sealants may contain additives such as plasticizing agents to improve film s flexibility and conformance, viscosity modifiers to aid in application of the liquid composition, free radical and anionic scavengers to stabilize the product prior to use, biocidal agents to kill immobilized bacteria under the film, and the like.</p>
+    <p num="5">Skin sealants have also been formulated with colorants to help the user apply the liquid composition uniformly to the skin, especially when large areas are to be covered. There are several problems, however, with existing colorants; addition of a colorant directly to the liquid skin sealant composition can negatively impact both in situ polymerization rates and the conversion reaction, in the case of cyanoacrylate compositions, or evaporation rates and the coalescence process in the case of polymer solution compositions. In addition, known colorants do not provide a visual cue to indicate curing of the composition has been completed. Lastly, after completion of the surgical procedure, the colorant in the sealant can obscure the wound site, making it difficult to detect redness associated with surgical site infections, brusing or leakage.</p>
+    <p num="6">It is clear that there exists a need for a colorant that is compatible with skin preps and skin sealants, that provides a visual cue to indicate coverage area and/or curing and that does not obscure the wound site.</p>
+    <p num="7">As used herein, except where the context requires otherwise the term "comprise" and variations of the term, such as "comprising", "comprises" and "comprised", are not intended to exclude other additives, components, integers or steps.</p>
+    <p num="8">Reference to any prior art in the specification is not, and should not be taken as, an acknowledgment or any form of suggestion that this prior art forms part of the common general knowledge in Australia or that this prior art could reasonably be expected to be ascertained, understood and regarded as relevant by a person skilled in the art.</p>
+    <heading>SUMMARY OF THE INVENTION</heading>
+    <p num="9">In response to the foregoing difficulties encountered by those of skill in the art, we have discovered that thermochromic dyes may be used to indicate that a skin prep or sealant has been applied. These dyes provide a color change in response to temperature changes, whether associated with curing or simple skin contact, that is visible to the unaided eye and does not negatively affect the skin sealant film formation. In addition, the dyes do not obscure the wound site after surgery since the color change is reversible and can be triggered by application of heating and cooling to create a clear film.</p>
+    <p num="10">Generally, such thermochromic systems include at least two chemical components - a leuco dye and a color developer. The leuco dyes, which are weak organic bases, change from colored to colorless (clear) upon heating and normally function over a 5 to 15 °C temperature range. Changing temperature shifts the equilibrium between the colored or protonated form of the dye, where the proton is generally donated by the color developer (e.g. a weak acid) and the unprotonated or 2 0 colorless form. Examples of leuco dyes include spirolactones such as fluorans or crystal violet lactone, spiropyrans, fulgides, and the like.</p>
+    <p num="11">While the leuco dye itself will respond to temperature shifts with a color change, encapsulating the leuco dye with a color developer and optionally a polar solvent within a particle serves to isolate the components from the surrounding environment and produces a reversible thermochromic system. So, for example, a leuco dye could be combined with a color developer (i.e., a material that will facilitate protonation of the leuco dye) in a suitable solvent to produce the color changing system and then be encapsulated within, for example, a melamine formaldehyde shell.</p>
+    <p num="12">In one aspect of the invention, there is provided a skin sealant composition for application to the skin comprising a thermochromic leuco dye and cyanoacrylate.</p>
+    <p num="13">In a second aspect of the invention, there is provided a temporary pattern composition comprising a temperature sensitive leuco dye that when applied to the skin is colorless but which becomes colored when the skin temperature is lower than normal, and wherein said composition is a skin sealant comprising cyanoacrylate.</p>
+    <heading>DETAILED DESCRIPTION OF THE INVENTION</heading>
+    <p num="14">The present invention involves the use of thermochromic, i.e., temperature responsive, dyes in a composition to be applied to the skin. Generally speaking, the composition is applied to mammalian skin. The dyes are colored when applied at a temperature below their transition temperature and become colorless above their transition temperature. The reaction is reversible.</p>
+    <p num="15">Thermochromic dyes, more particularly, leuco dyes, are made from a colorant and an organic acid component in a phase change solvent. These dyes can be encapsulated within a polymeric microcapsule for ease of use.</p>
+    <p num="16">Leuco dyes can have a reversible change in color with temperature such that the composition is colored when cool and clear or colorless when heated above the transition temperature of the solvent. The leuco dyes, which are weak organic bases, change from colored to colorless (clear) upon heating and normally function over a 5 to 15 °C temperature range. Changing temperature shifts the equilibrium between the colored or protonated form of the dye, where the proton is generally donated by the color developer (e.g. a weak acid) and the unprotonated or colorless form. s Examples of leuco dyes include spirolactones such as fluorans or crystal violet lactone, spiropyrans, fulgides, and the like.</p>
+    <p num="17">Leuco dyes generally complete a color change within a 3 to 4 °C temperature range. If the transition temperature of the leuco dye is reported as 30 °C, for example, the color change would occur between approximately 28 and 32 °C. The wide transition temperature range of Leuco dyes makes them generally unsuitable for the close monitoring of skin temperature, unlike liquid crystal technology, for example, since leuco dyes do not provide a unique temperature corresponding to a specific temperature of the skin surface. Thus the utility of leuco dyes for monitoring skin health and locating "hot spots" indicating possible infection on the skin is virtually nonexistent. The invention herein is therefore essentially free of liquid crystals.</p>
+    <p num="18">Leuco dyes are available in a number of colors such as red, blue, green, yellow, and black and can be tailored by judicious selection of the polymeric precursor chemistries and emulsion polymerization conditions to produce the desired color change.</p>
+    <p num="19">Microencapsulation serves to protect the components of the leuco dye from their surroundings, to ensure proper functioning and to prevent diffusion of the phase change solvent when it is present in liquid form. Microencapsulated leuco dyes are available from Color Change Corporation of Streamwood, Illinois, US, Chromatic Technologies, Inc. of Colorado Springs, Colorado, US, Matsui International Company Inc., Gardena, CA, US and Thermographic Measurement Co. of the United Kingdom. Adjustment of the thickness and thermal conductivity of the</p>
+    <p num="20">2 0 microcapsule shell materials results in changing the responsiveness of the leuco dye to the temperature change. The microcapsules are generally 3 to 5 microns in diameter though they can be made smaller than 1 micron. In the case of skin sealants, the proper selection of functional groups on the outer surface of the microcapsule can allow the capsules to be reacted into the skin sealant film during the curing reaction in order to prevent migration of the capsules into the wound site. The skin prep or sealant to which the leuco dye is added will be used on human or animal skin. Accordingly, the transition temperature must be between standard room temperature (20 — 24 °C) and that of the skin (30 — 35 °C). A transition temperature between these two ranges functions well, e.g. between about 24 and 35 °C or more particularly between about 26 and 33 °C or more particularly 30 and 31 °C.</p>
+    <p num="21">When the prep or sealant dye composition is spread on the skin it is applied at a temperature below the transition temperature of the dye and is initially colored so 1 0 that the person applying the composition can see where it is being applied. As the composition cures, the temperature of the composition will rise due to the heat generated from the curing reaction as well as from conduction from the skin onto which it was applied. If the curing method is by evaporation of solvent then the film will be cooled through evaporative cooling of the solvent. Once the solvent is gone the film will be warmed by the skin causing the color change to occur. After a period of time the sealant temperature will be sufficiently raised such that the sealant becomes substantially clear or colorless. (For purposes of discussion herein, the transition between a colored form of the composition and a substantially "clear" or colorless form of the composition is considered a color change.) This will allow</p>
+    <p num="22">2 0 excellent visibility of the incision or wound site through the sealant. Should the skin temperature drop below the transition temperature, the composition will again become colored since the reaction is reversible.</p>
+    <p num="23">As noted above, color developers are weak acids (i.e., proton donors or electron acceptors). Examples of such components include bisphenol A, octyl p- hydroxybenzoate, methyl p-hydroxybenzoate, 1,2,3-triazoles, 4-hydroxycoumarin derivatives, and the like.</p>
+    <p num="24">A third component for an organic-dye system (such as a leuco dye) may generally be a polar solvent such as an alcohol, ester, ketone, or ether. Examples include lauryl alcohol (i.e., 1-dodecanol), cetyl alcohol (i.e., 1-hexadecanol), methyl stearate and butyl stearate. The solvent provides additional control over the reversibility of the system and may be a fatty alcohol or lipid. A lipid like methyl stearate, for example, which is opaque when a solid but transparent when a liquid, dissolves the leuco dye and color developer at higher temperature, thereby disfavoring protonation of the leuco dye (i.e., favoring the colorless state). At lower temperatures, methyl stearate solidifies and the leuco dye and the color developer are frozen in place, thereby favoring protonation of the dye and formation of the colored state.</p>
+    <p num="25">A second, color one to color two visual change can be obtained by this invention by mixing a thermochromic dye with a permanent (non-temperature sensitive) color dye to obtain a different starting color. Mixing a blue thermochromic dye with a permanent yellow color dye for example, produces a green color that can be used as the starting or initial color. On application of this green colored skin composition to the skin, the composition is warmed by the skin and the blue</p>
+    <p num="26">2 0 thermochromic dye component turns colorless, leaving yellow to be the resultant color. (This composition could be formulated such that the yellow disappeared and left blue as well.) This informs the user that the composition has cured and yet the color is pale enough for the caregiver to fully assess the wound. Virtually any combination of primary colors is possible including purple to red or blue, brown to green or red, turquoise to hot pink and black and virtually any color like, for example, yellow.</p>
+    <p num="27">An effective amount of microencapsulated dye is physically blended with a composition to be applied to skin to produce the thermochromic skin prep or sealant composition. The amount needed is that to produce a blend having between 0.01 and 30 weight percent of the microencapsulated dye, more particularly between 1 and 20 weight percent dye, still more particularly between 2 and 10 weight percent.</p>
+    <heading>EXAMPLES</heading>
+    <p num="28">Example 1: Commercial 2-cyanoacrylate glue</p>
+    <p num="29">Standard Loctite® super glue adhesive (cyanoacrylate based from Henkel Adhesives, Inc., Avon OH) was used as the model adhesive. The thermochromic powders (microencapsulated colorants obtained from Color Change Corp., Streamwood, IL) were added to the adhesive and mixed by hand for 2 minutes. The thermochromic powders had temperature transitions of 29 °C and 31 °C. A series of liquids were prepared having differing concentrations of the thermochromic dyes in the range of: 4-6% wt/wt for black 29 °C dye</p>
+    <p num="30">5-8% wt/wt for blue 31 °C dye</p>
+    <p num="31">5-8% wt/wt for red 31 °C dye</p>
+    <p num="32">The mixtures were then spread onto transparency films by smearing with a flat knife to give a coating with visible color intensity to still be visible when placed over skin. The adhesive was allowed to dry and then the researchers hand was placed onto the adhesive area for one minute. The color of the adhesive was discharged resulting in the adhesive patch to become colorless and transparent.</p>
+    <p num="33">Example 2: 2-cyanoacrylate skin sealant formulations</p>
+    <p num="34">In the following examples InteguSeal® Clear skin sealant (MedLogic Global Limited, Plymouth, Devon, England, UK and Aspire Biotech, Inc. Colorado Springs, CO) was used. It comprises 80% wt/wt n-butyl cyanoacrylate and 20% wt/wt tributyl oacetylcitrate. Samples of this adhesive were used and the colorant added directly to the formulation with mixing.</p>
+    <p num="35">1.) Red to Colorless</p>
+    <p num="36">To 5 ml of the InteguSeal® Clear skin sealant was added 0.1g (2% wt/wt) of red encapsulated thermochromic powder (31 °C, Leuco Dye — powder [LD-P]) from Color Change Corporation, Streamwood IL. The mixture was stirred for 1 minute and then applied to the forearm skin of a volunteer using a cosmetic sponge to provide a thin uniform coating. The skin sealant was observed to be red upon application providing the visual queue to the area being covered. After one minute the sealant had cured and the color was discharged, leaving a colorless area.</p>
+    <p num="37">When an ice bag was applied to the skin sealant area the red color reappeared.</p>
+    <p num="38">2.) Blue to Colorless</p>
+    <p num="39">To 5 ml of the InteguSeal® Clear skin sealant was added 0.15g (3% wt/wt) of the 2 0 blue encapsulated thermochromic powder (33 °C, Leuco Dye — powder, LD-P) from Color Change Corporation, Streamwood IL. The mixture was stirred for 1 minute and then applied to a volunteer's forearm using a cosmetic sponge. The skin sealant was clearly seen as a blue area which turned colorless after 3 minutes. The sealant was tested by rubbing and found to be cured and dry.</p>
+    <p num="40">When the area was cooled by an ice bag the blue color returned after 20 seconds of applying the ice to the surface.</p>
+    <p num="41">3.) Black to Colorless</p>
+    <p num="42">To 5 ml of the InteguSeal® Clear skin sealant was added 0.1g (2% wt/wt) of the black encapsulated thermochromic powder (33 °C, Leuco Dye — powder, LD-P) from Color Change Corporation, Streamwood IL. The mixture was stirred for 1 minute and then applied to a volunteer's forearm using a cosmetic sponge. The skin sealant was clearly seen as a black area which turned colorless after 1 minute. The sealant was tested by rubbing and found to be cured and dry. When the area was cooled by an ice bag the black color returned after 20 seconds of applying the ice to the surface.</p>
+    <p num="43">4.) Purple to Colorless</p>
+    <p num="44">To 5 ml of the InteguSeal® was added 0.1g (2% wt/wt) of the red encapsulated thermochromic powder (31 °C, Leuco Dye — powder, LD-P) and 0.1g (2% wt/wt) of the blue encapsulated thermochromic powder, both from Color Change Corporation, Streamwood IL. The mixture was stirred for 1 minute and then applied to a volunteer's forearm using a cosmetic sponge. The skin sealant was clearly seen as a purple area which turned colorless after 3 minutes. The sealant was tested by rubbing and found to be cured and dry. When the area was cooled by an ice bag the purple color returned after 20 seconds of applying the ice to the surface.</p>
+    <p num="45">5.) Color Changing Temporary Pattern, e.g. Tattoo or logo</p>
+    <p num="46">To illustrate the potential of a hidden temporary pattern like a tattoo, logo or transfer the following example was conducted. A stencil pattern in the shape of the Kimberly-Clark Corporation logo was printed onto a clear plastic sheet and then carefully cut out. This was placed onto the forearm of a volunteer and the black colored skin adhesive from example 3 was applied to the open area of the stencil. A black colored image of the logo was left on the skin. After 2 minutes the sealant was dry and the image color discharged to leave an invisible area. When an ice bag was applied to the area the logo image appeared. It should be understood that this would also appear if the arm were placed into water colder than the skin surface, such as a swimming pool or cold environment. This may find utility as a possible indicator of frostbite. This may also be used as an enjoyable diversion or playtime activity for children.</p>
+    <p num="47">Example 3: Skin prep</p>
+    <p num="48">Blue to Colorless</p>
+    <p num="49">To 10 ml of Chloraprep® One-Step skin preparation (2 wt°/o/v chlorhexidine gluconate in isopropanol 70 °/0v/v) was added 0.1g of the blue encapsulated thermochromic powder (31 °C, Leuco Dye — powder, LD-P) from Color Change Corporation, Streamwood IL. The mixture was stirred for 10 minutes and then applied to a volunteer's hand and rubbed to disperse the liquid over a 5 cm diameter area. The skin prep was clearly seen as a blue area which turned colorless very quickly as the alcohol evaporated.</p>
+    <p num="50">As will be appreciated by those skilled in the art, changes and variations to the invention are considered to be within the ability of those skilled in the art. Examples of such changes are contained in the patents identified above, each of which is incorporated herein by reference in its entirety to the extent it is consistent with this specification. Such changes and variations are intended by the inventors to be within the scope of the invention. It is also to be understood that the scope of the present invention is not to be interpreted as limited to the specific embodiments disclosed herein, but only in accordance with the appended claims when read in light of the foregoing disclosure.</p>
+  </description>
+  <claims format="original" lang="en" id="claim_en">
+    <claim num="1">
+      <claim-text>1. A skin sealant composition for application to the skin comprising a thermochromic leuco dye and cyanoacrylate.</claim-text>
+    </claim>
+    <claim num="2">
+      <claim-text>2. The composition of claim 1 wherein said dye is microencapsulated.</claim-text>
+    </claim>
+    <claim num="3">
+      <claim-text>3. The composition of claim 1 or claim 2, wherein said dye is present in an amount of between about 0.01 and 30 weight percent on a dry basis.</claim-text>
+    </claim>
+    <claim num="4">
+      <claim-text>4. The composition of any one of claims 1 to 3, that changes color in less than minutes after application to skin.</claim-text>
+    </claim>
+    <claim num="5">
+      <claim-text>5. The composition of any one of claims 1 to 4, that changes color in less than minutes after application to skin.</claim-text>
+    </claim>
+    <claim num="6">
+      <claim-text>6. The composition of any one of claims 1 to 5, that changes color in less than 1 minute after application to skin.</claim-text>
+    </claim>
+    <claim num="7">
+      <claim-text>7. The composition of any one of claims 1 to 6, further comprising a nontemperature sensitive dye.</claim-text>
+    </claim>
+    <claim num="8">
+      <claim-text>8. The composition of any one of claims 1 to 7, wherein said composition is a skin preparation comprising chlorhexidine gluconate.</claim-text>
+    </claim>
+    <claim num="9">
+      <claim-text>9. The composition of any one of claims 1 to 8 wherein said composition is a skin preparation comprising povidone-iodine. 10 A temporary pattern composition comprising a temperature sensitive leuco dye that when applied to the skin is colorless but which becomes colored when the skin temperature is lower than normal, and wherein said composition is a skin sealant comprising cyanoacrylate.</claim-text>
+    </claim>
+    <claim num="11">
+      <claim-text>11. The temporary pattern composition of claim 10 which becomes clear when the skin temperature rises to normal.</claim-text>
+    </claim>
+    <claim num="12">
+      <claim-text>12. A composition substantially as herein described with reference to any one of the embodiments.</claim-text>
+    </claim>
+  </claims>
+</questel-patent-document>

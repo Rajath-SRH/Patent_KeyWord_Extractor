@@ -1,0 +1,1610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questel-patent-document lang="en" date-produced="20180716" produced-by="Questel" schema-version="3.23" file="AU2007279166C1_20130314.xml">
+  <bibliographic-data lang="en">
+    <publication-reference publ-desc="Amended after Acceptance/Grant of a standard patent">
+      <document-id>
+        <country>AU</country>
+        <doc-number>2007279166</doc-number>
+        <kind>C1</kind>
+        <date>20130314</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>AU2007279166</doc-number>
+      </document-id>
+    </publication-reference>
+    <original-publication-kind>A1</original-publication-kind>
+    <application-reference family-id="37734283" extended-family-id="50233">
+      <document-id>
+        <country>AU</country>
+        <doc-number>2007279166</doc-number>
+        <kind>A</kind>
+        <date>20070720</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>2007AU-0279166</doc-number>
+      </document-id>
+      <document-id data-format="questel_Uid">
+        <doc-number>51666</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>en</language-of-filing>
+    <language-of-publication>en</language-of-publication>
+    <priority-claims>
+      <priority-claim kind="national" sequence="1">
+        <country>FR</country>
+        <doc-number>0606742</doc-number>
+        <kind>A</kind>
+        <date>20060724</date>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="1">
+        <doc-number>2006FR-0006742</doc-number>
+      </priority-claim>
+      <priority-claim kind="international" sequence="2">
+        <country>WO</country>
+        <doc-number>FR2007001250</doc-number>
+        <kind>A</kind>
+        <date>20070720</date>
+        <priority-linkage-type>W</priority-linkage-type>
+        <priority-active-indicator>N</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="2">
+        <doc-number>2007WO-FR01250</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability>
+      <unexamined-printed-without-grant>
+        <date>20080131</date>
+      </unexamined-printed-without-grant>
+      <publication-of-grant-date>
+        <date>20121101</date>
+      </publication-of-grant-date>
+    </dates-of-public-availability>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>C07D 401/12        20060101AFI20080131BHEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>C</section>
+        <class>07</class>
+        <subclass>D</subclass>
+        <main-group>401</main-group>
+        <subgroup>12</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080131</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>A61K  31/435       20060101ALI20080131BHEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>61</class>
+        <subclass>K</subclass>
+        <main-group>31</main-group>
+        <subgroup>435</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080131</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>A61P   3/00        20060101ALI20080131BHEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>61</class>
+        <subclass>P</subclass>
+        <main-group>3</main-group>
+        <subgroup>00</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080131</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>A61P  11/00        20060101ALI20080131BHEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>61</class>
+        <subclass>P</subclass>
+        <main-group>11</main-group>
+        <subgroup>00</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080131</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="5">
+        <text>A61P  13/00        20060101ALI20080131BHEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>61</class>
+        <subclass>P</subclass>
+        <main-group>13</main-group>
+        <subgroup>00</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080131</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="6">
+        <text>A61P  15/00        20060101ALI20080131BHEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>61</class>
+        <subclass>P</subclass>
+        <main-group>15</main-group>
+        <subgroup>00</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080131</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="7">
+        <text>A61P  17/00        20060101ALI20080131BHEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>61</class>
+        <subclass>P</subclass>
+        <main-group>17</main-group>
+        <subgroup>00</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080131</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="8">
+        <text>A61P  25/00        20060101ALI20080131BHEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>61</class>
+        <subclass>P</subclass>
+        <main-group>25</main-group>
+        <subgroup>00</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080131</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="9">
+        <text>A61P  29/00        20060101ALI20080131BHEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>61</class>
+        <subclass>P</subclass>
+        <main-group>29</main-group>
+        <subgroup>00</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080131</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="10">
+        <text>A61P  31/00        20060101ALI20080131BHEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>61</class>
+        <subclass>P</subclass>
+        <main-group>31</main-group>
+        <subgroup>00</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080131</date>
+        </action-date>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <patent-classifications>
+      <patent-classification sequence="1">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>C07D-401/12</classification-symbol>
+        <section>C</section>
+        <class>07</class>
+        <subclass>D</subclass>
+        <main-group>401</main-group>
+        <subgroup>12</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+    </patent-classifications>
+    <number-of-claims>3</number-of-claims>
+    <figures>
+      <image-key data-format="questel">AU2007279166</image-key>
+    </figures>
+    <invention-title lang="en" id="title_en">N-(aminoheteroaryl)-1H-indole-2-carboxamide derivatives, preparation thereof and therapeutic use thereof</invention-title>
+    <references-cited>
+      <citation srep-phase="examiner">
+        <patcit num="1">
+          <text>SANOFI AVENTIS, et al</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>2006072736</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>WO200672736</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <parties>
+      <applicants>
+        <applicant data-format="original" app-type="applicant" sequence="1">
+          <addressbook>
+            <name>SANOFI AVENTIS</name>
+          </addressbook>
+        </applicant>
+        <applicant data-format="questel" app-type="applicant" sequence="2">
+          <addressbook lang="en">
+            <orgname>SANOFI AVENTIS</orgname>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="original" sequence="1">
+          <addressbook>
+            <name>Evanno, Yannick</name>
+          </addressbook>
+        </inventor>
+        <inventor data-format="original" sequence="2">
+          <addressbook>
+            <name>Dubois, Laurent</name>
+          </addressbook>
+        </inventor>
+        <inventor data-format="original" sequence="3">
+          <addressbook>
+            <name>Malanda, Andre</name>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent sequence="1" rep-type="agent">
+          <addressbook>
+            <name>A J PARK</name>
+            <address>
+              <address-1>Canberra, ACT, 2601, AU</address-1>
+              <city>Canberra</city>
+              <state>ACT</state>
+              <postcode>2601</postcode>
+              <country>AU</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <pct-or-regional-filing-data>
+      <document-id>
+        <country>WO</country>
+        <doc-number>FR2007001250</doc-number>
+        <date>20070720</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>2007WO-FR01250</doc-number>
+      </document-id>
+    </pct-or-regional-filing-data>
+    <pct-or-regional-publishing-data>
+      <document-id>
+        <country>WO</country>
+        <doc-number>2008012418</doc-number>
+        <kind>A1</kind>
+        <date>20080131</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>WO200812418</doc-number>
+      </document-id>
+    </pct-or-regional-publishing-data>
+    <lgst-data>
+      <lgst-status>EXPIRED</lgst-status>
+    </lgst-data>
+  </bibliographic-data>
+  <abstract format="original" lang="en" id="abstr_en">
+    <p id="P-EN-00001" num="00001">
+      <br/>
+      The invention relates to compounds of general formula (I): in which X
+    </p>
+  </abstract>
+  <description format="original" lang="en" id="desc_en">
+    <p num="1">Park</p>
+    <p num="2">
+      <sup>2</sup>
+      /10/2012 12:16:31 p.m. PAGE 56/106 Fax Server AJ Park
+    </p>
+    <p num="3">WO 2008/012418 PCT/FR2007/001250</p>
+    <p num="4">
+      N
+      <sup>--</sup>
+      (AMINOHETEROARYL)-1H-INDOLE-2-CARBOXAMIDE DERIVATIVES, PREPARATION THEREOF AND THERAPEUTIC USE THEREOF
+    </p>
+    <p num="5">A subject matter of the invention is N- (aminoheteroary1)-1H-indole-2-carboxamide derivatives which exhibit an in vitro and in vivo antagonist activity for receptors of TRPV1 (or VR1) type.</p>
+    <p num="6">A first subject matter of the invention is the compounds corresponding to the general formula (I) below.</p>
+    <p num="7">Another subject matter of the invention is processes for the preparation of the compounds of general formula ( I ).</p>
+    <p num="8">Another subject matter of the invention is the use of the compounds of general formula (I) in particular in medicaments or in pharmaceutical compositions.</p>
+    <p num="9">
+      In a first aspect, the present invention provides acompound corresponding to the formula (I): in which: X1 represents a hydrogen or halogen atom or a C1
+      <sup>-</sup>
+      06
+      <sup>-</sup>
+      alkyl, 03-C7-cycloalkyl, C3-07-cycloalkyl-C1-03- alkylene, Cl-C6-fluoroalkyl, cyano, C(0)NR1R2, nitro, C1-C6-thioalkyl,
+      <sup>-</sup>
+      S(0)-C1-C6-alkyl,
+      <sup>-</sup>
+      S(0)2
+      <sup>-</sup>
+      C1-06-alkyl, SO2NR1R2, aryl-Cl-Cc-alkylene, aryl or heteroaryl group, the aryl and heteroaryl optionally being substituted by one or more RECEIVED TIME 2. OCT. 9:14
+    </p>
+    <p num="10">Park 2/10/2012 12:16:31 p.m. PAGE 57/106 Fax Server</p>
+    <p num="11">
+      AJ Park w0 2008/012418 2 PCT/FR2007/001250 substituents chosen from a halogen or a 01
+      <sup>-</sup>
+      C6
+      <sup>-</sup>
+      alkyl, C3-C7-cycloalkyl, C3-C7-cycloalkyl-Ci-C3-alkylene, C1-C6-fluoroalkyl, C1-C6-alkoxyl, fluoroalkoxyl, nitro or cyano group; represents a hydrogen or halogen atom or a C1
+      <sup>-</sup>
+      06
+      <sup>-</sup>
+      alkyl, 03-07-cycloalkyl, C3-07-cycloalkyl-C1-C3- alkylene, Cl-CE-fluoroalkyl, C1-C6-alkoxyl, C3-C7-cycloalkyl-C1-06-alkylene-0-, Ci-C6-fluoroalkoxyl, cyano, C (0) NR1R2, C1-C6-thioalkyl, -S (0) -C1-C6-alkyl,
+      <sup>-</sup>
+      S(0)2-Ci-C6-alkyl, SO2NR1R2, aryl
+      <sup>-</sup>
+      C1
+      <sup>-</sup>
+      C6
+      <sup>-</sup>
+      alkylene, aryl or heteroaryl, the aryl and heteroaryl optionally being substituted by one or more substituents chosen from a halogen or a 01-C6-alkyl, C3-C7-cycloalkyl, C3-C7-cycloalkyl-Cl-C3- alkylene, Cl-Cc-fluoroalkyl, Cl-CG-alkoxyl, C1-C6- fluoroalkoxyl, nitro or cyano group; X3 and X4 represent, independently of one another, a hydrogen or halogen atom or a C1-C6-alkyl, C3-C7-cycloalkyl, C3
+      <sup>-</sup>
+      C7-cycloalkyl-C1-C3-alkylene, C1
+      <sup>-</sup>
+      C6
+      <sup>-</sup>
+      fluoroalkyl, C1-CG-a1koxyl, C3-C7-cycloalkyl-C1-C6- alkylene-0-, C1-C6-fluoroalkoxyl, cyano, C (0) NR1R2, nitro, NR1R2, Ci-C6-thioalkyl, -S(0)-Cl-C6-alkyl,
+      <sup>-</sup>
+      S(0)2-C1-CG-alkyl, SO2NR1R2, NR3COR4, NR3SO2R5, arylC1-06-alkylene, aryl or heteroaryl group, the aryl and heteroaryl optionally being substituted by one or more substituents chosen from a halogen or a C1 C6 alkyl, C3-C7-cycloalkyl, C3-C7-cycloalkyl-C1-C3-alkylene, C1-C6-fluoroalkyl, C1-C6-alkoxyl, C1-C6-fluoroalkoxyl, nitro or cyano group; Z2, Z3 and Z4 represent, independently of one another, a nitrogen atom or a C(R6) group, at least one corresponding to a nitrogen atom and at least one corresponding to a C(R6) group; the nitrogen atom or one of the nitrogen atoms present in the ring, defined as nitrogen of position 1, optionally being substituted by R7 when the carbon atom in the 2 or 4 position with respect to this RECEIVED TIME 2, OCT, 9,14
+    </p>
+    <p num="12">Park</p>
+    <p num="13">2/10/2012 12:16:31 p.m. PAGE 58/106 Fax Server AJ Park</p>
+    <p num="14">
+      WO 2008/012418 3 PCT/FR2007/001250 reference nitrogen is substituted by an oxo or thio group; n is equal to 0, 1, 2 or 3; Y represents an aryl or a heteroaryl optionally substituted by one or more groups chosen from a halogen atom or a C1-C6-alkyl, C3-07-cycloalkyl, C3-C7-cycloalkyl-C1-C3-alkylene, C1-C6-fluoroalkyl, hydroxyl, C1-C6-alkoxyl, C3-C7-cycloalkyl-C1-C6-C1-CG-fluoroalkoxyl, cyano, C(0)NR1R2r nitro, NR1R2, C1-06-thioalkyl, thiol,
+      <sup>-</sup>
+      S(0)
+      <sup>-</sup>
+      C1
+      <sup>-</sup>
+      06
+      <sup>-</sup>
+      alkyl, -S(0)2-C1- SO2NR1R2, C6-alkyl, NR3COR4, NR3S02R5, aryl-C1-C6-alkylene or aryl group, the aryl and the aryl-C1-06-alkylene optionally being substituted by one or more substituents chosen from a halogen or a C1-C6-alkyl, C3-C7-cycloalkyl, c3-U7cycloalky1-C1-u3-alkylene, u1-U6-r1uoroalkyl, C1-C6-alkoxyl, C1-C6-fluoroalkoxyl, nitro or cyano group; Ra and Rb represent, independently of one another, a hydrogen atom or a Cl-CE-alkyl, C3-C7-cycloalkyl, C3-07-cycloalkyl-C1-C3-alkylene, C1-C6-fluoroalkyl, hydroxyl, Ci-C6-alkoxyl, C3-C7-cycloalkyl-C1-C6- alkylene-O-, Ci-C6-fluoroalkoxyl, aryl or heteroaryl group, it being possible for Ra and Rb optionally to be substituted by one or more Rc groups which are identical to or different from one another; Rc represents a halogen atom or a. C1-C6-alkyl, C3-07-cycloalkyl, C3-C7-cycloalkyl-C1-C3-alkylene, C1
+      <sup>-</sup>
+      C6
+      <sup>-</sup>
+      fluoroalkyl, C1-C6-alkoxyl, C3-C7-cycloalkyl-C1-05-alkylene-0-, Ci-C6-fluoroalkoxyl, C1 C6 thioalkyl, -S(0)-Ci-C6-alkyl, -S (0) 2-C1-C6-alkyl, cyano, C (0) NR1R2, NR1R2, S02NR1R2, NR3COR4, NR3S02R5, OC (0) NR1R2, NR3COOR4, NR3CONR1R2, hydroxyl, thiol, oxo, thio, aryl-C,-Cg-alkylene, aryl or heteroaryl group, the aryl and the heteroaryl optionally being substituted by one or more substituents chosen from a halogen or a C1-C6--alkyl, C3-07-RECEIVED TIME 2, OCT, 9:14
+    </p>
+    <p num="15">Park</p>
+    <p num="16">2/10/2012 12:16:31 p.m. PAGE 59/106 Fax Server AJ Park</p>
+    <p num="17">
+      WO 2008/012418 4 PCT/FR2007/001250 cycloalkyl, 03-C7-cycloalkyl-C1-C3-alkylene, Ci
+      <sup>-</sup>
+      C6
+      <sup>-</sup>
+      fluoroalkyl, C1-C6-alkoxyl, C1-C6-fluoroalkoxyl, nitro or cyano group; Rl'and R2 represent, independently of one another, a hydrogen atom or a C1-06-alkyl, C3-C7-cycloalkyl. C3-C7-cycloalkyl-C1-C3-alkylene, aryl-C1-C6-alkylene or aryl group; or R1 and R2 together form, with the nitrogen atom which carries them, an azetidinyl, pyrrolidinyl, piperidinyl, azepinyl, morpholinyl, thiomorpholinyl, piperazinyl or homopiperazinyl group, this group optionally being substituted by a C1-C6-alkyl, C3-C7-cycloalkyl, 03-C7-cycloalkyl- C1-03-alkylene, aryl-01-C6-alkylene, aryl or heteroaryl group; R3 and RA represent, independently of one another, a hydrogen atom or a C1-C6-alkyl, C3-C7-cycloalkyl, 03-07-cycloalkyl-01-C3-alkylene, aryl-C1-06-alkylene, aryl or heteroaryl group; R5 represents a Cl-C6-alkyl, C3-C7-cycloalkyl, 03
+      <sup>-</sup>
+      07
+      <sup>-</sup>
+      cycloalkyl-C.1-C.3-alkylene, aryl-c1-06-alkylene, aryl or neteroaryl group; R6 represents a hydrogen or halogen atom or a Ci
+      <sup>-</sup>
+      C6
+      <sup>-</sup>
+      alkyl, C3-C7-cycloalkyl, C3-C7-cycloalkyl-C1-C3-alkylene, Cl-CE-fluoroalkyl, C1-C6-alkoXyl, C3
+      <sup>-</sup>
+      C7
+      <sup>-</sup>
+      cycloalkyl-01-C6-alkylene-0-, C1-C6-fluoroalkoxyl, Ci
+      <sup>-</sup>
+      C6
+      <sup>-</sup>
+      thioalkyl, -S(0)-C1-06-alkyl, -S (0) 2
+      <sup>-</sup>
+      Ci
+      <sup>-</sup>
+      C6
+      <sup>-</sup>
+      alkyl, aryl, aryl-Cl-C6-alkylene, heteroaryl, hydroxyl, thiol, oxo, or thio group; R7 represents a hydrogen atom or a C1-Cc-alkyl, C3-07-cycloalkyl, C3-C7-cycloalkyl-C1-C3-alkylene, C1
+      <sup>-</sup>
+      C6-fluoroalkyl, C1-06-alkoxyl, C3-C7-cycloalkyl-C1-C6-alkylene-0-, Ci-C6-fluoroalkoxyl, aryl, aryl
+      <sup>-</sup>
+      C1
+      <sup>-</sup>
+      C6
+      <sup>-</sup>
+      alkylene or heteroaryl group; it being possible for the nitrogen atom or atoms of the compound of general formula (I) to be in the oxidized form; in the form of the base or of an addition salt with an acid, and in the hydrate or solvate form. RECEIVED TIME 2. OCT. 9:14
+    </p>
+    <p num="18">
+      Park
+      <sup>2</sup>
+      /10/2012 12:16:31 p.m. PAGE 60/106 Fax Server
+    </p>
+    <p num="19">AJ Park WO 2008/012418 5 PCT/FR2007/001250</p>
+    <p num="20">In a second aspect, the invention provides a process for the preparation of a compound of formula (I) of the invention, in which a compound of general formula (IV) in which X1, X2, X3, X4, Y and n are as defined in the general formula (I) above and B represents a chlorine atom, is reacted with an amine of general formula (V)</p>
+    <p num="21">Z2/ 1 NCH</p>
+    <p num="22">RaRbN" (v) in which Z1, Z2, Z3, Z4, Ra and Rb are as defined in the general formula (I) above, in a solvent.</p>
+    <p num="23">In a third aspect, the invention provides a process for the preparation of a compound of formula (I) of the invention, in which a compound of general formula (IV) (Iv) RECEIVED TIME 2. OCT. 9:14</p>
+    <p num="24">
+      Park
+      <sup>2</sup>
+      /10/2012 12:16:31 p.m. PAGE 61/106 Fax Server
+    </p>
+    <p num="25">AJ Park</p>
+    <p num="26">
+      WO 2008/012418 6 PCT/FR2007/001250 in which XI, X2, X3, X4, Y and n are as defined in the general formula (I) above and B represents a hydroxyl group, is reacted with an amine of general formula (V)
+      <sup>z</sup>
+      1 1
+    </p>
+    <p num="27">RaRbN (4°"5 (V) in which Z1, Z2, Z3, Z4, Ra and Rb are as defined in the general formula (I) above, in the presence of a coupling agent and of a base in a solvent.</p>
+    <p num="28">In a fourth aspect, the invention provides a compound of formula (Va):</p>
+    <p num="29">
+      <table>
+        <tr>
+          <td colspan="1" rowspan="2">,C H3 N H</td>
+        </tr>
+      </table>
+    </p>
+    <p num="30">In a fifth aspect, the invention provides a compound of formula (Vb): (Vb)</p>
+    <p num="31">In a sixth aspect, the invention provides a medicament, comprising a compound of formula (I) of the invention or a pharmaceutically. acceptable salt or also a hydrate or a solvate of the compound of formula (I). RECEIVED TIME 2, OCT. 9:14</p>
+    <p num="32">Park 2/10/2012 12:16:31 p.m. PAGE 62/106 Fax Server</p>
+    <p num="33">AJ Park WO 2008/012418 7 PCT/FR2007/001250</p>
+    <p num="34">In a seventh aspect, the invention provides a pharmaceutical composition, comprising a compound of formula (I) of the invention or a pharmaceutically acceptable salt, a hydrate or a solvate of this compound, and at least one pharmaceutically acceptable excipient.</p>
+    <p num="35">In a eigth aspect, the invention provides a method of preventing or treating pathologies in which receptors of TRPV1 type are involved, pain, inflammation, urological disorders, gynecological disorders, gastrointestinal disorders, respiratory disorders, psoriasis, pruritus, irritation of the skin, eyes or mucous membranes, herpes or shingles or treating depression or diabetes, the method comprising administering to a patient an effective dose of a compound of formula (I) of the invention, or one of its pharmaceutically acceptable salts or hydrates or solvates.</p>
+    <p num="36">In a ninth aspect, the invention relates to the use of of formula (I) of the invention for the of a medicament to prevent or to treat a compound preparation pathologies in which receptors of TRPV1 involved, pain, inflammation, urological gynecological disorders, gastrointestinal respiratory disorders, psoriasis, pruritus, of the skin, eyes or mucous membranes, shingles or to treat depression or diabetes. type are disorders, disorders, irritation herpes or Certain statements that appear below are broader than what appears in the statements of the invention above. These statements are provided in the interests of providing the reader with a better understanding of the invention and its practice. The reader is directed to the accompanying claim set which defines the scope of the invention. RECEIVED TIME 2. OCT. 9:14</p>
+    <p num="37">Park</p>
+    <p num="38">2/10/2012 12:16:31 p.m. PAGE 63/106 Fax Server AJ Park</p>
+    <p num="39">WO 2008/012418 8 PCT/FR2007/001250</p>
+    <p num="40">In the compounds of general formula (I), the nitrogen atom or atoms can be in the oxidized (N-oxide) form.</p>
+    <p num="41">Among the compounds of general formula (I) which are subject matters of the invention, a first subgroup of compounds is composed of the compounds for which X1, X2, X3 and X4 are chosen, independently of one another, from a hydrogen or halogen atom or a C1-C6-alkyl or C1-C6-fluoroalkyl group.</p>
+    <p num="42">Among the compounds of general formula (I) which are subject matters of the invention, a second subgroup of compounds is composed of the compounds for which Xlf X2, X3 and X4 are chosen, independently of one another, from a hydrogen or fluorine atom or a trifluoromethyl group.</p>
+    <p num="43">Among the compounds of general formula (I) which are subject matters of the invention, a third subgroup of compounds is composed of the compounds for which Xi and X4 represent a hydrogen atom and X2 and X3 are chosen, independently of one another, from a hydrogen or halogen atom or a Cl-CG-fluoroalkyl group.</p>
+    <p num="44">Among the compounds of general formula (I) which are subject matters of the invention, a fourth subgroup of compounds is composed of the compounds for which Xi and X4 represent a hydrogen atom and X2 and X3 are chosen, independently of one another, from a hydrogen or fluorine atom or a trifluoromethyl group.</p>
+    <p num="45">Among the compounds of general formula (I) which are subject matters of the invention, a fifth subgroup of compounds is composed of the compounds for which Z1, Z2, Z3 and Z4 represent, independently of one another, a nitrogen atom or a C(R6) group, at least two of them corresponding to a C(R6) group; the nitrogen atom or one of the nitrogen atoms present in the ring, defined as nitrogen of position 1, optionally being substituted RECEIVED TIME 2. OCT. 9:14</p>
+    <p num="46">Park</p>
+    <p num="47">2/10/2012 12:16:31 p.m. PAGE 64/106 Fax Server AJ Park WO 2008/012418 9 PCT/FR2007/001250 by R7 when the carbon atom in the 2 or 4 position with respect to this reference nitrogen is substituted by an oxo or thio group; R6 and R7 being as defined in the general formula (I).</p>
+    <p num="48">Among the compounds of general formula (I) which are subject matters of the invention, a sixth subgroup of compounds is composed of the compounds for which Zi and Z2 represent a C(R6) group and Z3 and Z4 represent a nitrogen atom, R6 being as defined in the general formula (I).</p>
+    <p num="49">Among the compounds of general formula (I) which are subject matters of the invention, a seventh subgroup of compounds is composed of the compounds for which Zi and Z2 represent a C(R6) group and Z3 and Z4 represent a nitrogen atom, R6 corresponding to a hydrogen atom.</p>
+    <p num="50">Among the compounds of general formula (I) which are subject matters of the invention, an eighth subgroup of compounds is composed of the compounds for which Z1, Z2, Z3 and Z4 represent, independently of one another, a nitrogen atom or a C(R6) group, one corresponding to a nitrogen atom and the others corresponding to a C(R6) group; the nitrogen atom present in the ring, defined as nitrogen of position 1, optionally being substituted by R7 when the carbon atom in the 2 or 4 position with respect to this reference nitrogen is substituted by an oxo or thio group; R6 and R7 being as defined in the general formula (I).</p>
+    <p num="51">Among the compounds of general formula (I) which are subject matters of the invention, a ninth subgroup of compounds is composed of the compounds for which Z1 and Z2 represent a C(R6) group and Z3 and Z4 represent, independently of one another, a nitrogen atom or a C(R6) group, one of Z3 and Z4 corresponding to a C(R6) RECEIVED TIME 2. OCT, 9:14</p>
+    <p num="52">Park 2/10/2012 12:16:31 p.m. PAGE 65/106 Fax Server</p>
+    <p num="53">AJ Park WO 2008/012418 10 PCT/FR2007/001250 group; R6 representing a hydrogen or halogen atom or a C1-06-alkyl or 01-06-fluoroalkyl group.</p>
+    <p num="54">Among the compounds of general formula (I) which are subject matters of the invention, a tenth subgroup of compounds is composed of the compounds for which Z1 and Z2 represent a C(R6) group and. Z3 and Z4 represent, independently of one another, a nitrogen atom or a C(R6) group, one of Z3 and Z4 corresponding to a C(RO group; R6 representing a hydrogen or fluorine atom or a methyl or trifluoromethyl group.</p>
+    <p num="55">Among the compounds of general formula (I) which are subject matters of the invention, an eleventh subgroup of compounds is composed of the compounds for which Z4 represents a nitrogen atom and Z1, Z2 and Z3 represent, independently of one another, a C(R6) group; the nitrogen atom present in the ring, defined as nitrogen of position 1, optionally being substituted by R7 when the carbon atom in the 2 or 4 position with respect to this reference nitrogen is substituted by an oxo or thio group; R6 and R7 being as defined in the general formula (I).</p>
+    <p num="56">Among the compounds of general formula (I) which are subject matters of the invention, a twelfth subgroup of compounds is composed of the compounds for which Z4 represents a nitrogen atom and Z1, Z2 and Z3 represent, independently of one another, a C(RO group, R6 representing a hydrogen or halogen atom or a 01-06-alkyl or 01-06-fluoroalkyl group.</p>
+    <p num="57">Among the compounds of general formula (I) which are subject matters of the invention, a thirteenth subgroup of compounds is composed of the compounds for which Z4 represents a nitrogen atom and Z1, Z2 and Z3 represent, independently of one another, a C(R6) group, R6 RECEIVED TIME 2, OCT. 9:14</p>
+    <p num="58">Park</p>
+    <p num="59">2/10/2012 12:16:31 p.m. PAGE 66/106 Fax Server AJ Park</p>
+    <p num="60">WO 2008/012418 11 PCT/FR2007/001250 representing a hydrogen or fluorine atom or a methyl or trifluoromethyl group.</p>
+    <p num="61">Among the compounds of general formula (I) which are subject matters of the invention, a fourteenth subgroup of compounds is composed of the compounds for which n is equal to 1.</p>
+    <p num="62">Among the compounds of general formula (I) which are subject matters of the invention, a fifteenth subgroup of compounds is composed of the compounds for which Y represents an aryl or heteroaryl optionally substituted by one or more halogen atoms.</p>
+    <p num="63">Among the compounds of general formula (I) which are subject matters of the invention, a sixteenth subgroup of compounds is composed of the compounds for which Y represents a phenyl or a pyridinyl, the phenyl optionally being substituted by a halogen 'atom.</p>
+    <p num="64">Among the compounds of general formula (I) which are subject matters of the invention, a seventeenth subgroup of compounds is composed of the compounds for which Ra and Rb represent, independently of one another, a hydrogen atom or a C1-06-alkyl, C3-C7-cycloalkyi, 03-C7-cycloalkyl-C1-C3-alkylene, Ci-C6-fluoroalkyl, hydroxyl, Ci-C6-alkoxyl or C3-C7-cycloalkyl-Cl-C6-alkylene-0- group, it being possible for Ra and Rb to be optionally substituted by one or more Rc groups which are identical to or different from one another; Rc represents a C1-C6-alkoxyl, NH2 or hydroxyl group.</p>
+    <p num="65">Among the compounds of general formula (I) which are subject matters of the invention, an eighteenth subgroup of compounds is composed of the compounds for which Ra and Rb represent, independently of one another, a hydrogen atom or a Cl-C6-alkyl or C3-C7-RECEIVED TIME 2. OCT. 9:14</p>
+    <p num="66">Park</p>
+    <p num="67">
+      <sup>2</sup>
+      /10/2012 12:16:31 p.m. PAGE 67/106 Fax Server AJ Park WO 2008/012418 12 PCT/FR2007/001250 cycloalkyl group, it being possible for Ra and Rb to be optionally substituted by one or more Rc groups which are identical to or different from one another; Rc represents an oxo group.
+    </p>
+    <p num="68">Among the compounds of general formula (I) which are subject matters of the invention, a nineteenth subgroup of compounds is composed of the compounds for which Ra and Rb represent, independently of one another, a hydrogen atom or a methyl, propyl or cyclopropyl group, it being possible for Ra and Rb to be optionally substituted by an Rc, group where Rc represents an oxo group.</p>
+    <p num="69">Among the compounds of general formula (I) which are subject matters of the invention, a twentieth subgroup of compounds is composed of the compounds for which</p>
+    <p num="70">X1, X2, X3, X4, Zi, Z2, Z3, Z4, n, Y, Ra and Rb are as defined in the general formula (I), provided that, when Y represents an unsubstituted phenyl, then n is equal to 2 or 3.</p>
+    <p num="71">Among the compounds of general formula (I) which are subject matters of the invention, a twenty-first subgroup of compounds is composed of the compounds for which XI, X2, X3, X4, Z1, Z2, Z3, Z4, n, Y, Ra and Rb are as defined in the above subgroups.</p>
+    <p num="72">Among the compounds of general formula (I) which are subject matters of the invention, a twenty-second subgroup of compounds is composed of the compounds for which</p>
+    <p num="73">
+      X1, X2, X3 and X4 are chosen, independently of one another, from a hydrogen or halogen atom or a Ci-C6-alkyl or Cl
+      <sup>-</sup>
+      CG-fluoroalkyl group; and/or
+    </p>
+    <p num="74">Z1, Z2, Z3 and Z4 represent, independently of one another, a nitrogen atom or a C(R6) group, one corresponding to a nitrogen atom and the others RECEIVED TIME 2, OCT, 9:14</p>
+    <p num="75">Park</p>
+    <p num="76">2/10/2012 12:16:31 p.m. PAGE 68/106 Fax Server AJ Park WO 2008/012418 13 PCT/FR2007/001250 corresponding to a C(R6) group; the nitrogen atom present in the ring, defined as nitrogen of position 1, optionally being substituted by R7 when the carbon atom in the 2 or 4 position with respect to this reference nitrogen is substituted by an oxo or thio group; R6 and R7 being as defined in the general formula (I); and/or n is equal to 1; and/or</p>
+    <p num="77">
+      Ra and Rb represent, independently of one another, a hydrogen atom or a 01
+      <sup>-</sup>
+      C6-alkyl, C3-07-cycloalkyl, C3-07-cycloalky1-0103-alkylene, 01-06-fluoroalkyl, hydroxyl, 01-06-alkoxyl or 03-07-cycloalky1-01-06-alkylene-0-group, it being possible for Ra and Rb to be optionally substituted by one or more Rc groups which are identical to or different from one another; Rc represents a 01-06-alkoxyl, NH2 or hydroxyl group.
+    </p>
+    <p num="78">Mention may be made, among the compounds of general formula (I) which are subject matters of the invention, of the following compounds: 1. N-[6-(methylamino)pyridin3-y1]-5-fluoro-1-(3 fluorobenzy1)-1H-indole-2-carboxamide</p>
+    <p num="79">2. N-[6-(dimethylamino)pyridin-3-y1]-5-fluoro-1-(3-fluorobenzy1)-1H-indole-2-carboxamide hydrochloride (1:1)</p>
+    <p num="80">3. N-[6-(methylamino)pyridin-3-y1]-5-fluoro-1-benzyl-1H-indole-2-carboxamide</p>
+    <p num="81">4. N-[6-(dimethylamino)pyridin-3-y1]-5-fluoro-1-benzy1-1H-indole-2-carboxamide</p>
+    <p num="82">5. N-[6-(dimethylamino)pyridin-3-y1]-6-fluoro-1-(3-fluorobenzy1)-1H-indole-2-carboxamide</p>
+    <p num="83">6. N-[5-(dimethylamino)pyridin-2-y1]-5-fluoro-1-(3-fluorobenzy1)-111-indole-2-carboxamide</p>
+    <p num="84">7. N-[6-(methylamino)pyridin-3-y1]-5-fluoro-1-(2-fluorobenzy1)-1H-indole-2-carboxamide</p>
+    <p num="85">
+      8. N-[6-(1-propylamino)pyridin-3-y1]-5-fluoro-1-(3-fluorobenzy1)
+      <sup>-</sup>
+      1H-indole-2-carboxamide hydrochloride (1:1) RECEIVED TIME 2. OCT. 9:14
+    </p>
+    <p num="86">Park</p>
+    <p num="87">2/10/2012 12:16:31 p.m. PAGE 69/106 Fax Server AJ Park</p>
+    <p num="88">WO 2008/012418 14 PCT/FR2007/001250</p>
+    <p num="89">9. N-[6-(cyclopropylamino)pyridin-3-y1]-5-fluoro-1-(3-fluorobenzy1)-1H-indole-2-carboxamide hydrochloride (1:1)</p>
+    <p num="90">10. N-[6-(dimethylamino)pyridin-3-y1]-5-fluoro-1-(4- fluorobenzy1)-1H-indole-2-carboxamide and its hydrochloride salt (1:1)</p>
+    <p num="91">11. N-[6-(acetylamino)pyridin-3-y1]-5-fluoro-1-(3-fluorobenzy1)-1H-indole-2-carbbxamide</p>
+    <p num="92">12. N-[6-(dimethylamino)pyridin-3-y1]-5- trifluoromethy1-1-(3-fluorobenzy1)-1H-indole-2-carboxamide</p>
+    <p num="93">13. N-[6-dimethylamino-4-methylpyridin-3-y1]-5-fluoro-1-(3-fluorobenzy1)-1H-indole-2-carboxamide</p>
+    <p num="94">
+      14. N-[6-(acetylamino)pyridin-3-y1]-6-trifluoromethyl-1
+      <sup>-</sup>
+      (3
+      <sup>-</sup>
+      fluorobenzy1)-1H-indole-2-carboxamide
+    </p>
+    <p num="95">
+      15. N-[6-methylamino-4-methylpyridin-3-y1]-5-fluoro-1-(3
+      <sup>-</sup>
+      fluorobenzy1)-1H-indole-2-carboxamide
+    </p>
+    <p num="96">
+      16. N-[6-dimethylamino-5-methylpyridin-3-y1]-5-fluoro-1
+      <sup>-</sup>
+      (3
+      <sup>-</sup>
+      fluorobenzy1)-1H-indole-2-carboxamide
+    </p>
+    <p num="97">
+      17. N-[6-dimethylamino-4-methylpyridin-3-y1]-5-fluoro-1
+      <sup>-</sup>
+      (pyridin
+      <sup>-</sup>
+      4-ylmethyl)-1H-indole-2-carboxamide
+    </p>
+    <p num="98">
+      18. N-[6
+      <sup>-</sup>
+      methylamino-4-methylpyridin-3-y1]-5-fluoro-1
+    </p>
+    <p num="99">
+      19. N-[6-dimethylamino-5-methylpyridin-3-y1]-5-fluoro-1
+      <sup>-</sup>
+      (pyridin
+      <sup>-</sup>
+      4
+      <sup>-</sup>
+      ylmethyl)-1H-indole-2-carboxamide
+    </p>
+    <p num="100">20. N-[6-dimethylamino-5-(trifluoromethyl)pyridin-3-y1]-5-fluoro-1-(3-fluorobenzy1)-1H-indole-2-carboxamide</p>
+    <p num="101">
+      21. N-[6-methylamino-2-methylpyridin-3-y1]-5-fluoro-1-(3
+      <sup>-</sup>
+      fluorobenzy1)-1H-indole-2-carboxamide
+    </p>
+    <p num="102">
+      22. N
+      <sup>-</sup>
+      [5
+      <sup>-</sup>
+      (dimethylamino)pyridazin-2-y1]-5-fluoro-1-(3- fluorobenzy1)-111-indole-2-carboxamide and its hydrochloride salt (1:1)
+    </p>
+    <p num="103">23. N-[5-(dimethylamino)pyridazin-2-y1]-5-trifluoromethy1-1-(3-fluorobenzy1)-1H-indole-2-carboxamide RECEIVED TIME 2. OCT. 9:14</p>
+    <p num="104">Park</p>
+    <p num="105">2/10/2012 12:16:31 p.m. PAGE 70/106 Fax Server AJ Park</p>
+    <p num="106">WO 2008/012418 15 PCT/FR2007/001250</p>
+    <p num="107">24. N-[5-(dimethylamino)pyridazin-2-y1]-6-trifluoromethy1-1-(3-fluorobenzy1)-1H-indole-2-carboxamide</p>
+    <p num="108">25. N-[5-(dimethylamino)pyridazin-2-y1]-5-trifluoromethy1-1-(pyridin-4-ylmethyl)-1H-indole-2-carboxamide hydrochloride (1:1)</p>
+    <p num="109">26. N-[6-(methylamino)pyridin-3-y1]-5-fluoro-1-(pyridin-4-ylmethyl)-1H-indole-2-carboxamide</p>
+    <p num="110">27. N-[6-dimethylamino-5-fluoropyridin-3-y1]-5-fluoro-1-(3-fluorobenzy1)-1H-indole-2-carboxamide</p>
+    <p num="111">28. N-[6-dimethylamino-4-(trifluoromethyl)pyridin-3-y1]-5-fluoro-1-(3-fluorobenzy1)-111-indole-2-carboxamide</p>
+    <p num="112">In the context of the present invention: Ct-CZ where t and z can take the values from 1 to 7 is understood to mean a carbon chain which can have from t to z carbon atoms, for example 01-C3 is understood to mean a carbon chain which can have from 1 to 3 carbon atoms; an alkyl is understood to mean a saturated, linear or branched, aliphatic group. Mention may be made, by way of examples, of the methyl, ethyl, propyl, isopropyl, butyl, isobutyl, tert-butyl or pentyl groups, and the like; an alkylene is understood to mean a saturated, linear or branched, divalent alkyl group; for example, a C1-3-alkylene group represents a linear or branched divalent carbon chain of 1 to 3 carbon atoms, for example a methylene, ethylene, 1-methylethylene or propylene; a cycloalkyl is understood to mean a cyclic carbon group. Mention may be made, by way of examples, of the cyclopropyl, cyclobutyl, cyclopentyl or cyclohexyl groups, and the like; a fluoroalkyl is understood to mean an alkyl group, one or more hydrogen atoms of which have been substituted by a fluorine atom; RECEIVED TIME 2. OCT. 9:14</p>
+    <p num="113">Park 2/10/2012 12:16:31 p.m. PAGE 71/106 Fax Server</p>
+    <p num="114">AJ Park</p>
+    <p num="115">WO 2008/012418 16 PCT/FR2007/001250 an alkoxyl is understood to mean an -0-alkyl radical where the alkyl group is as defined above; a fluoroalkoxyl is understood to mean an alkoxyl group, one or more hydrogen atoms of which have been substituted by a fluorine atom; - a thioalkyl is understood to mean an -S-alkyl radical where the alkyl group is as defined above; - an aryl is understood to mean an aromatic cyclic group comprising between 6 and 10 carbon atoms. Mention may be made, as examples of aryl groups, of the phenyl or naphthyl groups; a heteroaryl is understood to mean a 5- to 10-membered aromatic cyclic group comprising from 1 to 4 heteroatoms chosen from 0, S or N. Mention may be made, by way of examples, of the imidazolyl, thiazolyl, oxazolyl, furanyl, thiophenyl, oxadiazolyl, tetrazolyl, pyridinyl, pyrazinyl, pyrimidinyl, pyridazinyl, indolyl, benzofuranyl, benzothiophenyl, benzoxazolyl, benzimidazolyl, indazolyl, benzothiazolyl, isobenzothiazolyl, benzotriazolyl, quinolinyl, isoquinolinyl or quinoxalinyl groups; a halogen atom is understood to mean a fluorine, chlorine, a bromine or an iodine; - "oxo" means "=0"; "thio" means "=S" - "comprising" as used in this specification and claims means 'consisting at least in part of'. When interpreting statements in this specification and claims which includes the 'comprising', other features besides the features prefaced by this term in each statement can also be present. Related terms such as 'comprise' and 'comprised' are to be interpreted in similar manner..</p>
+    <p num="116">The compounds of formula (I) can comprise one or more asymmetric carbon atoms. They can thus exist in the form of enantiomers or of diastereoisomers. These RECEIVED TIME 2. OCT, 9:14</p>
+    <p num="117">Park</p>
+    <p num="118">2/10/2012 12:16:31 p.m. PAGE 72/106 Fax Server AJ Park</p>
+    <p num="119">WO 2008/012418 17 PCT/FR2007/001250 enantiomers or diastereoisomers, and their mixtures, including racemic mixtures, come within the invention.</p>
+    <p num="120">The compounds of formula (I) can exist in the form of bases or of addition salts with acids. Such addition salts come within the invention.</p>
+    <p num="121">These salts are advantageously prepared with pharmaceutically acceptable acids but the salts of other acids, for example of use in the purification or the isolation of the compounds of formula (I), also come within the invention.</p>
+    <p num="122">The compounds of general formula (I) can occur in the form of hydrates or of solvates, namely in the form of combinations or associations with one or more molecules of water or with a solvent. Such hydrates and solvates also come within the invention.</p>
+    <p num="123">
+      In what follows, the term "leaving group" is understood to mean a group which can be easily split from a molecule by cleavage of a heterolytic bond with departure of an electron pair. This group can thus be easily replaced by another group, for example during a substitution reaction. Such leaving groups are, for example, halogens or an activated hydroxyl group, such as a methanesulfonate, benzenesulfonate, ptoluenesulfonate, triflate, acetate, and the like. Examples of leaving groups and references for their preparation are given in "Advances in Organic Chemistry",, J. March, 5
+      <sup>th</sup>
+      edition, Wiley Interscience, 2001.
+    </p>
+    <p num="124">In accordance with the invention, the compounds of general formula (I) can be prepared according to the process illustrated by the following scheme 1.</p>
+    <p num="125">According to scheme 1, the compounds of general formula (IV) can be obtained by reaction of a compound of general formula (II), in which XI, X2, X3 and X4 are as RECEIVED TIME 2. OCT. 9:14</p>
+    <p num="126">Park 2/10/2012 12:16:31 p.m. PAGE 73/106 Fax Server</p>
+    <p num="127">AJ Park WO 2008/012418 18 PCT/FR2007/001250 defined in the general formula (I) and B represents a C1-C6-alkoxyl group, with a compound of general formula (III), in which Y and n are as defined in the general formula (I) and LG represents a leaving group where LG represents a hydroxyl group.</p>
+    <p num="128">The compounds of general formula (II) are available commercially or are prepared according to numerous processes described in the literature (D. Knittel, Synthesis, 1985, 2, 186; T. M. Williams, J. Med. Chem., 1993, 36(9), 1291; JP2001151771A2, for example).</p>
+    <p num="129">Scheme 1 RECEIVED TIME 2. OCT, 9:14</p>
+    <p num="130">Park</p>
+    <p num="131">2/10/2012 12:16:31 p.m. PAGE 74/106 Fax Server AJ Park</p>
+    <p num="132">When the compound of general formula (III) is defined such that n is equal to 1, 2 or 3 and LG represents a leaving group such as a chlorine, bromine or iodine atom, the reaction can be carried out in the presence of a base, such as sodium hydride or potassium carbonate, in a polar solvent, as such dimethylformamide, dimethyl sulfoxide or acetone (n = 1: Kolasa T., Bioorg. Med. Chem., 1997, 5(3), 507, n = 2: Abramovitch R., Synth. Commun., 1995, 25(1), 1). WO 2008/012418</p>
+    <p num="133">19 PCT/FR2007/001250</p>
+    <p num="134">B = C1-C6- al koxyl r„..(CH2)n, (HI) LG</p>
+    <p num="135">RaRbN Zak (IV)</p>
+    <p num="136">N 0 ( )n</p>
+    <p num="137">B = C1-C6-al koxyl</p>
+    <p num="138">B = hydroxyl B = chlorine</p>
+    <p num="139">H ZFZ2</p>
+    <p num="140">N--K\ /--NRaRb</p>
+    <p num="141">Za N</p>
+    <p num="142">,( )n Y (I)</p>
+    <p num="143">NaOH</p>
+    <p num="144">SOCl2 RECEIVED TIME 2. OCT. 9:14</p>
+    <p num="145">Park 2/10/2012 12:16:31 p.m. PAGE 75/106 Fax Server</p>
+    <p num="146">AJ Park</p>
+    <p num="147">WO 2008/012418 20 PCT/FR2007/001250</p>
+    <p num="148">When the compound of general formula (III) is defined such that n is equal to 1, 2 or 3 and LG represents a hydroxyl group, the compounds of general formula (IV) can be obtained by reaction of the compound of general formula (II) with a compound of general formula (III) in the presence of a phosphine, such as, for example, triphenylphosphine, and of a reactant, such as, for example, diethyl azodicarboxylate, in solution in a solvent, such as dichloromethane or tetrahydrofuran (0. Mitsonobu, Synthesis, 1981, 1-28).</p>
+    <p num="149">
+      When the compound of general formula (III) is defined such that n is equal to 0 and LG represents a leaving group such as a chlorine, bromine or iodine atom, the reaction can be carried out at a temperature of between 80
+      <sup>°</sup>
+      C and 250
+      <sup>°</sup>
+      C in the presence of a copper-based catalyst, such as copper bromide or copper oxide, and of a base, such as potassium carbonate (Murakami Y., Chem. Pharm. Bu11., 1995, 43(8), 1281). It is also possible to use the milder conditions described in S. L. Buchwald, J. Am. Chem. Soc., 2002, 124, 11684.
+    </p>
+    <p num="150">The compound of general formula (IV) for which B represents a 01-06-alkoxyl group can be converted to the compound of general formula (IV) where B represents a hydroxyl group by the action of a base, such as sodium hydroxide or potassium hydroxide, in solution in a solvent, such as ethanol. The compound of general formula (IV) where B represents a hydroxyl group can subsequently be converted to the compound of general formula (IV) where B.represents a chlorine atom by the action of a chlorinating agent, such as thionyl chloride, in a solvent, such as dichloromethane.</p>
+    <p num="151">The compound of general formula (I) can subsequently be obtained, for example, by reaction of a compound of general formula (IV) where B is a chlorine atom, as obtained above, with an amine of general formula (V), in which Z1, Z2, Z3, Zo Ra and Rb are as defined in the RECEIVED TIME 2, OCT. 9:14</p>
+    <p num="152">Park</p>
+    <p num="153">2/10/2012 12:16:31 p.m. PAGE 76/106 Fax Server AJ Park WO 2008/012418 21 PCT/FR2007/001250 general formula (I), in a solvent, such as dichloroethane, toluene or tetrahydrofuran.</p>
+    <p num="154">The compound of general formula (I) can also be obtained by reaction of a compound of general formula (IV) where B is a hydroxyl group, as obtained above, with an amine of general formula (V), in which Z1, Z2, Z3, Z4, Ra and Rb are as defined in the general formula (I) in the presence of a coupling agent, such as diethyl cyanophosphonater in the presence of a base, such as triethylamine, in a solvent, such as dimethylformamide.</p>
+    <p num="155">The compounds of general formulae (I), (II) and (IV) in which XI, X2, X3 and/or X4 represent a cyano group or an aryl can be obtained by a coupling reaction, catalyzed by a metal, such as palladium, carried out on the corresponding compounds of general" formulae (I), (II) and (IV) in which XI, X2, X3 and/or X4 represent a leaving group, for example a bromine, according to methods which are described in the literature or which are known to a person skilled in the art.</p>
+    <p num="156">The compounds of general formulae (I), (II) and (IV) in which X1, X2, X3 and/or X4 represent a C(0)NRiR2 group can be obtained from the corresponding compounds of general formulae (I), (II) and (IV) in which X1, X2, X3 and/or X4 represent a cyano group according to methods which are described in the literature or which are known to a person skilled in the art.</p>
+    <p num="157">The compounds of general formulae (I), (II) and (IV) in which XI, X2, X3, X4 and/or R6 correspond to an -S(0)-alkyl or -S(0)2-alkyl group can be obtained by oxidation of the corresponding compounds of general formulae (I), (II) and (IV) in which XI, X2, X3, X4 and/or R6 represent a Ci-C6-thioalkyl group according to methods which are described in the literature or which. are known to a person skilled in the art.</p>
+    <p num="158">Likewise, the compounds of general formulae (I) and (IV) in which Y is substituted by an -S(0)-alkyl or RECEIVED TIME 2. OCT. 9:14</p>
+    <p num="159">
+      Park 2/10/2012 12:16:31 p.m. PAGE 7
+      <sup>7</sup>
+      /106 Fax Server
+    </p>
+    <p num="160">AJ Park</p>
+    <p num="161">WO 2008/012418 22 PCT/FR2007/001250</p>
+    <p num="162">-S(0)2-alkyl group can be obtained by oxidation of the corresponding compounds of general formulae (I) and (IV) in which Y is substituted by a C1-06-thioalkyl group according to methods which are described in the literature or which are known to a person skilled in the art.</p>
+    <p num="163">The compounds of general formula (I) in which Z1, Z2, Z3 and/or Z4 represent a C(R6) group where R6 represents a hydroxyl group can be obtained from the corresponding compounds of general formula (I) in which Z1, Z2, Z3 and/or Z4 represent a C(R6) group where R6 represents a C1-06-alkoxyl group according to methods which are described in the literature or which are known to a person skilled in the art.</p>
+    <p num="164">The compounds of general formulae (I), (II) and (IV) in which X1, X2, X3 and/or X4 represent an NR1R2, NR3COR4 or NR3S02R5 group can be obtained from the corresponding compounds of general formulae (I), (II) and (IV) in which X1, X2, X3 and/or X4 represent a nitro group, for example by reduction and then acylation or sulfonylation, according to methods which are described in the literature or which are known to a person skilled in the art.</p>
+    <p num="165">The compounds of general formulae (I), (II) and (IV) in which X1, X2, X3 and/or X4 represent an NR1R2, NR3COR4 or NR3S02R5 group can be obtained from the corresponding compounds of general formulae (I), (II) and (IV) in which XI, X2, X3 and/or X4 bromine atom by a coupling represent, for example, a reaction respectively with an amine, an amide or a sulfonamide in the presence of a base, of a phosphine and of a palladium-based catalyst according to methods which are described in the literature or which are known to a person skilled in the art.</p>
+    <p num="166">The compounds of general formulae (I), (II) and (IV) in which XI, X2, X3 and/or X4 represent an SO2NR1R2 group can be obtained by a method analogous to that described in Pharmazie, 1990, 45, 346, or according to methods RECEIVED TIME 2. OCT. 9:14</p>
+    <p num="167">Park</p>
+    <p num="168">
+      <sup>2</sup>
+      /10/2012 12:16:31 p.m. PAGE 78/106 Fax Server AJ Park
+    </p>
+    <p num="169">WO 2008/012418 23 PCT/FR2007/001250 which are described in the literature or which are known to a person skilled in the art.</p>
+    <p num="170">The compounds of general formula (I) in which NRaRb corresponds to an NH2 group can be obtained, according to conditions known to a person skilled in the art and described in the literature (Greene and Wuts, Protective Groups in Organic Synthesis, WileyInterscience), from precursors of general formula (I) where NRaRb = NH-PG, PG corresponding to a protective group, such as an acetyl or tert-butoxycarbonyl group.</p>
+    <p num="171">The compounds of general formula (III) are commercially available, are described in the literature (Carling R. W. et al., J. Med. Chem., 2004 (47), 1807-1822, or Russel M. G. N. et al., J. Med. Chem., 2005 (48), 1367-1383) or are accessible using methods known to a person skilled in the art. Some compounds of general formula (IV) are described in the literature (for example W02007/010144). The compounds (V) and the other reactants, when their method of preparation is not described, are commercially available or are described in the literature (for example W005028452, W002048152, W006040522, W004052869, W004/062665, JP540028330, GB 870 027, US 410 4385, W004110985, Heterocycles, 1977, 6(12), 1999-2004).</p>
+    <p num="172">The invention, according to another of its aspects, also has as subject matter the compounds of general formulae (Va) and (Vb). These compounds are of use as intermediates in the synthesis of the compounds of formula (I).</p>
+    <p num="173">
+      P
+      <sup>1</sup>
+      3 N H
+    </p>
+    <p num="174">Om) H3C RECEIVED TIME 2, OCT. 9:14</p>
+    <p num="175">Park</p>
+    <p num="176">
+      <sup>2</sup>
+      /10/2012 12:16:31 p.m. PAGE 79/106 Fax Server AJ Park
+    </p>
+    <p num="177">WO 2008/012418 24 PCT/FR2007/001250</p>
+    <p num="178">The amines Va and Vb are prepared according to the processes described in examples Nos. 8 and 10.</p>
+    <p num="179">The following examples describe the preparation of some compounds in accordance with the invention. These examples are not limiting and serve only to illustrate the present invention. The numbers of the compounds exemplified refer to those given in table 1. The elemental microanalyses, the LC-MS (liquid chromatography coupled to mass spectrometry) analyses, the IR spectra and the NMR spectra confirm the structures of the.compounds obtained.</p>
+    <p num="180">Example 1 (Compound No. 1)</p>
+    <p num="181">
+      N-[6-(Methylamino)pyridin-3-y1]-5-fluoro-1-(3-fluorobenzy1)
+      <sup>-</sup>
+      1H
+      <sup>-</sup>
+      indole-2-carboxamide
+    </p>
+    <p num="182">1.1 5-Fluoro-1-(3-fluorobenzy1)-1B-indole-2-carboxylic acid</p>
+    <p num="183">
+      An aqueous sodium hydroxide solution, prepared from 1.15 g (28.92 mmol) of sodium hydroxide pellets in 50 ml of water, is added to a solution of 7.6 g (24.10 mmol) of ethyl 5
+      <sup>-</sup>
+      fluoro-1-(3-fluorobenzy1)-1B- indole-2-carboxylate (W02006/024776) in 241 ml of ethanol. The mixture is heated for two hours and then concentrated under reduced pressure. The resulting solid is taken up in 200 ml of water. The solution is washed with two times 100 ml of ethyl ether, acidified by successive additions of small amounts of concentrated hydrochloric acid and then extracted with 200 ml of ethyl acetate. The organic phase is finally washed twice with 100 ml of water and once with 50 ml of a saturated sodium chloride solution, dried over magnesium sulfate and concentrated under reduced pressure. After drying at 50
+      <sup>°</sup>
+      C under reduced pressure, 6.4 g of the expected product are obtained in the form of a solid which will be used as is in the following stage. RECEIVED TIME 2, OCT. 9:14
+    </p>
+    <p num="184">Park</p>
+    <p num="185">2/10/2012 12:16:31 p.m. PAGE 80/106 Fax Server AJ Park</p>
+    <p num="186">WO 2008/012418 25 PCT/FR2007/001250</p>
+    <p num="187">1.2 N-[6-(Methylamino)pyridin-3-y1]-5-fluoro-1-(3-fluorobenzy1)-1H-indole-2-carboxamide (Compound No. 1)</p>
+    <p num="188">
+      0.27 ml (1.67 mmol) of diethyl cyanophosphonate is added dropwise at 20
+      <sup>°</sup>
+      C under argon to a solution of 0.4 g (1.39 mmol) of 5-fluoro-1-(3-fluorobenzy1)-1H-indole-2-carboxylic acid (obtained in step 1.1) and 0.216 g (1.67 mmol) of 3-amino-6-(methylamino)pyridine (W02005/028452) in 10 ml of dry dimethylformamide. The mixture is stirred for 10 minutes and then 0.43 ml (3.08 mmol) of triethylamine is added dropwise. The mixture is stirred at ambient temperature for 18 hours and concentrated under reduced pressure, and then the residue is taken up in 50 ml
+      <sup>.</sup>
+      of ethyl acetate. This solution is then successively washed with three times 20 ml of a saturated sodium hydrogencarbonate solution, 50 ml of water and 20 ml of a saturated sodium chloride solution and then dried over sodium sulfate, filtered and concentrated under reduced pressure. The solid obtained is triturated from hot isopropyl ether. 0.471 g of a solid is obtained, which solid is dried under reduced pressure.
+    </p>
+    <p num="189">
+      Melting point: 225-227
+      <sup>°</sup>
+      C
+    </p>
+    <p num="190">
+      <sup>1</sup>
+      H NMR (d6-DMS0), 8 (PPm): 2.61 (d, 3H); 5.82 (s, 2H); 6.3 (q, 1H); 6.41 (d, 1H); 7.02 (m, 6H); 7.49 (m, 2H); 7.65 (dxd, 1H); 8.2 (d, 1H); 10.15 (s, 1H)
+    </p>
+    <p num="191">Example 2 (Compound No. 2)</p>
+    <p num="192">
+      AT-[6-(Dimethylamino)pyridin-3-y1]-5-fluoro-1-(3-fluorobenzy1)-1H
+      <sup>-</sup>
+      indole-2-carboxamide hydrochloride (1:1)
+    </p>
+    <p num="193">2.1 N-[6-(Dimethylamino)pyridin-3-y1]-5-fluoro-1-(3-fluorohenzy1)-111-indole-2-carboxamide</p>
+    <p num="194">
+      0.27 ml (1.67 mmol) of diethyl cyanophosphonate is added dropwise at 20
+      <sup>°</sup>
+      C under argon to a solution of RECEIVED TIME 2, OCT. 9:14
+    </p>
+    <p num="195">Park</p>
+    <p num="196">2/10/2012 12:16:31 p.m. PAGE 81/106 Fax Server AJ Park WO 2008/012418 26 PCT/FR2007/001250</p>
+    <p num="197">0.4 g (1.39 mmol) of 5-fluoro-1-(3-fluorobenzy1)-1H-indole-2-carboxylic acid*(obtained in Example 1.1) and 0.229 g (1.67 mmol) of 3-amino-6-(dimethy1amino)pyridine in 3.5 ml of dry dimethylformamide. The mixture is stirred for 10 minutes and then 0.43 ml (3.06 mmol) of triethylamine is added dropwise. The mixture is stirred at ambient temperature for 18 hours and concentrated under reduced pressure, and then the residue is taken up in 50 ml of ethyl acetate. This solution is then successively washed with three times 20 ml of a saturated sodium hydrogencarbonate solution, 50 ml of water and 20 ml of a saturated sodium chloride solution and then dried over sodium sulfate, filtered and concentrated under reduced pressure. The solid obtained is triturated from hot isopropyl ether. 0.423 g of a solid is collected by filtration, which solid is dried under reduced pressure and used as in the following stage.</p>
+    <p num="198">2.2 N-[6-(Dimethylamino)pyridin-3-y1]-5-fluoro-1-(3-fluorobenzy1)-1H-indole-2-carboxamide hydrochloride (1:1) (Compound No. 2)</p>
+    <p num="199">A suspension of the solid obtained in stage 2.1 in isopropyl ether and a 4N solution of hydrochloric acid in dioxane is stirred at (rC. The solid is collected by filtration, dried, again triturated from hot isopropyl ether, collected by filtration and dried under reduced pressure.</p>
+    <p num="200">
+      Melting point: 232-234
+      <sup>.</sup>
+      C; HCl (1:1)
+    </p>
+    <p num="201">
+      <sup>1</sup>
+      H NMR (d6-DMSO), 8 (PPm): 3.2 (s, 6H); 5.85 (s,
+      <sup>2</sup>
+      H); 6.80 (m, 2H); 7.0 (m, 1H); 7.2 (m, 3H); 7.5 (m, 3H); 8.2 (d, 1H); 8.5 (s, 1H) ; 10.85 (s, 1H).
+    </p>
+    <p num="202">Example 3 (Compound No. 12)</p>
+    <p num="203">
+      N- [6- (Dimethylamino ) pyridin-3-yl] -5-trifluor omethy1-1-( 3-f luorobenzyi )
+      <sup>-</sup>
+      1H-indole-2-carboxamide RECEIVED TIME 2. OCT. 9:14
+    </p>
+    <p num="204">Park</p>
+    <p num="205">2/10/2012 12:16:31 p.m. PAGE 82/106 Fax Server AJ Park</p>
+    <p num="206">WO 2008/012418 27 PCT/FR2007/001250</p>
+    <p num="207">
+      0.185.g (1.35 mmol) of 3-amino -6 (dimethylamino)pyridine (W02005/028452) in 2 ml of dry dimethylformamide is added dropwise at 20
+      <sup>°</sup>
+      C under argon to a solution of 0.35 g (1.04 mmol) of 5-trifluoromethy1-1-(3-fluorobenzy1)-1H-indole-2- carboxylic acid (W02006/072736), 0.198 g (1.14 mmol) of N
+      <sup>-</sup>
+      (3
+      <sup>-</sup>
+      dimethylaminopropy1)-N'-ethylcarbodiimide hydrochloride and 0.165 g (1.14 mmol) of 1 - hydroxybenzotriazole monohydrate in 6 ml of dry dimethylformamide. The reaction mixture is stirred overnight, run onto 100 ml of water and then extracted three times with 50 ml of ethyl acetate. The organic phases are subsequently combined, washed three times with 20 ml of water, dried over sodium sulfate and then concentrated under reduced pressure. The expected product is purified by chromatography on a silica column, elution being carried out with a mixture of dichloromethane and methanol. 0.19 g of the expected compound is thus isolated.
+    </p>
+    <p num="208">
+      Melting point: 192-193
+      <sup>°</sup>
+      C
+    </p>
+    <p num="209">
+      <sup>1</sup>
+      H NMR (d6-DMSO), 8 (ppm): 3.01 (s, 6H); 5.93 6.68 (d, 1H); 6.92 (m, 2H); 7.06 (txd, 1H); 1H); 7.51 (s, 1H); 7.58 (d, 1H); 7.78 (d, 1H); 1H); 8.2 (s, 1H); 8.39 (s, 1H); 10.39 (s, 1H).
+    </p>
+    <p num="210">Example 4 (Compound No. 16)</p>
+    <p num="211">
+      N-[6-(Dimethylamino)-5-methylpyridin-3-y1]-5-fluoro-1-(
+      <sup>3-</sup>
+      fluorobenzy1)
+      <sup>-</sup>
+      1H
+      <sup>-</sup>
+      indole-2-carboxamide
+    </p>
+    <p num="212">
+      Compound No. 16 is prepared from 5-fluoro-1-(3-fluorobenzy1)
+      <sup>-</sup>
+      1H
+      <sup>-</sup>
+      indole-2-carboxylic acid (W02006/072736) and 3-amino-5-methy1-6-dimethylaminopyridine (GB 870 027) according to a process similar to that described in example No. 3. Melting point: 145-146
+      <sup>°</sup>
+      C
+    </p>
+    <p num="213">
+      <sup>I</sup>
+      H NMR (d6-DMS0), 8 (ppm): 2.28 (s, 3H); 2.78 (s, 6H); 5.91 (s, 2H); 6.91 (m, 2H); 7.06 (txd, 1H); 7.26 (txd, (s, 2H); 7.32 (m, 7.85 (d, RECEIVED TIME 2. OCT. 9:14
+    </p>
+    <p num="214">Park</p>
+    <p num="215">
+      <sup>2</sup>
+      /10/2012 12:16:31 p.m. PAGE 83/106 Fax Server AJ Park
+    </p>
+    <p num="216">WO 2008/012418 28 PCT/FR2007/001250</p>
+    <p num="217">1H); 7.31 (m, 1H); 7.41 (s, 1H); 7.58 (m, 2H); 7.88 (s, 1H); 8.39 (s, 1H); 10.39 (s, 1H).</p>
+    <p num="218">Example 5 (Compound No. 19)</p>
+    <p num="219">AT-[6-(Dimethylamino)-5-methylpyridin-3-y1]-5-fluoro-(pyridin-4-ylmethyl)-1H-indole-2-carboxamide</p>
+    <p num="220">5.1 5-Fluoro-1-(pyridin-4-ylmethyl)-1H-indole-2-carboxylic acid</p>
+    <p num="221">A solution of 2.1 g (7.04 mmol) of ethyl 5-fluoro-1-(pyridin-4-ylmethyl)-1H-indole-2-carboxylate and 1.18 g (21.12 mmol) of potassium hydroxide in 80 ml of ethanol and 2 ml of water is heated at reflux for 2 hours. The reaction mixture is subsequently concentrated under reduced pressure. 100 ml of water are added and the pH of the solution is brought to pH 8 by addition of a concentrated hydrochloric acid solution. A precipitate is collected by filtration and is washed with water and then dried under reduced pressure. 1.5 g of the expected product are thus obtained.</p>
+    <p num="222">Melting point: 282-283°C.</p>
+    <p num="223">
+      5.2 N
+      <sup>-</sup>
+      [6
+      <sup>-</sup>
+      (Dimethylamino)-5-methylpyridin-3-y1]-5-fluoro
+      <sup>-</sup>
+      1
+      <sup>-</sup>
+      (pyridin-4-ylmethyl)-1H-indole-2-carboxamide (Compound No. 19)
+    </p>
+    <p num="224">
+      Compound No. 19 is prepared from 5-fluoro-1-(pyridin-4-ylmethyl)
+      <sup>-</sup>
+      1H-indole-2-carboxylic acid, synthesized in stage 5.1, and 3-amino-5-methyl-6-(dimethylamino)pyridine (GB 870 027) according to a process similar to that described in example No. 3.
+    </p>
+    <p num="225">Melting point: 164-165°C</p>
+    <p num="226">
+      <sup>I</sup>
+      H NMR (d6-DMS0), 8 (pPm): 2.28 (s, 3H); 2.75 (s,
+      <sup>6</sup>
+      H); 5.91 (s, 2H); 6.99 (d, 2H); 7.26 (txd, 1H); 7.46 (s, 1H); 7.58 (m, 2H); 7.85 (s, 1H); 8.36 (s, 1H); 8.49 (d, 2H); 10.39 (s, 1H). RECEIVED TIME 2. OCT, 9:14
+    </p>
+    <p num="227">Park</p>
+    <p num="228">2/10/2012 12:16:31 p.m. PAGE 84/106 Fax Server AJ Park WO 2008/012418 29 PCT/FR2007/001250</p>
+    <p num="229">Example 6 (Compound No. 20)</p>
+    <p num="230">
+      N
+      <sup>.</sup>
+      - [6- (Dimethylamino ) -5- ( trifluoromethyl ) pyridin-3-yl]
+    </p>
+    <p num="231">5-fluoro-1- (3-fluorobenzyl ) -1H-indole-2-carboxamide</p>
+    <p num="232">Compound No. 20 is prepared from 5-fluoro-1-(3-fluorobenzy1)-1H-indole-2-carboxylic acid (W02006/072736) and 3-amino-5-trifluoromethyl-6-(dimethylamino)pyridine according to a process similar to that described in example No. 3.</p>
+    <p num="233">
+      Melting point: 142-143
+      <sup>°</sup>
+      C
+    </p>
+    <p num="234">
+      <sup>1</sup>
+      H NMR (d6-DMSO), 8 (ppm): 2.89 (s, 6H); 5.89 (s, 2H); 6.88 (m, 2H); 7.03 (txd, 1H); 7.15 (txd, 1H); 7.31 (m, 1H); 7.42 (s, 1H); 7.59 (m, 2H); 8.4 (s, 1H); 8.72 (s, 1H); 10.65 (s, 1H).
+    </p>
+    <p num="235">Example 7 (Compound No. 11)</p>
+    <p num="236">N-[6-(Acetylamino)pyridin-3-y1]-5-fluoro-1-( fluorobenzy1)-1H-indole-2-carboxamide</p>
+    <p num="237">Compound. No. 11 is prepared from 5-fluoro-1-(3-fluorobenzy1)-1H-indole-2-carboxylic acid (W02006/072736) and 6-acetylamino-3-aminopyridine according to a process similar to that described in example No. 3.</p>
+    <p num="238">
+      Melting point: 252-254
+      <sup>°</sup>
+      C
+    </p>
+    <p num="239">
+      <sup>I</sup>
+      H NMR (d6-DMSO), 8 (ppm): 2.08 (s, 3H); 5.89 (s, 2H)i 6.89 (m, 2H); 7.01 (txd, 1H); 7.15 (txd, 1H); 7.29 (m, 1H); 7.41 (s, 1H); 7.58 (m, 2H); 8.06 (s, 2H); 8.68 (s, 1H); 10.42 (s, 1H); 10.56 (s, 1H).
+    </p>
+    <p num="240">Example 8 (Compound No. 21)</p>
+    <p num="241">N-[6-Methylamino-2-methylpyridin-3-y1]-5-fluoro-1-(3-fluorobenzyl ) -1H-indole-2-carboxamide</p>
+    <p num="242">
+      8.1 6
+      <sup>-</sup>
+      Methylamino-2-methyl-3-aminopyridine (Compound No. Va) RECEIVED TIME 2. OCT. 9:14
+    </p>
+    <p num="243">Park</p>
+    <p num="244">2/10/2012 12:16:31 p.m. PAGE 85/106 Fax Server AJ Park</p>
+    <p num="245">WO 2008/012418 30 PCT/FR2007/001250</p>
+    <p num="246">
+      A suspension of 0.4 g (2.39 mmol) of 6-methylamino-2-methy1-3-nitropyridine (Prace Naukowe Akedimii Ekonomicznej imienia Oskara Langego we Wroclawiu (1988), 435, 119-28) and 0.1 g of 10% palladiumoncharcoal in 50 ml of methanol is stirred at 20
+      <sup>°</sup>
+      C for 6 hours under 4 atmospheres of hydrogen. The reaction mixture is subsequently filtered through a celite plug and then concentrated under reduced pressure. 0.33 g of the expected product is thus isolated in the form of an oil which will be used as is in the continuation of the synthesis.
+    </p>
+    <p num="247">8.2 N-[6-Methylamino-2-methylpyridin-3-y1]-5-f1uoro-1-(3-fluorobenzy1)-1H-indole-2-carboxamide (Compound No. 21)</p>
+    <p num="248">Compound No. 21 is prepared from 5-fluoro-1-(3-fluorobenzy1)-1H-indole-2-carboxylic acid (W02006/072736) and 6-methylamino-2-methyl-3-aminopyridine (Va), prepared in stage 8.1, according to a process similar to that described in example no. 3.</p>
+    <p num="249">
+      Melting point: 229-230
+      <sup>°</sup>
+      C
+    </p>
+    <p num="250">
+      <sup>I</sup>
+      H NMR (d6-DMS0), 8 (ppm): 2.18 (s, 3H); 2.75 (s, 3H); 5.86 (s, 2H); 6.26 (d, 1H); 6.36 (m, 1H); 6.85 (d, 1H); 6.91 (d, 1H); 7.03 (txd, 1H); 7.13 (txd, 1H); 7.22 (d, 1H); 7.31 (m, 1H); 7.35 (s, 1H); 7.51 (dxd, 1H); 7.6 (m, 1H) ; 9.9 (s, 1H).
+    </p>
+    <p num="251">Example 9 (Compound No. 27)</p>
+    <p num="252">
+      N-[6-Dimethylamino-5-fluoropyridin-3-y1]-5-fluoro-1-(3-fluorobenzy1)
+      <sup>-</sup>
+      1H-indole-2-carboxamide
+    </p>
+    <p num="253">
+      Compound No. 27 is prepared from 0.3 g (1.04 mmol) of 5
+      <sup>-</sup>
+      fluoro
+      <sup>-</sup>
+      1
+      <sup>-</sup>
+      (3
+      <sup>-</sup>
+      fluorobenzy1)-1H-indole-2-carboxylic acid (W02006/072736) and 0.3 g (1.57 mmol) of 6-dimethylamino-5-fluoro-3-aminopyridine hydrochloride (W02004/110986) according to a process similar to that described in example No. 3. RECEIVED TIME 2. OCT. 9:14
+    </p>
+    <p num="254">Park 2/10/2012 12:16:31 p.m. PAGE 86/106 Fax Server</p>
+    <p num="255">AJ Park</p>
+    <p num="256">WO 2008/012418 31 PCT/FR2007/001250</p>
+    <p num="257">Melting point: 158-159°C</p>
+    <p num="258">
+      <sup>I</sup>
+      H NMR (d6-DMSO), 8 (ppm): 3.11 (s, 6H); 5.89 (s, 2H); 6.8 (dxt, 1H); 6.97 (m, 2H); 7.12 (m, 2H); 7.35 (m, 3H); 7.91 (m, 3H).
+    </p>
+    <p num="259">Example 10 (Compound No. 28)</p>
+    <p num="260">N-[6-Dimethylamino-4-(trifluoromethyl)pyridin-3-y1]-5-fluoro-1-(3-fluorobenzy1)-1H-indole-2-carboxamide</p>
+    <p num="261">10.1 Methyl 6-dimethylamino-4-(trifluoromethyl)-pyridine-3-carboxylate</p>
+    <p num="262">
+      A mixture of 2.5 g (10.43 mmol) of methyl 6-chloro-4-(trifluoromethyl)nicotinate and 18.4 ml (146 mmol) of a 40% solution of dimethylamine in water is heated 'at 100°C for 1 hour. A precipitate is subsequently collected by filtering the cooled mixture and is washed with 150 ml of water. After drying under reduced pressure, 2.3 g of the expected compound are isolated.
+      <sup>1</sup>
+      H NMR (CDC13), 8 (ppm): 3.27 (s, 6H); 3.94 (s, 3H); 6.81 (s, 1H); 8.9 (s, 1H).
+    </p>
+    <p num="263">10.2 6-Dimethylamino-4-(trifluoromethyl)pyridine-3-carboxylic acid</p>
+    <p num="264">
+      A mixture of 2.3 g (9.27 mmol) of methyl 6-dimethylamino-4-(trifluoromethyl)pyridine-3- carboxylate, obtained in stage 10.1, and 0.78 g (13.9 mmol) of potassium hydroxide in 50 ml of methanol and 2 ml of water is stirred at 20
+      <sup>°</sup>
+      C for 24 hours. The mixture is subsequently concentrated under reduced pressure. 100 ml of water are subsequently added and the solution is washed with 100 ml of dichloromethane and then acidified to pH 4 by addition of concentrated hydrochloric acid. A precipitate is collected by filtration and is washed with 50 ml of water. After drying under reduced pressure, 1.7 g of the expected compound are isolated. RECEIVED TIME 2, OCT. 9:14
+    </p>
+    <p num="265">Park</p>
+    <p num="266">2/10/2012 12:16:31 p.m. PAGE 87/106 Fax Server AJ Park</p>
+    <p num="267">WO 2008/012418 32 PCT/FR2007/001250</p>
+    <p num="268">
+      <sup>I</sup>
+      H NMR (d6-DMS0), 8 (ppm): 3.19 (s, 6H); 6.9 (s, 1H); 8.75 (s, 1H); 12.87 (broad peak, 1H).
+    </p>
+    <p num="269">10.3 6-Dimethylamino-4-trifluoromethy1-3-(tert-butoxycarbonylamino)pyridine</p>
+    <p num="270">A mixture of 1.7 g (7.26 mmol) of 6-dimethylamino-4-(trifluoromethyl) pyridine-3-carboxylic acid, obtained in stage 10.2, 2.03 ml (9.44 mmol) of diphenyl phosphoryl azide and 2.53 ml (18.15 mmol) of triethylamine in 23 ml of tert-butanol is heated at 90°C for 5 hours. The reaction mixture is subsequently concentrated under reduced pressure and the residue is taken up in 50 ml of water and extracted 3 times with 50 ml of dichloromethane. The organic phases are combined, washed with 50 ml of water, dried over sodium sulfate and then concentrated under reduced pressure. The oil obtained is purified by chromatography on a silica column, elution being carried out with a mixture of dichloromethane and methanol. 0.75 g of the expected product is thus isolated.</p>
+    <p num="271">H NMR (CDC13), 8 (ppm): 1.39 (s, 9H); 3.07 (s, 6H); 5.91 (broad peak, 1H); 6.53 (s, 1H); 8.31 (s, 1H).</p>
+    <p num="272">
+      10.4 6
+      <sup>-</sup>
+      Dimethylamino-4-trifluoromethy1-3-aminopyridine hydrochloride (amine Vb)
+    </p>
+    <p num="273">A solution of 0.73 g (2.39 mmol) of 6-dimethylamino-4-trifluoromethy1-3-(tert-butoxycarbonylamino)pyridine, prepared in stage 10.3, in 8.5 ml of 4N hydrochloric acid in dioxane is stirred at reflux for 5 hours. 200 ml of ethyl ether are subsequently added to the cooled reaction mixture. 0.6 g of a precipitate is collected by filtration.</p>
+    <p num="274">Melting point: 198-201°C</p>
+    <p num="275">
+      <sup>I</sup>
+      H NMR (d6-DMS0), 8 (ppm): 3.11 (s, 6H); 7.2 (s,
+      <sup>1</sup>
+      H); 7.21 (broad peak, 2H); 8.09 (s, 1H). RECEIVED TIME 2. OCT. 9:14
+    </p>
+    <p num="276">Park 2/10/2012 12:16:31 p.m. PAGE 88/106 Fax Server</p>
+    <p num="277">AJ Park</p>
+    <p num="278">WO 2008/012418 33 PCT/FR2007/001250</p>
+    <p num="279">10.5 N-[6-dimethylamino-4-(trifluoromethyl)pyridin-3-y1]-5-fluoro-1-(3-fluorobenzy1)-111-indole-2-carboxamide (Compound No. 28)</p>
+    <p num="280">Compound No. 28 is prepared from 0.3 g (1.04 mmol) of 5-fluoro-1-(3-fluorobenzy1)-1H-indole-2-carboxylic acid (W02006/072736) and 0.328 g (1.36 mmol) of 6-dimethylamino-4-trifluoromethyl-3-aminopyridine hydrochloride, described in stage 10.4, according to a process similar to that described in example No. 3.</p>
+    <p num="281">Melting point: 209-210°C</p>
+    <p num="282">
+      <sup>I</sup>
+      H NMR (CDC13), 8 (ppm): 3.2 (s, 6H); 5.86 (s, 2H); 6.75 (s, 1H); 6.82 (m, 1H); 6.98 (m, 2H); 7.12 (m, 2H); 7.3 (m, 2H); 7.41 (m, 1H); 7.66 (s, 1H); 8.61 (m, 1H).
+    </p>
+    <p num="283">The chemical structures and the physical properties of some compounds of general formula (I) according to the invention are illustrated in the following table 1.</p>
+    <p num="284">In this table: - the "M.p." column gives the melting points of the products in degrees Celsius (°C); in the "Salt/Base" column, "-" represents a compound in the form of the free base, whereas "HCl" represents a compound in the hydrochloride form and the ratio in brackets is the base:acid ratio; "nPr" represents a linear propyl chain, "cycloPr" represents a cyclopropyl group and "Ac" represents an acetyl group. RECEIVED TIME 2. OCT, 9:14</p>
+    <p num="285">Park 2/10/2012 12:16:31 p.m. PAGE 89/106 Fax Server AJ Park</p>
+    <p num="286">34 PCT/FR2007/001250</p>
+    <p num="287">Table 1</p>
+    <p num="288">NRaRb</p>
+    <p num="289">Y (ii</p>
+    <p num="290">WO 2008/012418 RECEIVED TIME 2, OCT. 9:14</p>
+    <p num="291">
+      <table>
+        <tr>
+          <td colspan="1" rowspan="1">No.</td>
+          <td colspan="1" rowspan="1">Xi, X2, X3, X4</td>
+          <td colspan="1" rowspan="1">Y</td>
+          <td colspan="1" rowspan="1">ZIP 229 7-s, 7-4</td>
+          <td colspan="1" rowspan="1">NR,Ftb</td>
+          <td colspan="1" rowspan="1">M.p. (°C)Salt/</td>
+          <td colspan="1" rowspan="1">Base</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">1</td>
+          <td colspan="1" rowspan="1">H, F, H, H</td>
+          <td colspan="1" rowspan="1">3-fluorophenyl</td>
+          <td colspan="1" rowspan="1">CH, CH, CH, N</td>
+          <td colspan="1" rowspan="1">NHCH3</td>
+          <td colspan="1" rowspan="1">225 -227</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">2</td>
+          <td colspan="1" rowspan="1">H, F, H, H</td>
+          <td colspan="1" rowspan="1">3-fluorophenyl</td>
+          <td colspan="1" rowspan="1">CH, CH, CH, N</td>
+          <td colspan="1" rowspan="1">N(CH3)2</td>
+          <td colspan="1" rowspan="1">232 - 234</td>
+          <td colspan="1" rowspan="1">HO (1:1)</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">3</td>
+          <td colspan="1" rowspan="1">H, F, H, H</td>
+          <td colspan="1" rowspan="1">phenyl</td>
+          <td colspan="1" rowspan="1">CH, CH, CH, N</td>
+          <td colspan="1" rowspan="1">NHCH3</td>
+          <td colspan="1" rowspan="1">246 - 247</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">4</td>
+          <td colspan="1" rowspan="1">H, F, H, H</td>
+          <td colspan="1" rowspan="1">phenyl</td>
+          <td colspan="1" rowspan="1">CH, CH, CH, N</td>
+          <td colspan="1" rowspan="1">N(CH3)2</td>
+          <td colspan="1" rowspan="1">196 -197</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1"/>
+          <td colspan="1" rowspan="1">H, H, F, H</td>
+          <td colspan="1" rowspan="1">3-fluorophenyl</td>
+          <td colspan="1" rowspan="1">CH, CH, CH, N</td>
+          <td colspan="1" rowspan="1">N(CH3)2</td>
+          <td colspan="1" rowspan="1">194 - 195</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">6</td>
+          <td colspan="1" rowspan="1">H, F, H, H</td>
+          <td colspan="1" rowspan="1">3-11uorophenyl</td>
+          <td colspan="1" rowspan="1">CH, CH, N, CH</td>
+          <td colspan="1" rowspan="1">N(CH3)2</td>
+          <td colspan="1" rowspan="1">190 -192</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">7</td>
+          <td colspan="1" rowspan="1">H, F, H, H</td>
+          <td colspan="1" rowspan="1">2-fluorophenyl</td>
+          <td colspan="1" rowspan="1">CH, CH, CH, N</td>
+          <td colspan="1" rowspan="1">NHCH3</td>
+          <td colspan="1" rowspan="1">253 - 254</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">B</td>
+          <td colspan="1" rowspan="1">H, F, H, H</td>
+          <td colspan="1" rowspan="1">3-fluorophenyl</td>
+          <td colspan="1" rowspan="1">CH, CH, CH, N</td>
+          <td colspan="1" rowspan="1">NHnPr</td>
+          <td colspan="1" rowspan="1">132 -134</td>
+          <td colspan="1" rowspan="1">HCI (V),</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">9</td>
+          <td colspan="1" rowspan="1">H, F, II, H</td>
+          <td colspan="1" rowspan="1">3-flucrophenyl</td>
+          <td colspan="1" rowspan="1">CH, CH, CH, N</td>
+          <td colspan="1" rowspan="1">NI-tcydoPr</td>
+          <td colspan="1" rowspan="1">120 - 140</td>
+          <td colspan="1" rowspan="1">HCI (1:1)</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="2"/>
+          <td colspan="1" rowspan="2">H, F, H, H</td>
+          <td colspan="1" rowspan="2">4-fluorophenyl</td>
+          <td colspan="1" rowspan="2">CH, CH, CH, N</td>
+          <td colspan="1" rowspan="2">N(CH3)2</td>
+          <td colspan="1" rowspan="1">208- 209</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">228 -229</td>
+          <td colspan="1" rowspan="1">HCI (1:1)</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">11</td>
+          <td colspan="1" rowspan="1">H, F, H, H</td>
+          <td colspan="1" rowspan="1">3-fluorophenyl</td>
+          <td colspan="1" rowspan="1">CH, CH, CH, N</td>
+          <td colspan="1" rowspan="1">NHAc</td>
+          <td colspan="1" rowspan="1">252 - 254</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">12</td>
+          <td colspan="1" rowspan="1">H, CF3, H, H</td>
+          <td colspan="1" rowspan="1">3-fluorophenyl</td>
+          <td colspan="1" rowspan="1">CH, CH, CH, N</td>
+          <td colspan="1" rowspan="1">N(CH3)2</td>
+          <td colspan="1" rowspan="1">192 -193</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">13</td>
+          <td colspan="1" rowspan="1">H, F, H, H</td>
+          <td colspan="1" rowspan="1">3-fluorophenyl</td>
+          <td colspan="1" rowspan="1">C-CH3, CH H C,, N</td>
+          <td colspan="1" rowspan="1">N(CH3)2</td>
+          <td colspan="1" rowspan="1">183 -185</td>
+        </tr>
+      </table>
+    </p>
+    <p num="292">Park</p>
+    <p num="293">2/10/2012 12:16:31 p.m. PAGE 90/106 Fax Server AJ Park WO 2008/012418 35 PCT/FR2007/001250</p>
+    <p num="294">
+      <table>
+        <tr>
+          <td colspan="1" rowspan="1">No.</td>
+          <td colspan="1" rowspan="1">X,, X2, X3 t X4</td>
+          <td colspan="1" rowspan="1">Y</td>
+          <td colspan="1" rowspan="1">1-b'2. 7.2, Z4</td>
+          <td colspan="1" rowspan="1">NRA</td>
+          <td colspan="1" rowspan="1">M. P. (SC)</td>
+          <td colspan="1" rowspan="1">Salt/ Base</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">14</td>
+          <td colspan="1" rowspan="1">H, H, CF3, H</td>
+          <td colspan="1" rowspan="1">3-fluorophenyl</td>
+          <td colspan="1" rowspan="1">CH, CH, CH, N</td>
+          <td colspan="1" rowspan="1">NHAc</td>
+          <td colspan="1" rowspan="1">293 -295</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">15</td>
+          <td colspan="1" rowspan="1">H: F, H, H</td>
+          <td colspan="1" rowspan="1">3-fluorophenyl</td>
+          <td colspan="1" rowspan="1">C-0-13,NCH, CH,</td>
+          <td colspan="1" rowspan="1">NHCH3</td>
+          <td colspan="1" rowspan="1">216 - 217</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">16</td>
+          <td colspan="1" rowspan="1">H, F, H, H</td>
+          <td colspan="1" rowspan="1">3-fluorophenyl</td>
+          <td colspan="1" rowspan="1">NH a, C3, CH, CH,N(CH3)2 N</td>
+          <td colspan="1" rowspan="1"/>
+          <td colspan="1" rowspan="1">145 - 146</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">17</td>
+          <td colspan="1" rowspan="1">H, F, H. H</td>
+          <td colspan="1" rowspan="1">pyrklin--4-yi</td>
+          <td colspan="1" rowspan="1">C-CH3, C.3.4)., N H. CH,</td>
+          <td colspan="1" rowspan="1">N(ci</td>
+          <td colspan="1" rowspan="1">217 - 219</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">18</td>
+          <td colspan="1" rowspan="1">H, F, H, H</td>
+          <td colspan="1" rowspan="1">pyn dirt-4-y1</td>
+          <td colspan="1" rowspan="1">C CH3,C H. CH, N</td>
+          <td colspan="1" rowspan="1">NHCH3</td>
+          <td colspan="1" rowspan="1">218 -220</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">19</td>
+          <td colspan="1" rowspan="1">H, F. H, H</td>
+          <td colspan="1" rowspan="1">PYridin-4-YI</td>
+          <td colspan="1" rowspan="1">CH 3, CH CH, C- ' N</td>
+          <td colspan="1" rowspan="1">N(CH3)2</td>
+          <td colspan="1" rowspan="1">164 - 155</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">20</td>
+          <td colspan="1" rowspan="1">H. F, H, H</td>
+          <td colspan="1" rowspan="1">3-fluoropheny1</td>
+          <td colspan="1" rowspan="1">CH, CH F C-t3,, N</td>
+          <td colspan="1" rowspan="1">N(CH3)2</td>
+          <td colspan="1" rowspan="1">142 -143</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">21</td>
+          <td colspan="1" rowspan="1">H, F, H, H</td>
+          <td colspan="1" rowspan="1">3-fluorophonyl</td>
+          <td colspan="1" rowspan="1">CH, C H N, C-CH3,</td>
+          <td colspan="1" rowspan="1">NHCH3</td>
+          <td colspan="1" rowspan="1">229- 230</td>
+          <td colspan="1" rowspan="2">HCI (1:1)</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="2">22</td>
+          <td colspan="1" rowspan="2">H, F, H, H</td>
+          <td colspan="1" rowspan="2">3-fluorophenyl</td>
+          <td colspan="1" rowspan="2">CH, CH, N, N</td>
+          <td colspan="1" rowspan="2">N(CH3)2</td>
+          <td colspan="1" rowspan="1">239-241</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">169.170</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">23</td>
+          <td colspan="1" rowspan="1">H, CF3, H, H,</td>
+          <td colspan="1" rowspan="1">3-13uorophenyl</td>
+          <td colspan="1" rowspan="1">CFI, CH, N, N</td>
+          <td colspan="1" rowspan="1">N(CH3)2</td>
+          <td colspan="1" rowspan="1">138 -139</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">24</td>
+          <td colspan="1" rowspan="1">H, H, CF3, H</td>
+          <td colspan="1" rowspan="1">3-fluorophenyl</td>
+          <td colspan="1" rowspan="1">CH. CH, N, N</td>
+          <td colspan="1" rowspan="1">N(CH3)2</td>
+          <td colspan="1" rowspan="1">265 - 267</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">25</td>
+          <td colspan="1" rowspan="1">H, CF3, H, H</td>
+          <td colspan="1" rowspan="1">pyridin-411</td>
+          <td colspan="1" rowspan="1">CH, CH, N, N</td>
+          <td colspan="1" rowspan="1">N(CH3)2</td>
+          <td colspan="1" rowspan="1">268 -272</td>
+          <td colspan="1" rowspan="1">(1:1)</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">28</td>
+          <td colspan="1" rowspan="1">H, F, H, H</td>
+          <td colspan="1" rowspan="1">pyrictin-4-y)</td>
+          <td colspan="1" rowspan="1">CH, CH, CH, N</td>
+          <td colspan="1" rowspan="1">NHCH3</td>
+          <td colspan="1" rowspan="1">220 -222</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">27</td>
+          <td colspan="1" rowspan="1">H, F, H, H</td>
+          <td colspan="1" rowspan="1">3-fluorophenyl</td>
+          <td colspan="1" rowspan="1">CH, C-F, CH, N</td>
+          <td colspan="1" rowspan="1">N(CH3)2</td>
+          <td colspan="1" rowspan="1">158 - 159</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">28</td>
+          <td colspan="1" rowspan="1">H, F, H, H</td>
+          <td colspan="1" rowspan="1">I 3-fluorophenyl</td>
+          <td colspan="1" rowspan="1">C-CF3,CH, CH, N</td>
+          <td colspan="1" rowspan="1">N(CH3)2</td>
+          <td colspan="1" rowspan="1">209 - 210</td>
+        </tr>
+      </table>
+    </p>
+    <p num="295">The compounds of the invention were subjected to in vitro and in vivo pharmacological assays which demonstrated their advantage as substances possessing therapeutic activities.</p>
+    <p num="296">The compounds of the invention also exhibit characteristics of solubility in water which favor a good in vivo activity.</p>
+    <p num="297">Test of the inhibition of the current induced by capsaicin with regard to rat DRGs - Primary culture of rat dorsal root ganglion (DRG) cells: The neurons of the DRG naturally express the TRPV1 receptor.</p>
+    <p num="298">Primary. cultures of DRGs of newborn rats are prepared from one-day-old rats. Briefly, after dissection, the RECEIVED TIME 2. OCT. 9:14</p>
+    <p num="299">Park</p>
+    <p num="300">2/10/2012 12:16:31 p.m. PAGE 91/106 Fax Server AJ Park</p>
+    <p num="301">WO 2008/012418 36 PCT/FR2007/001250 ganglions are trypsinized and the cells dissociated mechanically by gentle trituration. The cells are resuspended in an Eagle's basal culture medium comprising 10% of fetal calf serum, 25 mM KCl, 2 mM alutamine. 100 ua/m1 'of aentamicin and 50 na/ml of NGF and then deposited on glass cover slips covered with laminin (0.25 X 106 cells per cover slip) which are subsequently placed in 12-well Corning dishes. The cells are incubated at 37°C in a humidified atmosphere comprising 5% of CO2 and 95% of air. Cytosine VDarabinoside (1 pM) is added 48 h after culturing, in order to prevent the growth of non-neuronal cells. After. culturing for 7-10 days, the cover slips are transferred into experimental chambers for tha Tat.ch clamp studies. - Electrophysiology: The measurement chambers (volume 800 µ1) comprising the cell preparation are placed on the stage of an inverted microscope (Olympus IMT2) equipped with Hoffman optics (Modulation Contrast, New York) and are observed at a magnification of 400x. The chambers are continuously perfused by gravity (2.5 ml/min) using a distributor of solutions which has 8 inlets, the single outlet of which, composed of a polyethylene tube (opening 500 pm), is placed at least 3 mm from the cell studied. The "whole cell" configuration of the patch clamp technique was used. Borosilicate glass pipettes (resistance 5-10 Mohms) are brought close to the cell using a 3D piezoelectric micromanipulator (Burleigh, PC1000). The overall currents (membrane potential set at -60 mV) are recorded with an Axopatch 1D amplifier (Axon Instruments, Foster City, California) connected to a PC controlled by Pclamp8 software (Axon Instruments). The current plots are recorded on paper and simultaneously recorded digitally (sampling frequency 15 to 25 Hz) and acquired on the hard disk of the PC. RECEIVED TIME 2. OCT. 9:14</p>
+    <p num="302">Park</p>
+    <p num="303">2/10/2012 12:16:31 p.m. PAGE 92/106 Fax Server AJ Park</p>
+    <p num="304">WO 2008/012418 37 PCT/FR2007/001250</p>
+    <p num="305">The application of a micromolar capsaicin solution produces an incoming cationic current with regard to the DRG cells (voltage set at -70 mV). In order to minimize the desensitization of the receptors, minimum interval of one minute between two applications of capsaicin is observed. After a control period (stabilization of the capsaicin alone response), the test compounds are applied alone at a given concentration (concentration of 10 nM or 0.1 nM) for a period of time of 4 to 5 minutes, during which several capsaicin compound tests are carried out (obtaining the maximum inhibition). The results are expressed as % of inhibition of the control capsaicin response.</p>
+    <p num="306">The percentages of inhibition of the capsaicin (1 microM) response are between 20% and 100% for the most active compounds of the invention tested at a concentration of 10 nM to 0.1 nM (see example in table 2).</p>
+    <p num="307">The compounds of the invention are thus effective in vitro antagonists of receptors of TRPV1 type.</p>
+    <p num="308">Table 2</p>
+    <p num="309">
+      <table>
+        <tr>
+          <td colspan="1" rowspan="1">Compound No.</td>
+          <td colspan="3" rowspan="1">% Inhibition by the DRG patch technique</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">1</td>
+          <td colspan="1" rowspan="1">53%</td>
+          <td colspan="1" rowspan="1">(1</td>
+          <td colspan="1" rowspan="1">nM)</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">12</td>
+          <td colspan="1" rowspan="1">100%</td>
+          <td colspan="1" rowspan="1">(1</td>
+          <td colspan="1" rowspan="1">nM)</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">17</td>
+          <td colspan="1" rowspan="1">60%</td>
+          <td colspan="1" rowspan="1">(10</td>
+          <td colspan="1" rowspan="1">nM)</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">19</td>
+          <td colspan="1" rowspan="1">33%</td>
+          <td colspan="1" rowspan="1">(10</td>
+          <td colspan="1" rowspan="1">nM)</td>
+        </tr>
+      </table>
+    </p>
+    <p num="310">Mouse corneal irritation test</p>
+    <p num="311">The irritating nature of capsaicin is easily assessed on the cornea since this organ is one of the most innervated by C fibers. In this context, according to preliminary experiments, the application of a very small amount of capsaicin (2 pl at a concentration of 160 pM) at the surface of the cornea of an animal results in a number of kinds of stereotyped behavior RECEIVED TIME 2. OCT. 9:14</p>
+    <p num="312">Park</p>
+    <p num="313">2/10/2012 12:16:31 p.m. PAGE 93/106 Fax Server AJ Park WO 2008/012418 38 PCT/FR2007/001250 related to irritation which are easy to record. These include: blinking of the eye, rubbing of the instilled eye by the ipsilateral front paw, rubbing of the face with the two front paws and scratching of the ipsilateral face by the hind paw. The duration of these kinds of behavior does not exceed 2 minutes of observation and the animal then resumes its normal activity. Its appearance is furthermore also normal. The mouse does not hide in a corner with the hairs standing on end and does not develop any observable signs of suffering. It may be concluded therefrom that the duration of action of capsaicin at these doses is less than 2 minutes.</p>
+    <p num="314">Summary of the methodology: The principle of the series of experiments is to determine whether the compounds of the invention can influence the behavioral response induced by a given amount of capsaicin. Capsaicin is initially diluted to 25 mM in DMSO and is diluted, for its final use, in physiological saline with 10% Tween 80. It appears, from control studies, that the solvent has no effect under these conditions.</p>
+    <p num="315">In practice, the test product, prepared at 25 mM in DMSO and diluted for its final use in physiological saline with 10% Tween 80 to the stronger concentration of 500 pM, is administered in local application at the surface of the cornea under a volume of 2 p1, 10 minutes before the application of the capsaicin. The animal receives the ocular instillation of 2 gi of a 160 gm capsaicin solution prepared as indicated above. During observation for 2 minutes following the instillation, the number of rubbing actions on the instilled eye by the ipsilateral front paw is counted for each animal.</p>
+    <p num="316">For a given group, the percentage of protection is calculated as follows: P = 100 - ((mean number of scratching actions of the RECEIVED TIME 2. OCT. 9:14</p>
+    <p num="317">Park</p>
+    <p num="318">2/10/2012 12:16:31 p.m. PAGE 94/106 Fax Server AJ Park WO 2008/012418 39 PCT/FR2007/001250 group treated with the compound/mean number of scratching actions of the group treated with the solvent) x 100).</p>
+    <p num="319">This percentage of protection is converted to a mean for each group of animals (n = number of animals tested with the compound of the invention).</p>
+    <p num="320">The percentages of protection evaluated in this model for the most active compounds of the invention, used at a concentration of 500 pM, are between 20% and 100% (see example in table 3): Table 3</p>
+    <p num="321">
+      <table>
+        <tr>
+          <td colspan="1" rowspan="1">Compound No.</td>
+          <td colspan="1" rowspan="1">P</td>
+          <td colspan="1" rowspan="1">(500 OM)</td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">1</td>
+          <td colspan="1" rowspan="1"/>
+          <td colspan="1" rowspan="1"/>
+          <td colspan="1" rowspan="1">23%</td>
+        </tr>
+      </table>
+    </p>
+    <p num="322">The results of these trials show that the most active compounds of the invention block the effects induced by the stimulation of the TRPV1 receptors.</p>
+    <p num="323">The compounds of the invention can thus be used for the preparation of medicaments, in particular for the preparation of a medicament intended to prevent or to treat pathologies in which receptors of TRPV1 type are involved.</p>
+    <p num="324">Thus,.according to another of its aspects, a subject matter of the invention is medicaments which comprise a compound of formula (I) or a pharmaceutically acceptable salt or also a hydrate or a solvate of said compound.</p>
+    <p num="325">These medicaments are employed in therapeutics, in particular in the prevention and/or the treatment of pain and inflammation, chronic, neuropathic (traumatic, diabetic, metabolic, infectious, toxic, induced by an anticancer treatment or iatrogenic), (osteo)arthritic or rheumatic pain, fibromyalgia, bone pain, cancer— RECEIVED TIME 2. OCT. 9:14</p>
+    <p num="326">Park 2/10/2012 12:16:31 p.m. PAGE 95/106 Fax Server</p>
+    <p num="327">AJ Park</p>
+    <p num="328">WO 2008/012418 40 PCT/FR2007/001250 related pain, trigeminal neuralgia, cephalgia, migraine, dental pain, burns, sunburn, bites or stings, post-herpetic neuralgia, muscle pain, nerve compression (central and/or peripheral), marrow and/or brain trauma, ischemia (of the marrow and/or brain), neurodegeneration, hemorrhagic vascular accidents (of the marrow and/or brain) or post-stroke pain.</p>
+    <p num="329">The compounds of the invention can be used for the preparation of a medicament intended to prevent and/or to treat urological disorders, such as bladder hyperactivity, bladder hyperreflexia, bladder instability, incontinence, urgent urination, urinary incontinence, cystitis, renal colic, pelvic hypersensitivity and pelvic pain.</p>
+    <p num="330">The compounds of the invention can be used for the preparation of a medicament intended to prevent and/or to treat gynecological disorders, such as vulvodynia, salpingitis-related pain These products can also a medicament intended to prevent gastrointestinal disorders, such as ref lux disorder, stomach ulcers, functional dyspepsia, colitis, IBS, and/or to treat gastro-esophageal duodenal ulcers, Crohn's disease, or dysmenorrhea. be used for the preparation of pancreatitis, esophagitis or biliary colic.</p>
+    <p num="331">The compounds of the invention can also be used for the preparation of a medicament intended to treat diabetes. Likewise, the products of the present invention may be of use in the prevention and/or the treatment of respiratory disorders, such as asthma, coughs, COPD, bronchoconstriction and inflammatory disorders. These products can also be used to prevent and/or to treat psoriasis, pruritus, irritation of the skin, eyes or mucous membranes, herpes or shingles.</p>
+    <p num="332">The compounds of the invention can also be used for the preparation of a medicament intended to treat depression.</p>
+    <p num="333">According to another of its aspects, the present RECEIVED TIME 2. OCT. 9:14</p>
+    <p num="334">Park 2/10/2012 12:16:31 p.m PAGE 96/106 Fax Server</p>
+    <p num="335">AJ Park</p>
+    <p num="336">WO 2008/012418 41 PCT/FR2007/001250 invention relates to pharmaceutical compositions comprising, as active principle, a compound according to the invention. These pharmaceutical compositions comprise an effective dose of at least one compound according to the invention, or a pharmaceutically acceptable salt, a hydrate or a solvate of said compound, and at least one pharmaceutically acceptable excipient.</p>
+    <p num="337">Said excipients are chosen, according to the pharmaceutical form and the method of administration desired, from the usual excipients known to a person skilled in the art.</p>
+    <p num="338">In the pharmaceutical compositions of the present invention for oral, sublingual, subcutaneous, intramuscular, intravenous, topical, local, intratracheal, intranasal, transdermal or rectal administration, the active principle of formula (I) above, or its optional salt, solvate or hydrate, can be administered in unit administration form, as a mixture with conventional pharmaceutical excipients, to animals and human beings for the prophylaxis or the treatment of the disorders or diseases mentioned above.</p>
+    <p num="339">The appropriate unit administration forms comprise oral forms, such as tablets, soft or hard gelatin capsules, powders, granules and oral solutions or suspensions, sublingual, buccal, intratracheal, intraocular and intranasal administration forms, forms for administration by inhalation, topical, transdermal, subcutaneous, intramuscular or intravenous administration forms, rectal administration forms and implants. The compounds according to the invention can be used, for topical application, in creams, gels, ointments or lotions.</p>
+    <p num="340">By way of example, a urilL admipiLra-Lion form of a compound according to the invention in the tablet form RECEIVED TIME 2. OCT. 9:14</p>
+    <p num="341">Park</p>
+    <p num="342">2/10/2012 12:16:31 p.m. PAGE 97/106 Fax Server AJ Park</p>
+    <p num="343">WO 2008/012418 42 PCT/FR2007/001250 can comprise the following components: compound according to une invention oo.o mg</p>
+    <p num="344">Mannitol 223.75 mg</p>
+    <p num="345">Croscarmellose sodium 6.0 mg</p>
+    <p num="346">Corn starch 15.0 mg</p>
+    <p num="347">Hydroxypropylmethylcellulose 2.25 mg</p>
+    <p num="348">Magnesium stearate 3.0 mg</p>
+    <p num="349">Said unit forms comprise doses in order to make possible daily administration of 0.001 to 30 mg of active principle per kg of body weight, depending on the pharmaceutical dosage form.</p>
+    <p num="350">There may be specific cases where higher or lower dosages are appropriate; such dosages do not depart from the scope of the invention. According to the usual practice, the dosage appropriate to each patient is determined by the physician according to the method of administration and the weight and response of said patient.</p>
+    <p num="351">The present invention, according to another of its aspects, also relates to a method for the treatment of the pathologies indicated above which comprises the administration, to a patient, of an effective dose of a compound according to the invention, or one of its pharmaceutically acceptable salts or hydrates or solvates.</p>
+    <p num="352">In this specification where reference has been made to patent specifications, other external documents, or other sources of information, this is generally for the purpose or providing a context for discuSsing the features of the invention. Unless specifically stated otherwise, reference to such external documents is not to be construed as an admission that such documents, or such sources of information, in any jurisdiction, are RECEIVED TIME 2. OCT. 9:14</p>
+    <p num="353">Park 2/10/2012 12:16:31 p.m. PAGE 98/106 Fax Server</p>
+    <p num="354">AJ Park</p>
+    <p num="355">WO 2008/012418 43 PCT/FR2007/001250 prior art, or form part of the common general knowledge in the art.</p>
+    <p num="356">THE CLAIMS DEFINING THE INVENTION ARE AS FOLLOWS: 1. A compound corresponding to the formula (I): Z 1-1\</p>
+    <p num="357">N NRaRb Z3--Z4</p>
+    <p num="358">
+      N 0 )n Y (I) in which: X1 represents a hydrogen or halogen atom or a C1
+      <sup>-</sup>
+      C6
+      <sup>-</sup>
+      alkyl, C3-C7-cycloalkyl, C3-C7-cycloalkyl-Cl-C3-alkylene, C1-C6-fluoroalkyl, cyano, C(0)NR1R2r nitro, C1-C6-thioalkyl, -S(0)-Cl-C6-alkyl,
+      <sup>-</sup>
+      S(0)2
+      <sup>-</sup>
+      Cl-C6-alkyl, S02NR1R2, aryl-C1-C6-alkylene, aryl or heteroaryl group, the aryl and heteroaryl optionally being oubotitutcd by one or more substituents chosen from a halogen or a C1-C6-alkyl, C3-C7-cycloalkyl, C3-C7-cycloalkyl-C1-C3-alkylene, C1-C6-fluoroalkyl, C1-C6-alkoxyl, C1
+      <sup>-</sup>
+      C6
+      <sup>-</sup>
+      fluoroalkoxyl, nitro or cyano group; X2 represents a hydrogen or halogen atom or a C1
+      <sup>-</sup>
+      C6
+      <sup>-</sup>
+      alkyl, C3-C7-cycloalkyl, C3-C7-cycloalkyl-C1-C3-alkylene, C1-C6-fluoroalkyl, C1 C6 alkoxyl, C3-C7- cycloalkyl-C1-C6-alkylene-O-, Ci-C6-fluoroalkoxyl, cyano, C (0) NR1R2, C1-C6-thioalkyl,
+      <sup>-</sup>
+      S(0)
+      <sup>-</sup>
+      Cl
+      <sup>-</sup>
+      C6
+      <sup>-</sup>
+      alkyl, -S(0)2-Ci-C6-alkyl, SO2NR1R2, aryl-Cl
+      <sup>-</sup>
+      CG
+      <sup>-</sup>
+      alkylene, aryl or heteroaryl, the aryl and heteroaryl optionally being substituted by one or more substituents chosen from a halogen or a C1
+      <sup>-</sup>
+      C6
+      <sup>-</sup>
+      alkyl, C3-C7-cycloalkyl, C3-C7-cycloalkyl-C1-C3- RECEIVED TIME 2. OCT. 9:14 APPLICATION NUMBER — 2007279166
+    </p>
+    <p num="359">The following page is also numbered 43 as it contains the end of the description.</p>
+    <p num="360">Park</p>
+    <p num="361">10/10/2012 2:54:00 p.m. PAGE 3/012 Fax Server AJ Park WO 200B/012419 PCTIFR2007/0012S0 prior art., or form paft ne common crenerai knc; wiedge in the art. RECEIVED TIME 10. OCT. 12:53</p>
+  </description>
+  <claims format="original" lang="en" id="claim_en">
+    <claim num="1">
+      <claim-text>1. THE CLAIMS DEFINING THE INVENTION ARE AS FOLLOWS: I. A compound oorrespendmg to the formule (T):</claim-text>
+      <claim-text>
+        2. )rb 4 y
+        <sup>'</sup>
+        (i) in which: X1 represents a hydrogcn or halogen atom or a alkyl; alkylene, Cl-Cs-fiuoroalkyl, cyaho, C(0)NRIR2, -S(C)-C:,-C6-alkyl, -S(()2- heteroarvi optionally SO2NR113.2, aryl-CI-Cr;-(J11
+        <sup>,</sup>
+        :y1ene, aryl or
+        <sup>,.1-01)</sup>
+        j), the aryl an:
+        <sup>-</sup>
+        . I heteroaIv
+        <sup>-</sup>
+        :.,- being substituted by one or more substtuents chosen from.. halogen or a CI-C6-alkyl, alkyiene, C c
+        <sup>-</sup>
+        fluoroaikoxyl, nitro or cyano cuoup; X2 repreeeute alky a hy
+        <sup>-</sup>
+        f.oqen Cr halogen atom or a alky:lene; CI-C6-fluoroalkyl, cl-::5-alkoxyl, cyano; c(C)NRR2, Ci-05-thioalkyl, alkyl, -5(0)2-C1-C6-alkyl, SO2NRIR2, arylC1.cslkylene; aryl or heteroaryl, the aryl and heteroaryl optionally being el:bstituted by one or mo
+        <sup>.</sup>
+        fe substiLuents chosen fron a halogen or a C1-06- alkyl, C2-C7-cycloalkyl, C2-CT-cycloalkyl-C-alkiene; Cy-C-fluoroalkyl, fluoroalkoxyl, ni.tro or oyano group; ad Xi represent:, n5cntiy of one anotner, a hydrogen or halogen atom or a WO 2006/012418 45 PcTir. R2007/oc)1250 cycloaikyl, C3-Cl-ovoical kyl-C1-C1-aI;
+        <sup>,</sup>
+        :viene fiuoroal kyl, C3-C7-cycical CI-C6-fl uoroalkoxy f, cvano, C (0) nitro, -S (0) -C6-31 kyl, ( 2-C -0 6- a I ky 1, S02NRIP.2„ T7t71COR,!, NRSO2RE, a r yl - kylene, aryl or heteroaryl grcu, the arvl and net:=
+        <sup>.</sup>
+        !r:Driryi opt iona ilv being 51.1batituted by one or more substituents chosen. from a halogen or a CI-C6-alkyl, C3-C7-cycloalkyl-a k c.;.x y j. ndtro or cyano group; 23 and Zq represent, lndependenLly of one another, a nitrogen atom o. a C(RO group at least one correspondinq to a nitrogen atom and at least one corresponding to a CW group; the nitrogen. aton or one of tn
+        <sup>,</sup>
+        .3 nitrogen atoms present:. in the ring, defined as ndtrogen of position 1, optionally being substituted by R7 Lhe carbon atom in the 2 or 4 position with respect Lo this reference nitroaen is substituted by an oxo or thio group; R equal to 0, I, 2 or 3; Y represents an 3rvi or a heterparyl optionally substituted by onf:- or more groups chosen froir a halogen atom or a CJ-Cii-alkyl, C3-C-;-;17ycloalkyl, -eye ioa:1 ky lkyl ene, tk.v1, hydrozyi, Ci-C6- a I koxyl, -cycloal kyl- CI-C6-3 lkylene-C-, CI -Cc-fluoroal ko'xyl, cyano, c ( 0 ) nitrc
+        <sup>.</sup>
+        ), NRIR2, Cl-C6-thioaTI kyl, tick, -S (0) -Cl-C alkyl, - S (0) 2-C1-C6-alkyl, S 02N Fk;.
+        <sup>7</sup>
+        ,.
+        <sup>2</sup>
+        :2, R C. NR3:302J, aryl-CA kyiene or aryl group, the aryl and tne kylene opt ionUI y being substituted by one or more substituents chosen from a halogen or a C.:1--(1:E1 kyl, C3-C7-cycloalkyi, fluoroakyl C1-C6-al XoHyl, Cl-CE-fluoroaIkoHvi, nitro or ayano group; WO 200B/012418 46 POT/FR2007/001250 Pa and Rb represent, independently of one another, a hydrogen. aton
+        <sup>.</sup>
+        or a CI-CE-alkyI, C7,-C7-cyclo3lky.1, C3-Ccloalkyl-C1-C2-alkylene, CI-C-fluoroalkyi, nydroxyl, C.1-CE-alkoxyl, C3-C7-cycIoalkyl-C1-C6- Ci-C6-fluoroalkoxyl, aryl or heteroaryl group, it being possible for P
+        <sup>-</sup>
+        and Rh optionally to be subti.tuted by one or more Rc groups which are 2Ldentical to or diiferent from one another;,c reprE
+        <sup>,</sup>
+        sents a halogen atom or a CI-C6-al1':yl, Ci-o6- fluoroaIkyir alkylene-0-, -5(0)2-CvikyL NRJJk2, NR3S02. F.:), 0(*20)Nr: NT.-300NR hydroxyl, thiol, clx0, thio, ary1-Calkylene, aryl or heteroaryl group, the aryl and th, e heteroaryi optorany ba!:.nq s
+        <sup>.</sup>
+        !;bstiti;.ted by one or more substituents chosen from a haleqen or a C.:-C6-a;.ky71, C-C-,-cycloa3.kyl-C1-C3-alkylene, 01-CE-a1.key1, nitro or cyarn group; RI and represent, independently of one another, a hydrogen atom or a Cr-C-alk.yi, C2-CT-cyc1oalkyl, (2-.:i•cycloalkyl-C1-C3-alkylno, or aryl group; or X1 and. R2 together form, with the nitrogen atom. which carries them, ah pyrrolidinyl, piperidinyl, azepinyi, Morphc:Linyi, thiomorpholinvi, piperazin
+        <sup>-</sup>
+        ' or: homobibezazinvi group, this group optionally being substituted by a Ci-C-aikyl, aryl or heteroaryl group; and R. represent, inciependentIy of cne another, a hydrogen atoms or a C.3-C7-cycioalky1, alkylenc, ary:1 or heteroarvl grouo; ;10 2003/01241B 47 PCT/R2007/O1250 • represents a Cr-C6-alkyl, C3-C7-cycloalkyl, aryl-C-C6-3lkylene, aryl or heferoaryl group; • represente a hydregen c..haloo
+        <sup>-</sup>
+        en atom or - a alkyl, alkylene, CI-C6-alkoxyl,
+        <sup>4</sup>
+        .22-C7- Ci-CG-fluoroalkoxy:1,. -S;0)-C1-06-alkyl, -S(0)2-Ca-C6- ary, aryl-C1alkylene, neteroaryl, hydroxyl, thiol, oc) or thio group; • repreents a hydrogen atom or a Ca-C6-aikyl, fluoroalkyl, koxyi. aryl, aryl-CI-C6- alylene or heteroaryl group; it being possible for the nit...rogen atom or atoms of the
+        <sup>--</sup>
+        .om
+        <sup>.</sup>
+        r)ound of general formula ;II to be in the oxidized form; An Lhe on of the base or of an addition salt with an acid, and in the hydrae Of eolva-,..e form. The compound of formula (I) as cisimad in claim 1, Xu &gt;; X3 and X4 are chosen, independent-ly of one another, from a hydrogen or halogen atom or a ClCEalk
+        <sup>-</sup>
+        rf or CI-C6-f1uoroalkyl group. The oompound of formula (I) as claimed in claim 2, wherein X and Xc represent a hydrogen ator and :&lt;-2 and X are c; honffn, independently of one anoher, from a hydrogen or haloden atom or a C1--C6-fil.loroalXv1 group.
+      </claim-text>
+    </claim>
+    <claim num="4">
+      <claim-text>
+        4. The compound of formula (I) as claimed in any one of claims 1. to wherein and Z4 represent, independentl.
+        <sup>-</sup>
+        c
+        <sup>-</sup>
+        u: one another, a nitrocen ar.:om or Fi C(. P.,)' group, at lea311 :slo of tnem eorresponding zo a c iRj group; te flitroen atom or one of the nitrogen atoms preen in. the ring, defined as nitrogen of position I, optionally belno; sub.stltu7z.ed by P.3 when WO 2008/012413 4. PcT/FR2007/001250 carbon atom in the 2 or 4 posi:iion with fespect to this referehce nitrogen is substituted by an oxo cr thio group; Rr, and R/ being as deihed in the general.. forul.a (1) according to claim 1.
+      </claim-text>
+    </claim>
+    <claim num="5">
+      <claim-text>
+        5. The compoun of formula (T) as claifled in laim 4, wherein 7,j and renreaent a CH;RG) group and and represent a nitroden 3t.:DTTir F6 corresponding
+        <sup>-</sup>
+        to a 'flidrogen aLow.
+      </claim-text>
+    </claim>
+    <claim num="6">
+      <claim-text>
+        6. The compound of fu.r.la (I) ;2.5 cia i.une:i n cIam 4, wherein Z.j1 and Z.4 reneeent, independently of one another, a nitrogen aLcm or a C;(1
+        <sup>.</sup>
+        -kf;) group, ons correspoming to a ni:::fogen atom and the otihers corresporldng to a C(R:,) group; the nitrogen atom present in the ring, defined ae nitrogen Of position 1, optionally toeing e.ubstituted by R7 when. the carbon atom in the 2 or 4 posiLion with respect to this reference nifirogen is eubstituted by an cxc or thio arci.j F and R/ being as. defined in the general formula acco
+        <sup>.</sup>
+        fCAng to claim
+      </claim-text>
+    </claim>
+    <claim num="7">
+      <claim-text>
+        7. The compound of formula (I) as claimeu in claim 6 wherein Z; and "42 rer. S.ilint a C(P6) group and 7.,;: and. 24 represent, idependently of one another, a ni;:rooen atorii or a C(RG) group, one of Z1 and Z. corresponding a crcoup, R representing a hydroqen or halogen atom or ;.?. Ci-C;-alkyl or Cl-C(Hfluoydalkyl group. The compound of formula (I) ac claimed in claim 7, wherein 2"; represents a niLrogen atom and Zj., Z.,: and Z2 rebrent, ndebendenuiy of one ar:..aLhr. a C(R6) group, .fepresenting a hydrogen or halogen atom or a alkyl or CSI-C6-fluoroalkyl group. The compound of formula (.1) as claimed in any onc o
+        <sup>,</sup>
+        '" claims 1 to 0, wherein n is ecfual to
+      </claim-text>
+      <claim-text>
+        1. WO 2D03/0124113 PCTIEIR2007/001250 The compound of formula (I) as claimed in any one nf claims 1 to 9, wherein Y represents en aryl or a heteroaryl optionally sus:
+        <sup>-</sup>
+        ituted by one or more halogen atons. i. The compound c;: formula (I) as claimed in arty one of claims 1 Lc ICI, wh:-:reln Re and Rb repEesen1
+        <sup>-</sup>
+        ., independently of one another, a hydrogen atom or a C3-C7-cycloalkyl, alkylene, h
+        <sup>-</sup>
+        idroxyl, C•-C6-ail:soy1 or C7i-C7-cycloalkyl-C1-Cs-alky
+        <sup>-</sup>
+        Iene-0- group, neina ossible for Ra and Rb to be optiohally substituted by one or more Rc groups wnicL are Aentical to or different from one another; Rc rebresents a (;l-C4-alkoxyl, NH2 or hydroxv1 qrso:Jp. The compound of formula ;11 as claimed in anv one of claims to 11), wherein -a and Rb represent, independently of one anOther, a hydrogen atom or a f:;---C6-slky1. or C3--::.-cycloalky1 group, it being possible for Fa and Rb to be opts
+        <sup>-</sup>
+        sionailv substitbred bv one nr more Pc gro!,zps whisch are iderticai to or different from one another Pc represents an group. it process for the preparation of a compc
+        <sup>,</sup>
+        v12d of formst.lia ;I) as claimed in any one cf clailw, 1 to 12, in wM.ch a :
+        <sup>-</sup>
+        .7.mpoi,Ind of general formula 1.1V) (IV) NO 2008;012418
+        <sup>1</sup>
+        3
+        <sup>.</sup>
+        ) PCT/F2007/0012S0 in which X2, X', X Y and n are as defined in the general formula (I). according to claim 1 and 13 represents a chlorine atom, is reacted with an amine of general formula (V) z N
+        <sup>1</sup>
+        *Y"' I I t ReRbN. N) in which 2:1, •Pa nri: R1,. are as dr.,
+        <sup>,</sup>
+        ,fined in the general formula (1) accorOing to claim 1, in a sdlvent. A process for prepara
+        <sup>-</sup>
+        ,
+        <sup>-</sup>
+        .1on of a compound of fcrmula (I) as claimed in any one of claims 1 zc, 12, An which a Compound of general formula(iv) X2s,„, V) ifl which Xi, X2, X, and. n are as defined in the ge.melra1 formula (I) acc.c.rdin r:o claim 1 and B reprc!sc,..nts a hydrozyl grPup, ::...s reacted with an, aminc of fc:fmula (7) RaRbIT in which. Ra and A
+        <sup>.</sup>
+        ) aro as defined in. The 9rlra1 formula (I) accorthng to claim 1, in the MO 2008/01241E 51 PCT/P122007/001250 presence of a coupling agent and of a base in a scivent. --N HC {Vi) 1C. The compound of fermula rqb): A medicament, comprng a compound of formula as claimed in any one of claims to 12 or a pharmaceutically accF:ptable salr: also a ydate or solvate of the cempound ef fermula A pharmaceutical composition, comprising a compound of formula ;7, as claimed in anv one of claims 1 rso 12 r a pharmscenticallv c, cceptable salt, a. hydrate or a soivae of this compound, and aL least one phazmsceuLicdlly acceptable cxcipicut. z meLtod of preventing or trcatihg pat:hiccOes in whlch receptors of TRPY1 type are involved, pain, inflammation, urolegical disorders, qynscoloicsi disorders, gastroihtestinal disorders, respiratory.diserders, psoriasis, pruritus, :Irrita
+        <sup>-</sup>
+        ,:ion of the skin, eyes or mucous membranes, heroes or shingles or treating depression or diabetes, L1.
+        <sup>-</sup>
+        1":: method combzising The otompbJnd of formula (Va): WO 200E1/0:1241.8 52 PCT/F112007/001250 administering to a patiet an effective dose of
+      </claim-text>
+      <claim-text>
+        3. COMPOUild of formula ;7,
+        <sup>-</sup>
+        ) aF: olamed in any one of claims 1 Lo 12, on
+        <sup>-</sup>
+        . one of its phafmaceutically acceptable salts dr hydraes or solvates. The
+        <sup>,</sup>
+        Jse of a compdumd of fornuj.ii as claimed in any one of claims 1 ro 12 for the preparation of a medicament to prevent or to treat p3thologies in which receptors. of TRPV1 :vpe are involved, paih, inflammation, uro.loqJ.oa1 di;
+        <sup>,</sup>
+        :orders, oyneeolodical disorders, gastrointestinal disorders, respiratory disoiders, psor!i.asis, prit,. rrirat1on of the skin, eyes or muco:J.s membranes, he-n;.ss or :
+        <sup>.</sup>
+        ,hingles or to :la: depression or diabetes.
+      </claim-text>
+    </claim>
+  </claims>
+</questel-patent-document>

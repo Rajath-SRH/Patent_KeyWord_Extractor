@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questel-patent-document lang="en" date-produced="20180716" produced-by="Questel" schema-version="3.23" file="AU2007278959B2.xml">
+  <bibliographic-data lang="en">
+    <publication-reference publ-desc="Patent proceeded by OPI">
+      <document-id>
+        <country>AU</country>
+        <doc-number>2007278959</doc-number>
+        <kind>B2</kind>
+        <date>20130328</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>AU2007278959</doc-number>
+      </document-id>
+    </publication-reference>
+    <original-publication-kind>A1</original-publication-kind>
+    <application-reference family-id="37309334" extended-family-id="1744640">
+      <document-id>
+        <country>AU</country>
+        <doc-number>2007278959</doc-number>
+        <kind>A</kind>
+        <date>20070727</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>2007AU-0278959</doc-number>
+      </document-id>
+      <document-id data-format="questel_Uid">
+        <doc-number>1823782</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>en</language-of-filing>
+    <language-of-publication>en</language-of-publication>
+    <priority-claims>
+      <priority-claim kind="regional" sequence="1">
+        <country>EP</country>
+        <doc-number>06015732</doc-number>
+        <kind>A</kind>
+        <date>20060728</date>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="1">
+        <doc-number>2006EP-0015732</doc-number>
+      </priority-claim>
+      <priority-claim kind="international" sequence="2">
+        <country>WO</country>
+        <doc-number>IB2007002147</doc-number>
+        <kind>A</kind>
+        <date>20070727</date>
+        <priority-linkage-type>W</priority-linkage-type>
+        <priority-active-indicator>N</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="2">
+        <doc-number>2007WO-IB02147</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability>
+      <unexamined-printed-without-grant>
+        <date>20080131</date>
+      </unexamined-printed-without-grant>
+      <publication-of-grant-date>
+        <date>20130328</date>
+      </publication-of-grant-date>
+    </dates-of-public-availability>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A61K  31/352       20060101AFI20080904BHEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>61</class>
+        <subclass>K</subclass>
+        <main-group>31</main-group>
+        <subgroup>352</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080904</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>A61K  31/7048      20060101ALI20080904BHEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>61</class>
+        <subclass>K</subclass>
+        <main-group>31</main-group>
+        <subgroup>7048</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080904</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>A61K  36/45        20060101ALI20080904BHEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>61</class>
+        <subclass>K</subclass>
+        <main-group>36</main-group>
+        <subgroup>45</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080904</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>A61K  36/66        20060101ALI20080904BHEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>61</class>
+        <subclass>K</subclass>
+        <main-group>36</main-group>
+        <subgroup>66</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080904</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="5">
+        <text>A61K  36/87        20060101ALI20080904BHEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>61</class>
+        <subclass>K</subclass>
+        <main-group>36</main-group>
+        <subgroup>87</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080904</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="6">
+        <text>A61P   1/04        20060101ALI20080904BHEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>61</class>
+        <subclass>P</subclass>
+        <main-group>1</main-group>
+        <subgroup>04</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080904</date>
+        </action-date>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <patent-classifications>
+      <patent-classification sequence="1">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A61K-031/7048</classification-symbol>
+        <section>A</section>
+        <class>61</class>
+        <subclass>K</subclass>
+        <main-group>31</main-group>
+        <subgroup>7048</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20170412</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="2">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A61K-031/352</classification-symbol>
+        <section>A</section>
+        <class>61</class>
+        <subclass>K</subclass>
+        <main-group>31</main-group>
+        <subgroup>352</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20170412</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="3">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A61K-036/28</classification-symbol>
+        <section>A</section>
+        <class>61</class>
+        <subclass>K</subclass>
+        <main-group>36</main-group>
+        <subgroup>28</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20170411</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="4">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A61K-036/45</classification-symbol>
+        <section>A</section>
+        <class>61</class>
+        <subclass>K</subclass>
+        <main-group>36</main-group>
+        <subgroup>45</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20170411</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="5">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A61K-036/51</classification-symbol>
+        <section>A</section>
+        <class>61</class>
+        <subclass>K</subclass>
+        <main-group>36</main-group>
+        <subgroup>51</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20170412</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="6">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A61K-036/66</classification-symbol>
+        <section>A</section>
+        <class>61</class>
+        <subclass>K</subclass>
+        <main-group>36</main-group>
+        <subgroup>66</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20170411</date>
+        </action-date>
+      </patent-classification>
+    </patent-classifications>
+    <number-of-claims>16</number-of-claims>
+    <figures>
+      <image-key data-format="questel">AU2007278959</image-key>
+    </figures>
+    <invention-title lang="en" id="title_en">Treatment and prevention mucositis by anthocyanidin derivatives</invention-title>
+    <references-cited>
+      <citation srep-phase="examiner">
+        <patcit num="1">
+          <text>HERBAL SYNTHESIS CORP, et al</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>02094300</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>WO200294300</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="2">
+          <text>INDENA SPA, et al</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>2005053719</doc-number>
+            <kind>A2</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>WO200553719</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="3">
+          <text>INDENA SPA, et al</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>2006063716</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>WO200663716</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="4">
+          <text>STICHTING TECH WETENSCHAPP, et al</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>2006024545</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>WO200624545</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="5">
+          <text>NATURAL PRODUCT CONSULTING</text>
+          <document-id>
+            <country>FR</country>
+            <doc-number>2856304</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>FR2856304</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="6">
+          <text>UNIV MICHIGAN STATE, et al</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>200115553</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>WO200115553</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="1">
+          <text>MATSUMOTO, M et al. JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY, 2004. Vol. 52(8): pages 2226-2229</text>
+        </nplcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <nplcit num="2">
+          <text>MAGISTRETTI M J et al. ARZNEIMITTEL-FORSCHUNG, 1988. Vol. 38(5): pages 686-690</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <parties>
+      <applicants>
+        <applicant data-format="original" app-type="applicant" sequence="1">
+          <addressbook>
+            <name>Indena S.p.A.</name>
+          </addressbook>
+        </applicant>
+        <applicant data-format="questel" app-type="applicant" sequence="2">
+          <addressbook lang="en">
+            <orgname>INDENA</orgname>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="original" sequence="1">
+          <addressbook>
+            <name>Morazzoni, Paolo</name>
+          </addressbook>
+        </inventor>
+        <inventor data-format="original" sequence="2">
+          <addressbook>
+            <name>Bombardelli, Ezio</name>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent sequence="1" rep-type="agent">
+          <addressbook>
+            <name>Lord and Company</name>
+            <address>
+              <address-1>West Perth, WA, 6872, AU</address-1>
+              <city>West Perth</city>
+              <state>WA</state>
+              <postcode>6872</postcode>
+              <country>AU</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <pct-or-regional-filing-data>
+      <document-id>
+        <country>WO</country>
+        <doc-number>IB2007002147</doc-number>
+        <date>20070727</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>2007WO-IB02147</doc-number>
+      </document-id>
+    </pct-or-regional-filing-data>
+    <pct-or-regional-publishing-data>
+      <document-id>
+        <country>WO</country>
+        <doc-number>2008012666</doc-number>
+        <kind>A2</kind>
+        <date>20080131</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>WO200812666</doc-number>
+      </document-id>
+    </pct-or-regional-publishing-data>
+    <lgst-data>
+      <lgst-status>GRANTED</lgst-status>
+    </lgst-data>
+  </bibliographic-data>
+  <abstract format="original" lang="en" id="abstr_en">
+    <p id="P-EN-00001" num="00001">
+      <br/>
+      Methods for treating and preventing mucositis, in particular mucositis following the administration of chemotherapy drugs or a combination of said drugs with radiotherapy, are disclosed herein.
+      <br/>
+      More specifically, disclosed herein is the administration of a therapeutically effective amount of at least one of an anthocyanoside, a proanthocyanidin, or an extract containing at least one of an anthocyanoside or a proanthocyanidin for the treatment or prevention of mucositis.
+      <br/>
+      The therapeutically effective amount of the anthocyanoside, proanthocyanidin or extract can be administered alone or in combination with a therapeutically effective amount of at least one of an anti-inflammatory agent, immunomodulating agent, analgesic, antimicrobial agent or antifungal agent.
+      <br/>
+      Also disclosed herein are pharmaceutical compositions for treating and preventing mucositis.
+    </p>
+  </abstract>
+  <description format="original" lang="en" id="desc_en">
+    <heading>FIELD OF THE INVENTION</heading>
+    <p num="1">Methods for treating and preventing mucositis, in particular mucositis following the administration of chemotherapy drugs or a combination of said drugs with radiotherapy, are disclosed herein. More specifically, disclosed herein is the administration of a therapeutically effective amount of at least one of an anthocyanoside, a proanthocyanidin, or an extract containing at least one of an anthocyanoside or a proanthocyanidin for the treatment or prevention of mucositis. The therapeutically effective amount of the anthocyanoside, proanthocyanidin or extract can be administered alone or in combination with a therapeutically effective amount of at least one of an antiinflammatory agent, immunomodulating agent, analgesic, antimicrobial agent or antifungal agent. Also disclosed herein are pharmaceutical compositions for treating and preventing mucositis.</p>
+    <heading>BACKGROUND</heading>
+    <p num="2">The first aim of oncology is the complete eradication of the tumor by any means, even when this leads to serious side effects; the motto pfimum non nocere ("first, do no harm") is not used as a guideline in the treatment of tumors, but has to be replaced with primum succerrere ("first, hasten to help"). Oncological treatment normally involves radical surgery, a targeted radiotherapy including photodynamic treatment, high doses of chemotherapy drugs, radiotherapy, and the maximum tolerated dose of cytokines when patients have serious side effects. In addition to these treatments, it is established practice to administer monoclonal antibodies for specific tumors in combination with chemotherapy, which has side effects similar to those reported for the combination of chemotherapy and radiotherapy. The challenge facing the medical profession is consequently to use all available means to maximize the therapeutic result.</p>
+    <p num="3">However, current treatments are not sufficiently selective to target the tumor cell alone; chemotherapy also targets all actively proliferating tissues, creating problems in the tissues similar to those caused by radiotherapy. These treatments induce necrotic processes which lead to negative immune responses, and induce serious inflammatory processes.</p>
+    <p num="4">One of the side effects of radiotherapy, and above all chemotherapy, is mucositis, which normally affects the gastroenteric tract, especially the mouth, esophagus, stomach, intestine and the vagina in women. The colon is involved in most cases, as are other accessible mucous membranes. Furthermore, the treatment of mucositis must be adjusted for each type of chemotherapy or anti-proliferation drug used. Mucositis may also affect the sex organs.</p>
+    <p num="5">The drugs that mainly cause mucositis are anthracyclines, fluorouracyl, paclitaxel, actinomycin, mithramycin, etoposide, topotecan, amsacrine, methotrexate, hydroxyurea and combinations thereof with other chemotherapy drugs such as the platinum complexes, etc., which are the most common drugs used in oncological treatment.</p>
+    <p num="6">Mucositis is a serious symptom, which adversely affects the patient's quality of life, as it makes eating difficult, and leads to infections that require the discontinuance of chemotherapy or the replacement of effective constituents of the mixtures, with a consequent reduction in the efficacy of treatment. The combination of chemotherapy and radiotherapy causes mucositis in 90% of patients. Mucositis is caused by immune reactions, which are still being researched, together with the direct effect of chemotherapy on actively proliferating tissues. As the mucous membranes are actively proliferating tissues, lesions that form during chemotherapy, due to thinning of the mucous layer, are normally followed by infections of bacterial, fungal and viral origin. In view of the genesis of mucositis, complete treatment generally requires systemic administration of antibiotics, antifungals or anti-inflammatory agents with immunostimulating properties, combined with topical treatments containing compounds that modulate wound-healing and prevent infection.</p>
+    <heading>SUMMARY OF THE INVENTION</heading>
+    <p num="7">Described herein are methods of treating or preventing mucositis in a patient, e.g., a patient in need thereof, comprising administering to the patient a therapeutically effective amount of at least one of an anthocyanoside, a proanthocyanidin, or an extract, such as a plant extract, comprising at least one of an anthocyanoside or a proanthocyanidin. For instance, the methods can comprise administering therapeutically effective amounts of one or more of an anthocyanoside, a proanthocyanidin or such an extract, or various combinations of such compounds and extracts. As used herein, the term "anthocyanoside(s)" includes anthocyanosides, aglycones of anthocyanosides, anthocyanidins, as well as salts and derivatives thereof. Furthermore, as used herein, the term "anthocyanoside" is interchangeable and synonymous with the term "anthocyan." Also, as used herein, the term "aglycone" is interchangeable and synonymous with the term "aglycon." Moreover, as used herein, the term "proanthocyanidin" is interchangeable and synonymous with the term "procyanidin."</p>
+    <p num="8">Also described herein are pharmaceutical compositions for treating or preventing mucositis, in which the compositions comprise (1) a therapeutically effective amount of at least one of an anthocyanoside, a proanthocyanidin, or an extract, such as a plant extract, comprising at least one of an anthocyanoside or a proanthocyanidin, and (2) a pharmaceutically acceptable excipient. For example, the compositions can comprise therapeutically effective amounts of one or more of an anthocyanoside, a proanthocyanidin or such an extract, or various combinations of such compounds and extracts.</p>
+    <p num="9">Examples of anthocyanosides include without limitation glycosides of cyanidin, deiphinidin, or pelargonidin, or aglycones of such glycosides. Examples of proanthocyanidins include without limitation proanthocyanidin A2 or proanthocyanidin B2. Examples of plant extracts comprising at least one of an anthocyanoside or a proanthocyanidin include without limitation extracts derived from Vaccinium myrtillus, Vitis vinifera or other plants containing such compounds. In some embodiments, the therapeutically effective amount of the anthocyanoside, proanthocyanidin or extract comprising at least one anthocyanoside or proanthocyanidin can be about 50 mg to about 500 mg per unit dose. In other embodiments, the therapeutically effective amount of the anthocyanoside, proanthocyanidin or extract comprising at least one anthocyanoside or proanthocyanidin can be about 3000 mg or less per day. Also, the therapeutically effective amount of the anthocyanoside, proanthocyanidin or extract comprising at least one anthocyanoside or proanthocyanidin can be administered to the patient by systemic administration, such as oral administration, or by topical administration.</p>
+    <p num="10">In certain embodiments, the methods described herein can further comprise administering a therapeutically effective amount of at least one of an anti-inflammatory agent, immunomodulating agent, analgesic, antimicrobial agent or antifungal agent. Also, the compositions described herein can further comprise a therapeutically effective amount of at least one of such agents. The anti-inflammatory agent, immunomodulating agent or analgesic can comprise an andrographolide or a natural or synthetic analogue thereof, a lactone sesquiterpene or a natural or synthetic analogue thereof, a parthenolide or a natural or synthetic analogue thereof, a cynaropicrin or a natural or synthetic analogue thereof, or a isobutylamide of a polyunsaturated fatty acid, or a lipophilic extract of Zanthoxylum bungeanum or an extract of Echinacea angustifolia. In certain methods and compositions, the lipophilic extract of Zanthoxylum bungeanum or an extract of Echinacea angustifolia is present in amounts of about 0.02 mg to 0.05 mg per unit dose.</p>
+    <p num="11">The antimicrobial agent or antifungal agent can be natural or synthetic. For example, the antimicrobial agent or antifungal agent can comprise miconazole; an antibiotic; a benzofuran; an isoquinoline alkaloid, such as a benzophenanthridine alkaloid or phenanthridine alkaloid; a sanguinarine or a natural or synthetic analogue thereof; chelerythrine or a natural or synthetic analogue thereof; chelidonine or a natural or synthetic analogue thereof; eupomatenoid or a natural or synthetic analogue thereof; or an extract, such as a plant extract, comprising any such compounds. Also, the antimicrobial agent or antifungal agent can comprise an extract of Sanguinaria canadensis, Macleaya cordata or Macleaya microcarpa. The therapeutically effective amount of the antimicrobial agent or the antifungal agent can be administered to the patient by systemic administration, such as oral administration, or by topical administration.</p>
+    <p num="12">For instance, the method can comprising administering and the composition can comprise a tablet, such as a slow-dissolving tablet, or other pharmaceutical composition. The pharmaceutical composition can comprise an extract of Vaccinium myrtillus, and an isoquinoline alkaloid extracted from Sanguinaria canadensis, Macleaya cordata or Macleaya microcarpa. The pharmaceutical composition can further comprise a lipophilic extract of Zanthoxylum bungeanum.</p>
+    <p num="13">The pharmaceutical composition can take on various forms. In some instances, it is in the form of a tablet, a capsule, a chewing gum, a liquid form, a vaginal gel or granulates. In some embodiments, the pharmaceutical composition is in the form of a tablet, such as a slow dissolving tablet, and the therapeutically effective amount of the anthocyanoside, proanthocyanidin or extract comprising at least one anthocyanoside or a proanthocyanidin is contained in the tablet in an amount of about 10 mg to about 200 mg per tablet. In another embodiment, the pharmaceutical composition is in the form of a tablet and the therapeutically effective amount of the antimicrobial agent or the antifungal agent is contained in the tablet in an amount of about 2 mg to about 10 mg per tablet.</p>
+    <p num="14">Mucositis in various parts of the patient's body can be treated or prevented using the methods and compositions described herein. For instance, the mucositis can occur in a part of the patient's gastroenteric tract, such as the patient's mouth, esophagus, stomach, intestine, or colon. In other embodiments, the mucositis can occur in a sex organ, such as the vagina, or the skin. In certain cases involving a sex organ, a therapeutically effective amount of a benzophenanthridine alkaloid, a benzofuran or an analogue thereof, a hyperforin or an analogue thereof, or a fluoroglucinol or an analogue thereof can be administered to the patient or included in the compositions.</p>
+    <p num="15">In some embodiments, the patient has a cancer. Moreover, the mucositis can occur in connection with the administration of a chemotherapy or a radiotherapy to the patient, such as the administration of an anthracycline, fluorouracyl, paclitaxel, actinomycin, mithramycin, etoposide, topotecan, amsacrine, methotrexate, hydroxyurea or a platinum complex. The therapeutically effective amount of the anthocyanoside, proanthocyanidin or extract comprising at least one of an anthocyanoside or a proanthocyanidin can be administered to the patient before, after or while the patient receives a chemotherapy.</p>
+    <heading>DETAILED DESCRIPTION</heading>
+    <p num="16">Anthocyanosides and proanthocyanidins are substances with different action mechanisms partly associated with their chemical nature. These substances are potent antioxidants, stimulators of fibroblast proliferation and mucous production at the gastric level, potent inhibitors of proteases, (especially p-glucuronidase, hyaluronidase and collagenase), and potent wound-healing agents. A special feature is their effect on capillary fragility and permeability, which often leads to significant topical anti-inflammatory activity. Anthocyanosides and proanthocyanidins as well as compositions comprising such compounds are described in International Publication No. WO 2006/063716A1 (PCT application no. PCT/EP2005/013047), which is incorporated herein in its entirety for all purposes. The most appropriate polyphenol agents will be selected, depending on the area affected by mucositis. As anthocyanosides and anthocyanidins, have a strong red coloring due to their chemical nature, they will be used for treatment of the gastroenteric tract. For treatment of sex organs or exposed skin areas, anthocyanosides will be replaced with proanthocyanidins, which are not colored and equally active for these purposes.</p>
+    <p num="17">Anthocyanosides, especially glycosides of cyanidin or delphinidin or aglycones of such glycosides, which are abundantly present, for example, in the extracts of Vaccinium myrtillus and other species, have demonstrated significant preventive and curative antiulcer activity in the rat, when administered orally, in various models of experimental gastric ulcers (pylorus-ligature, reserpine, phenylbutazone, restraint, and acetic acid) without affecting gastric secretion, and increasing the mucous layer as can be demonstrated histologically. Again in the rat, these compounds protect the gastric mucosa against lesions induced by aspirin, a finding which has also been confirmed in man by measuring occult blood in the stool.</p>
+    <p num="18">When administered by the gastric route, the compounds inhibit the reduction of transmucosal potential, and increase H+ backscattering induced by salicylates. All these parameters suggest that gastroprotective activity is associated with the efficiency of the mucosal barrier. In volunteers, the administration of cyanidin significantly increased the secretion of PGE2 compared with the controls, which helps to explain the gastro-protective effect of anthocyanosides. The RNA/DNA ratio and protein synthesis also increase, as does mucus secretion. The most marked phenomenon relates to mucus production and its storage after formation due to the inhibitory effect on metalloproteases, such as hyaluronidase, collagenase and glucuronidase. These actions can be documented by direct topical and systemic action. Both the anthocyanosides and the proanthocyanidins disclosed herein have a marked wound-healing activity, which is useful to protect against tissue damage.</p>
+    <p num="19">It is therefore very important to use these products to treat patients who undergo chemotherapy with drugs which are well known to cause mucositis. As bacterial and/or fungal infections are particularly frequent in mucositis, a treatment, such as a topical treatment, with substances that inhibit the growth of both bacteria and fungi is particularly important. The antimicrobial or antifungal agents or substances chosen for this purpose include isoquinoline alkaloids, such as benzophenanthridine alkaloids or phenanthridine alkaloids, sanguinarine, chelerythrine and chelidonine, which inhibit the growth of Gram + and Gram - bacteria, and numerous strains of Candida and other pathogenic fungi, at nanomolar concentrations. Synthetic antifungals such as miconazole or antifungal antibiotics, and benzofurans such as eupomatenoid and its natural or synthetic analogues, can be used in combination in different ways. The advantage of the isoquinoline alkaloids, such as benzophenanthridine alkaloids or phenanthridine alkaloids, is that these compounds are only absorbed to a small extent by oral administration, are very potent antimicrobials, and possess a strong local analgesic action. In some formulations for the treatment of mucositis induced by chemotherapy drugs, it can be useful for some forms to combine isobutylamides of polyunsaturated fatty acids which possess an agonistic effect on the cannabinoid CB1 and CB2 receptors and an antiinflammatory and analgesic action.</p>
+    <p num="20">Treatment with the formulations disclosed herein has the unusual feature that all the constituents of the combination are absorbed to a negligible extent on oral administration, so they can be administered on a preventive basis, before chemotherapy begins, or simultaneously, continuing the treatment between cycles to reduce the risk of mucositis. If these components are absorbed, they have an angiogenetic activity as reported in Free Radical Research, 36, 1023-31, 2002, inhibiting VEGF expression. Systemic treatment with anti-inflammatory immunostimulants involves the use of andrographolide and its natural or synthetic analogues, or the use of lactone sesquiterpenes such as parthenolide, cynaropicrin or their natural or synthetic analogues. These compounds inhibit inflammatory processes by acting on TNF-a and NF-kB, and stimulate immunological reactivity.</p>
+    <p num="21">In addition to alkaloid antimicrobial agents, natural or synthetic benzofurans were chosen which present complementary activity to those agents, acting with different mechanisms.</p>
+    <p num="22">The compositions disclosed herein prevent the formation of purulent plaques in the oral cavity variously infected by saprophytes, avoiding the use of antibiotics, and at the same time reducing the length of the infection. The pharmaceutical compositions to be used are mainly formulated as tablets which dissolve slowly in the oral cavity, or as chewing gums which allow slow release of the active constituents. These compositions are mainly used in preventive treatments, but also curatively, and for oral hygiene. According to a preferred aspect, the compositions disclosed herein will also contain essential oils to increase their approval rating in terms of freshness of the oral cavity. In human pharmacological treatment, the doses which have proved effective when administered in a suitable formulation range between 10 and 200 mg per tablet for anthocyanosides, proanthocyanidins or extracts comprising at least one anthocyanoside or proanthocyanidin, and a concentration of an isoquinoline alkaloid, such as a benzophenanthridine alkaloid or phenanthridine alkaloid, ranging between 2 and 10 mg per tablet, or between 0.05 and 0.2% when administered in liquid forms for gargling, etc. Also, the methods can comprise administering or the compositions can comprise extracts containing an anthocyanoside or a proanthocyanidin in amounts of about 20 mg to about 80 mg per unit dose. In some embodiments, the methods comprise administering or the compositions comprise extracts containing isoquinoline alkaloids in amounts of about 2 mg to about 20 mg per dose.</p>
+    <p num="23">In particular, the compositions disclosed herein exert not only a preventive but a therapeutic effect, especially as regards the duration of the pathological form.</p>
+    <p num="24">The compositions also includes pediatric formulations, such as slowdissolving gum or candy forms compatible with the stability of the active constituents. Tablets, capsules and dispersible granulates or oral liquid forms which promote close contact between the active constituents and the walls of the gastroenteric tract will be used to treat gastric and colorectal mucositis. The formulations for this specific indication cannot contain antimicrobial agents, but will always preferably contain anti-inflammatory and immunomodulating agents. The treatment will preferably be performed with anthocyanosides of Vaccinium myrtillus or Vitis vinifera at doses ranging between 50 and 500 mg per unit dose, or with cyanidin, delphinidin or pelargonidin at similar doses, with daily treatment of up to 3000 mg.</p>
+    <p num="25">Proanthocyanidins, such as proanthocyanidin A2 or B2, will be used to treat mucositis of the sex organs, especially the vagina, preferably in combination with isoquinoline alkaloids, such as benzophenanthridine alkaloids or phenanthridine alkaloids, or benzofurans such as eupomatenoid and its analogues, or with terpenes such as hyperforin and its analogues and fluoroglucinols extracted from Myrtus communis or Humulus luppulus. These formulations include vaginal pessaries, foams, gels or creams, depending on the tolerability of the preparations to the damaged mucous membranes. These compositions will therefore be prepared in accordance with conventional methods, like those described in "Remington's Pharmaceutical Handbook", Mack Publishing Co., N. Y., USA, together with suitable excipients.</p>
+    <p num="26">The following illustrative examples are set forth to assist in understanding the methods and compositions described herein and do not limit the claimed methods and compositions.</p>
+    <heading>EXAMPLES</heading>
+    <p num="27">Example I - Tablets - composition per tablet</p>
+    <p num="28">1. Vaccinium myrtillus extract 100.0 mg</p>
+    <p num="29">2. Sanguinaria canadensis alkaloids 6.0 mg</p>
+    <p num="30">3. Mannitol 688.0 mg</p>
+    <p num="31">4. Xylitol 600.0 mg</p>
+    <p num="32">5. Glyceryl behenate 30.0 mg</p>
+    <p num="33">6. Anhydrous citric acid 20.0 mg</p>
+    <p num="34">7. Silicon dioxide 15.0 mg</p>
+    <p num="35">8. Liquorice flavoring 15.0 mg</p>
+    <p num="36">9. Mint flavoring 10.0 mg</p>
+    <p num="37">10. Magnesium stearate 7.0 mg</p>
+    <p num="38">11. Menthol crystals 5.0 mg</p>
+    <p num="39">12. Potassium acesulfame 4.0 mg</p>
+    <p num="40">The menthol crystals were ground to a fine powder and mixed with all the other constituents of the formulation, using a suitable mixer (e.g. a V-mixer). The mixture of powders was then compressed with a tablet press, equipped with punches of suitable dimensions, to give 1500 mg tablets.</p>
+    <p num="41">Example II - Tablets - composition per tablet</p>
+    <p num="42">1. Cyanidin chloride 100.00 mg</p>
+    <p num="43">2. Sanguinaria canadensis alkaloids 4.00 mg</p>
+    <p num="44">3. Lipophilic extract of Zanthoxylum bungeanum 0.25 mg</p>
+    <p num="45">4. Mannitol 442.75 mg</p>
+    <p num="46">5. Xylitol 300.00 mg</p>
+    <p num="47">6. Lactose 100.00 mg</p>
+    <p num="48">7. Glycerol palmitostearate 50.00 mg</p>
+    <p num="49">8. Methylcellulose 40.00 mg</p>
+    <p num="50">9. Soft fruit flavoring 30.00 mg</p>
+    <p num="51">10. Hydrogenated vegetable oils 10.00 mg</p>
+    <p num="52">11. Liquorice flavoring 10.00 mg</p>
+    <p num="53">12. Mint flavoring 6.00 mg</p>
+    <p num="54">13. Anhydrous citric acid 5.00 mg</p>
+    <p num="55">14. Potassium acesulfame 2.00 mg</p>
+    <p num="56">Ximenoil isobutylamide, adsorbed on a small amount of mannitol, was mixed with cyanidin chloride, Sanguinaria canadensis alkaloids, the remaining mannitol, xylitol, lactose, flavorings and anhydrous citric acid. The mixture of powders was then mixed with a hydroalcoholic solution of methylcellulose (wet granulation). The mixture obtained was passed through a mesh screen, dried in the stove, sieved through a 20 mesh screen and finally mixed with the other components of the formulation using a suitable mixer. The mixture of powders was compressed with a tablet press, equipped with punches of suitable dimensions, to obtain 1100 mg tablets.</p>
+    <p num="57">Example Ill - 1000 mg Tablets</p>
+    <p num="58">1. Vacciniurn myrtillus alcoholic extract</p>
+    <p num="59">2. sanguiritrinum</p>
+    <p num="60">3. Zanthoxylum bungeanum extracted purified</p>
+    <p num="61">4. glyceryl behanate</p>
+    <p num="62">5. Anhydrous citric acid</p>
+    <p num="63">6. powdered liquorice juice</p>
+    <p num="64">7. xylitol</p>
+    <p num="65">8. Mannitol</p>
+    <p num="66">9. silicon dioxide</p>
+    <p num="67">10. peppermint flavoring</p>
+    <p num="68">11. magnesium stearate</p>
+    <p num="69">12. potassium acesulfame</p>
+    <p num="70">13. menthol</p>
+    <p num="71">14. hydroxypropylcellulose</p>
+    <p num="72">40.0 mg 2.0 mg 0.025 mg 30.0 mg 20.0 mg 80.0 mg 628.975 mg 700.0 mg 15.0 mg 10.0 mg 7.5 mg 4.0 mg 5.0 mg 0.004 mg</p>
+    <p num="73">The menthol crystals were grounded to obtain a fine powder. Zanthoxylum bungeanum extract was adsorbed on a small amount of mannitol and mixed with the remaining components of the formulation along with the remaining portion of the mannitol and with the ground menthol. The mixture was passed through a 20 mesh screen and compressed with punches of suitable size to obtain 1000 mg tablets. Hydroxypropylcellulose was dissolved in purified water and sprayed on the tablets.</p>
+    <p num="74">Example IV - 1000 mg Tablets</p>
+    <p num="75">1. Vaccinium myrtillus alcoholic extract 40.0 mg</p>
+    <p num="76">2. Sanguinaria canadensis alcoholic extract 2.0 mg</p>
+    <p num="77">3. Zanthoxylum bungeanum extracted purified 0.025 mg</p>
+    <p num="78">4. Soy lecithin 30.0 mg</p>
+    <p num="79">5. Anhydrous citric acid 5.0 mg</p>
+    <p num="80">6. L-Cysteine 5.0 mg</p>
+    <p num="81">7. Lactose 200.0 mg</p>
+    <p num="82">8. Mannitol 552.475 mg</p>
+    <p num="83">9. Methylcellulose 40.0 mg</p>
+    <p num="84">10. Glycerol palmitostearate 50.0 mg</p>
+    <p num="85">11. Berry flavor 40.0 mg</p>
+    <p num="86">12. potassium acesulfame 0.5 mg</p>
+    <p num="87">13. Talc 10.0 mg</p>
+    <p num="88">14. Sodium bicarbonate 25.0 mg</p>
+    <p num="89">Zanthoxylum bungeanum extract was adsorbed on a small amount of mannitol and mixed with the remaining components of the formulation along with the remaining portion of the mannitol. The mixture was passed through a mesh screen and compressed with punches of suitable size to obtain 1000 mg tablets.</p>
+    <p num="90">Example V - 1000 mg Tablets</p>
+    <p num="91">1. Vitis vinifera alcoholic extract 80.0 mg</p>
+    <p num="92">2. Sanguinaria canadensis alcoholic extract 2.0 mg</p>
+    <p num="93">3. Zanthoxylum bungeanum extracted purified 0.025 mg</p>
+    <p num="94">4. Soy lecithin 30.0 mg</p>
+    <p num="95">5. Anhydrous citric acid 5.0 mg</p>
+    <p num="96">6. L-Cysteine 5.0 mg</p>
+    <p num="97">7. Lactose 200.0 mg</p>
+    <p num="98">8. Mannitol 512.475 mg</p>
+    <p num="99">9. Methylcellulose 40.0 mg</p>
+    <p num="100">10. Glycerol palmitostearate 50.0 mg</p>
+    <p num="101">11. Berry flavors 40.0 mg</p>
+    <p num="102">12. potassium acesulfame 0.5 mg</p>
+    <p num="103">13. Talc 10.0 mg</p>
+    <p num="104">14. Sodium bicarbonate 25.0 mg</p>
+    <p num="105">Zanthoxylum bungeanum extract was adsorbed on a small amount of mannitol and mixed with the remaining components of the formulation along with the remaining portion of the mannitol. The mixture was passed through a mesh screen and compressed with punches of suitable size to obtain 1000 mg tablets.</p>
+    <p num="106">Example VI - 1000 mg Tablets</p>
+    <p num="107">1. Vacciniurn myrtillus alcoholic extract 40.0 mg</p>
+    <p num="108">2. Sanguinaria canadensis alcoholic extract 2.0 mg</p>
+    <p num="109">3. Echinacea angustifolia lipophilic extract 5.0 mg</p>
+    <p num="110">4. Soy lecithin 30.0 mg</p>
+    <p num="111">5. Anhydrous citric acid 5.0 mg</p>
+    <p num="112">6. L-Cysteine 5.0 mg</p>
+    <p num="113">7. Lactose 200.0 mg</p>
+    <p num="114">8. Mannitol 547.5 mg</p>
+    <p num="115">9. Methylcellulose 40.0 mg</p>
+    <p num="116">10. Glycerol palmitostearate 50.0 mg</p>
+    <p num="117">11. Berry flavors 40.0 mg</p>
+    <p num="118">12. potassium acesulfame 0.5 mg</p>
+    <p num="119">13. Talc 10.0 mg</p>
+    <p num="120">14. Sodium bicarbonate 25.0 mg</p>
+    <p num="121">Echinacea angustifolia extract was adsorbed on a small amount of mannitol and mixed with the remaining components of the formulation along with the remaining portion of the mannitol. The mixture was passed through a mesh screen and compressed with punches of suitable size to obtain 1000 mg tablets.</p>
+    <p num="122">Example VII - 1000 mg Tablets</p>
+    <p num="123">1. Vitis vinifera alcoholic extract 80.0 mg</p>
+    <p num="124">2. Sanguinaria canadensis alcoholic extract 2.0 mg</p>
+    <p num="125">3. Echinacea angustifolia lipophilic extract 5.0 mg</p>
+    <p num="126">4. Soy lecithin 30.0 mg</p>
+    <p num="127">5. Anhydrous citric acid 5.0 mg</p>
+    <p num="128">6. L-Cysteine 5.0 mg</p>
+    <p num="129">7. Lactose 200.0 mg</p>
+    <p num="130">8. Mannitol 507.5 mg</p>
+    <p num="131">9. Methylcellulose 40.0 mg</p>
+    <p num="132">10. Glycerol palmitostearate 50.0 mg</p>
+    <p num="133">11. Berry flavors 40.0 mg</p>
+    <p num="134">12. potassium acesulfame 0.5 mg</p>
+    <p num="135">13. Talc 10.0 mg</p>
+    <p num="136">14. Sodium bicarbonate 25.0 mg</p>
+    <p num="137">Echinacea angustifolia extract was adsorbed on a small amount of mannitol and mixed with the remaining components of the formulation along with the remaining portion of the mannitol. The mixture was passed through a mesh screen and compressed with punches of suitable size to obtain 1000 mg tablets.</p>
+    <p num="138">Example VIII - Hard Gelatin. Capsules - composition per capsule</p>
+    <p num="139">Cyanidin 250 mg</p>
+    <p num="140">Lactose 100 mg</p>
+    <p num="141">Microcrystalline cellulose 100 mg</p>
+    <p num="142">Cross-linked sodium carboxymethylcellulose 45 mg</p>
+    <p num="143">Colloidal silicon dioxide 5 mg</p>
+    <p num="144">The powders were mixed in a suitable mixer, and the mixture obtained was used to fill hard gelatin capsules at an amount of 500 mg/capsule. Example IX - Hard Gelatin Capsules - composition per capsule</p>
+    <p num="145">1. Cyanidin 200 mg</p>
+    <p num="146">2. Andrographolide 70 mg</p>
+    <p num="147">3. Lactose 100 mg</p>
+    <p num="148">4. Microcrystalline cellulose 100 mg</p>
+    <p num="149">5. Cross-linked sodium carboxymethylcellulose 40 mg</p>
+    <p num="150">6. Colloidal silicon dioxide 5 mg</p>
+    <p num="151">7. Magnesium stearate 5 mg</p>
+    <p num="152">The preparation method for Example IX was similar to that described for Example VIII.</p>
+    <p num="153">Example X - Water-Dispersible Granulate</p>
+    <p num="154">1. Alcoholic extract of Vaccinium myrtillus 100.0 mg</p>
+    <p num="155">2. Chelidonine 3.0 mg</p>
+    <p num="156">3. Mannitol 1200.0 mg</p>
+    <p num="157">4. Maltodextrin 913.0 mg</p>
+    <p num="158">5. Guar gum 120.0 mg</p>
+    <p num="159">6. Hydroxypropylcellulose 20.0 mg</p>
+    <p num="160">7. Strawberry flavoring 15.0 mg</p>
+    <p num="161">8. Anhydrous citric acid 15.0 mg</p>
+    <p num="162">9. Aspartame 10.0 mg</p>
+    <p num="163">10. Neohesperidine 4.0 mg Alcoholic extract of Vaccinium myrtillus, chelidonine, mannitol, maltodextrin, guar gum, anhydrous citric acid, aspartame and neohesperidine were mixed with a suitable mixer (e.g. a V-mixer). The mixture of powders thus obtained was mixed with an alcoholic solution of hydroxypropylcellulose (wet granulation). The mixture obtained was granulated on a 10 mesh screen, dried in a stove under vacuum, sieved through a 20 mesh screen and mixed with the flavoring. Sachets were filled with the granulate thus obtained, in the amount of 2400 mg/sachet Example XI - Vaginal Gel</p>
+    <p num="164">1. Proanthocyanidin A2 1.0 g</p>
+    <p num="165">2. Sanguinaria canadensis alkaloids 0.003 g</p>
+    <p num="166">3. Propylene glycol 10.0 g</p>
+    <p num="167">4. Ethoxydiglycol 10.0 g</p>
+    <p num="168">5. Softigen 767 10.0 g</p>
+    <p num="169">6. Polysorbate 80 4.0 g</p>
+    <p num="170">7. Carbomer 2.0 g</p>
+    <p num="171">8. Triethanolamine 20% solution 2.0 g</p>
+    <p num="172">9. Methyl paraben 0.2 g</p>
+    <p num="173">10. Propyl paraben 0.1 g</p>
+    <p num="174">11. Purified water q.s for 100.0 g</p>
+    <p num="175">Proanthocyanidin A2 and Sanguinaria canadensis alkaloids were added to a mixture of propylene glycol and ethoxydiglycol. The solution was heated, and Softigen 767 was added under agitation. The solution was left to cool, and Polysorbate 80, methyl- and propyl paraben were added. Purified water was added to the solution, and the carbomer was dispersed under intense agitation. The solution was deareated under vacuum, and gelled under agitation with 20% triethanolamine solution.</p>
+    <p num="176">Example XII - Vaginal Gel</p>
+    <p num="177">1. Proanthocyanidin A2 1.0 g</p>
+    <p num="178">2. Sanguinarine 0.002 g</p>
+    <p num="179">3. Propylene glycol 10.0 g</p>
+    <p num="180">4. Ethoxydiglycol 10.0 g</p>
+    <p num="181">5. Softigen 767 10.0 g</p>
+    <p num="182">6. Polysorbate 80 4.0 g</p>
+    <p num="183">7. Carbomer 2.0 g</p>
+    <p num="184">8. Triethanolamine 20% solution 2.0 g</p>
+    <p num="185">9. Methyl paraben 0.2 g</p>
+    <p num="186">10. Propyl paraben 0.1 g</p>
+    <p num="187">11. Purified water q.s for 100.0 g</p>
+    <p num="188">Proanthocyanidin A2 and sanguinarine were added to a mixture of propylene glycol and ethoxydiglycol. The solution was heated, and Softigen 767 was added under agitation. The solution was left to cool, and Polysorbate 80, methyl- and propyl paraben were added. Purified water was added to the solution, and the carbomer was dispersed under intense agitation. The solution was deareated under vacuum, and gelled under agitation with 20% triethanolamine solution.</p>
+    <p num="189">Example XIII - Vaginal gel</p>
+    <p num="190">1. Proanthocyanidin A2 1.0 g</p>
+    <p num="191">2. Eupomatenoid 6 0.012 g</p>
+    <p num="192">3. Propylene glycol 10.0 g</p>
+    <p num="193">4. Ethoxydiglycol 10.0 g</p>
+    <p num="194">5. Softigen 767 10.0 g</p>
+    <p num="195">6. Polysorbate 80 4.0 g</p>
+    <p num="196">7. Carbomer 2.0 g</p>
+    <p num="197">8. Triethanolamine 20% solution 2.0 g</p>
+    <p num="198">9. Methyl paraben 0.2 g</p>
+    <p num="199">10. Propyl paraben 0.1 g</p>
+    <p num="200">11. Purified water q.s for 100.0 g Proanthocyanidin A2 and eupomatenoid 6 were added to a mixture of propylene glycol and ethoxydiglycol. The solution was heated, and Softigen 767 was added under agitation. The solution was left to cool, and Polysorbate 80, methyl- and propyl paraben were added. Purified water was added to the solution, and the carbomer was dispersed under intense agitation. The solution was deareated under vacuum, and gelled under agitation with 20% triethanolamine solution.</p>
+    <p num="201">The description contained herein is for purposes of illustration and not for purposes of limitation. The methods and compositions described herein can comprise any feature described herein either alone or in combination with any other feature(s) described herein. Changes and modifications may be made to the embodiments of the description. Furthermore, obvious changes, modifications or variations will occur to those skilled in the art. Also, all references cited above are incorporated herein, in their entirety, for all purposes related to this disclosure.</p>
+  </description>
+  <claims format="original" lang="en" id="claim_en">
+    <claim num="1">
+      <claim-text>1. The use of a combination of: - at least an anthocyanoside or a proanthocyanidin, or an extract comprising at least one of an anthocyanoside or a proanthocyanidin; - an anti-inflammatory agent, immunomodulating agent or analgesic agent comprising an andrographolide or a natural or synthetic analogue thereof, a lactone sesquiterpene or a natural or synthetic analogue thereof, a parthenolide or a natural or synthetic analogue thereof, a cynaropicrin or a natural or synthetic analogue thereof, a isobutylamide of a polyunsaturated fatty acid, or an extract of Zanthoxylum bungeanum or Echinacea angustifolia; - an antimicrobial agent or antifungal agent selected from miconazole, an antibiotic, a benzofuran, an isoquinoline alkaloid, or an extract comprising benzofuran or isoquinoline alkaloids for the preparation of a medicament for the treatment of mucositis.</claim-text>
+    </claim>
+    <claim num="2">
+      <claim-text>2. The use of claim 1, wherein the anthocyanoside comprises a glycoside of a cyanidin, a delphinidin or a pelargonidin or the corresponding aglycone.</claim-text>
+    </claim>
+    <claim num="3">
+      <claim-text>3. The use of claim 1, wherein the extract comprising at least one of an anthocyanoside or a proanthocyanidin is a plant extract comprising a glycoside of a cyanidin, a delphinidin or a pelargonidin or a corresponding aglycone.</claim-text>
+    </claim>
+    <claim num="4">
+      <claim-text>4. The use of claim 1, wherein the proanthocyanidin is proanthocyanidin A2 or proanthocyanidin B2.</claim-text>
+    </claim>
+    <claim num="5">
+      <claim-text>5. The use of claim 1, wherein the extract comprising at least an anthocyanoside or a proanthocyanidin is a plant extract comprising proanthocyanidin A2 or proanthocyanidin B2.</claim-text>
+    </claim>
+    <claim num="6">
+      <claim-text>6. The use of claim 1, wherein the extract comprising at least an anthocyanoside is derived from Vaccinium myrtillus.</claim-text>
+    </claim>
+    <claim num="7">
+      <claim-text>7. The use of claim 1, wherein the extract comprising at least a proanthocyanidin is derived from Vitis vinifera.</claim-text>
+    </claim>
+    <claim num="8">
+      <claim-text>8. The use of claim 1, wherein the isoquinoline alkaloids comprise a benzophenanthridine alkaloid or an extract comprising a benzophenanthridine alkaloid.</claim-text>
+    </claim>
+    <claim num="9">
+      <claim-text>9. The use of claim 8, wherein the isoquinoline alkaloids comprise sanguinarine or a natural or synthetic analogue thereof, chelerythrine or a natural or synthetic analogue thereof, chelidonine or a natural or synthetic analogue thereof, eupomatenoid or a natural or synthetic analogue thereof, or an extract of Sanguinaria canadensis, Macleaya cordata or Macleaya microcarpa.</claim-text>
+    </claim>
+    <claim num="10">
+      <claim-text>10. The use of claim 1, wherein the therapeutically effective amount of anthocyanoside, proanthocyanidin or of the extract comprising at least an anthocyanoside or a proanthocyanidin is about 50 mg to about 500 mg per unit dose.</claim-text>
+    </claim>
+    <claim num="11">
+      <claim-text>11. The use of claim 1, wherein the therapeutically effective amount of the anthocyanoside, proanthocyanidin or of the extract comprising at least an anthocyanoside or a proanthocyanidin is about 3000 mg or less per day.</claim-text>
+    </claim>
+    <claim num="12">
+      <claim-text>12. The use of claim 1, wherein the mucositis occurs in a part of the patient's gastroenteric tract, sex organ or skin.</claim-text>
+    </claim>
+    <claim num="13">
+      <claim-text>13. The use of claim 12, wherein the mucositis occurs in the patient's mouth.</claim-text>
+    </claim>
+    <claim num="14">
+      <claim-text>14. The use of claim 1, wherein the mucositis occurs in connection with the administration of an anti-cancer chemotherapy.</claim-text>
+    </claim>
+    <claim num="15">
+      <claim-text>15. The use of claim 1 comprising wherein the medicament comprises an extract of Vaccinium myrtillus, an isoquinoline alkaloid extracted from Sanguinaria canadensis, Macleaya cordata or Macleaya microcarpa and a lipophilic extract of Zanthoxylum bungeanum.</claim-text>
+    </claim>
+    <claim num="16">
+      <claim-text>16. The use of claim 15 wherein the medicament is administered by oral or topical administration.</claim-text>
+    </claim>
+  </claims>
+</questel-patent-document>

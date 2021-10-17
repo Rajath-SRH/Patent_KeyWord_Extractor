@@ -3,17 +3,21 @@ from typing import Coroutine
 from rake_nltk import Rake
 import operator
 import pymongo
+import nltk
 from bs4 import BeautifulSoup as bs
 from nltk import corpus
 import os
 
+nltk.download('wordnet')
+nltk.download('stopwords')
+nltk.download('punkt')
 def keyphrase(text):
     r = Rake()
     text = str(text)
     r.extract_keywords_from_text(text)
     keywords = r.get_ranked_phrases()
     keywithscore = r.get_ranked_phrases_with_scores()
-    result = [item[0] for item in keywithscore if item[0] >= 8 ]
+    result = [item[1] for item in keywithscore if item[0] >= 8 ]
     
     return result
 
@@ -33,7 +37,9 @@ def preprocess(text):
 
 content = []
 
-dir = 'C:/Users/Rajath/Downloads/patents/*'
+dir = './patents'
+s = os.curdir
+print(s)
 
 tic = time.perf_counter()
 for filename in os.listdir(dir):
@@ -54,7 +60,7 @@ for filename in os.listdir(dir):
             text = preprocess(result)
             keys = keyphrase(text)
 
-            client = pymongo.MongoClient("localhost", 27017)
+            client = pymongo.MongoClient('mongodb://db:secret@db:27017/?authSource=admin')
             db = client.patent_extractor
 
             db_obj = { "filename" : filename}

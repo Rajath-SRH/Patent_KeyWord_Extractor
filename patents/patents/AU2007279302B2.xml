@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questel-patent-document lang="en" date-produced="20180716" produced-by="Questel" schema-version="3.23" file="AU2007279302B2.xml">
+  <bibliographic-data lang="en">
+    <publication-reference publ-desc="Patent proceeded by OPI">
+      <document-id>
+        <country>AU</country>
+        <doc-number>2007279302</doc-number>
+        <kind>B2</kind>
+        <date>20130307</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>AU2007279302</doc-number>
+      </document-id>
+    </publication-reference>
+    <original-publication-kind>A1</original-publication-kind>
+    <application-reference family-id="38670669" extended-family-id="969400">
+      <document-id>
+        <country>AU</country>
+        <doc-number>2007279302</doc-number>
+        <kind>A</kind>
+        <date>20070725</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>2007AU-0279302</doc-number>
+      </document-id>
+      <document-id data-format="questel_Uid">
+        <doc-number>997807</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>en</language-of-filing>
+    <language-of-publication>en</language-of-publication>
+    <priority-claims>
+      <priority-claim kind="national" sequence="1">
+        <country>US</country>
+        <doc-number>83320706</doc-number>
+        <kind>P</kind>
+        <date>20060725</date>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="1">
+        <doc-number>2006US-60833207</doc-number>
+      </priority-claim>
+      <priority-claim kind="international" sequence="2">
+        <country>WO</country>
+        <doc-number>US2007074334</doc-number>
+        <kind>A</kind>
+        <date>20070725</date>
+        <priority-linkage-type>W</priority-linkage-type>
+        <priority-active-indicator>N</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="2">
+        <doc-number>2007WO-US74334</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability>
+      <unexamined-printed-without-grant>
+        <date>20080131</date>
+      </unexamined-printed-without-grant>
+      <publication-of-grant-date>
+        <date>20130307</date>
+      </publication-of-grant-date>
+    </dates-of-public-availability>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>A61B  19/00        20060101AFI20080131BHEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>61</class>
+        <subclass>B</subclass>
+        <main-group>19</main-group>
+        <subgroup>00</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080131</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>A61B  19/02        20060101ALI20080131BHEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>61</class>
+        <subclass>B</subclass>
+        <main-group>19</main-group>
+        <subgroup>02</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080131</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>A61F   9/007       20060101ALI20080131BHEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>61</class>
+        <subclass>F</subclass>
+        <main-group>9</main-group>
+        <subgroup>007</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20080131</date>
+        </action-date>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <patent-classifications>
+      <patent-classification sequence="1">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20160201</date>
+        </classification-scheme>
+        <classification-symbol>A61B-090/00</classification-symbol>
+        <section>A</section>
+        <class>61</class>
+        <subclass>B</subclass>
+        <main-group>90</main-group>
+        <subgroup>00</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20160201</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="2">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A61B-017/00234</classification-symbol>
+        <section>A</section>
+        <class>61</class>
+        <subclass>B</subclass>
+        <main-group>17</main-group>
+        <subgroup>00234</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20160204</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="3">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A61B-2017/00199</classification-symbol>
+        <section>A</section>
+        <class>61</class>
+        <subclass>B</subclass>
+        <main-group>2017</main-group>
+        <subgroup>00199</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20160204</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="4">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A61F-009/007</classification-symbol>
+        <section>A</section>
+        <class>61</class>
+        <subclass>F</subclass>
+        <main-group>9</main-group>
+        <subgroup>007</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20160204</date>
+        </action-date>
+      </patent-classification>
+    </patent-classifications>
+    <number-of-claims>11</number-of-claims>
+    <figures>
+      <image-key data-format="questel">AU2007279302</image-key>
+    </figures>
+    <invention-title lang="en" id="title_en">Surgical console operable to playback multimedia content</invention-title>
+    <references-cited>
+      <citation srep-phase="examiner">
+        <patcit num="1">
+          <text>COCHRAN BRUCE ROBERT, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5910139</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5910139</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="2">
+          <text>KASTIGAR SUSAN M</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>2006136073</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US20060136073</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="3">
+          <text>ALCON INC, et al</text>
+          <document-id>
+            <country>WO</country>
+            <doc-number>03081379</doc-number>
+            <kind>A2</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>WO200381379</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="4">
+          <text>DEHOOGH GREG L, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>2002045887</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US20020045887</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <parties>
+      <applicants>
+        <applicant data-format="original" app-type="applicant" sequence="1">
+          <addressbook>
+            <name>Alcon, Inc.</name>
+          </addressbook>
+        </applicant>
+        <applicant data-format="questel" app-type="applicant" sequence="2">
+          <addressbook lang="en">
+            <orgname>ALCON</orgname>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="original" sequence="1">
+          <addressbook>
+            <name>Thomas, Roger D.</name>
+          </addressbook>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent sequence="1" rep-type="agent">
+          <addressbook>
+            <name>Phillips Ormonde Fitzpatrick</name>
+            <address>
+              <address-1>Melbourne, VIC, 3000, AU</address-1>
+              <city>Melbourne</city>
+              <state>VIC</state>
+              <postcode>3000</postcode>
+              <country>AU</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <pct-or-regional-filing-data>
+      <document-id>
+        <country>WO</country>
+        <doc-number>US2007074334</doc-number>
+        <date>20070725</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>2007WO-US74334</doc-number>
+      </document-id>
+    </pct-or-regional-filing-data>
+    <pct-or-regional-publishing-data>
+      <document-id>
+        <country>WO</country>
+        <doc-number>2008014329</doc-number>
+        <kind>A1</kind>
+        <date>20080131</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>WO200814329</doc-number>
+      </document-id>
+    </pct-or-regional-publishing-data>
+    <lgst-data>
+      <lgst-status>GRANTED</lgst-status>
+    </lgst-data>
+  </bibliographic-data>
+  <abstract format="original" lang="en" id="abstr_en">
+    <p id="P-EN-00001" num="00001">
+      <br/>
+      A method and system are disclosed for playing, storing, accessing, and retrieving multimedia content and providing the content to a surgical environment.
+      <br/>
+      In particular, the audio playback function can provide a means to play background music in an operating room to provide a soothing and/or entertaining background to the surgical team and/or a patient.
+      <br/>
+      Further audio and video playback can provide a walkthrough of preparing surgical cassettes, hand pieces and other consumables used in ophthalmic surgery.
+    </p>
+  </abstract>
+  <description format="original" lang="en" id="desc_en">
+    <heading>TECHNICAL FIELD OF THE INVENTION</heading>
+    <p num="1">The present invention relates generally to surgical console systems and methods, and, more particularly, to a system and method for playing multimedia content in a surgical environment.</p>
+    <heading>BACKGROUND OF THE INVENTION</heading>
+    <p num="2">The human eye can suffer a number of maladies causing mild deterioration to complete loss of vision. While contact lenses and eyeglasses can compensate for some ailments, ophthalmic surgery is required for others. Generally, ophthalmic surgery is classified into to posterior segment procedures, such as vitreoretinal surgery, and anterior segment procedures, such as cataract surgery. More recently, combined anterior and posterior segment procedures have been developed.</p>
+    <p num="3">During modem surgery, particularly ophthalmic surgery, a surgeon may use a variety of pneumatic and electronically driven microsurgical handpieces, The handpieces are typically operated by a microprocessor-driven surgical console that receives inputs from the surgeon or an assistant by a variety of peripheral devices, such as foot pedal controllers, infrared remote control devices and menudriven touch screens. One such microsurgical console is described in U. S. Patent No. 5,455,766 (Scheller, et al.), the entire content of which is incorporated herein by reference. Surgical consoles allow surgeons to manually input surgical operating parameters and store these "customized" parameters in the console memory for future use. Typically, the operating parameters and methodologies are inputted manually using, for example, a keypad or a touch screen, or are downloaded from another console that has had the parameters inputted manually.</p>
+    <p num="4">While in a surgical environment, surgical personnel in a surgical environment routinely play music or have some other form of multimedia content playing in the surgical room as a means to pass the time more pleasantly and to provide soothing or entertaining background noise for themselves and patients. Typically, the music or multimedia content is played using a separate device specifically suited to the purpose and brought into the surgical room as an additional piece of equipment. This results in both additional clutter in a surgical room and in a potential distraction when it is desired to change, start or stop the music or other content. Additionally, various alerts may be associated with the operation of an ophthalmic surgical console during a surgical procedure. The surgical team may have difficulty hearing these alerts when background music is played using a separate playback device.</p>
+    <p num="5">Accordingly, a need exists for a surgical console that allows for the playback of various multimedia files (content) that may be used to facilitate the surgical procedure.</p>
+    <p num="6">A reference herein to a patent document or other matter which is given as prior art is not to be taken as an admission that that document or matter was known or that the information it contains was part of the common general knowledge as at the priority date of any of the claims.</p>
+    <heading>SUMMARY OF THE INVENTION</heading>
+    <p num="7">The embodiments of the surgical console operable to playback multimedia content of the present invention substantially meet these needs and others. Embodiments of the present invention provide a surgical console operable to play, store, access, and retrieve multimedia content (i.e. audio and video) that may be provided to the surgical team before, during and after a surgical procedure. In particular, the audio playback function can provide a means to play background music in an operating room to provide a soothing and/or entertaining background to the surgical team and/or a patient. Further, audio and video playback can provide a walkthrough of preparing surgical cassettes, hand pieces and other consumables used in ophthalmic surgery.</p>
+    <p num="8">According to an aspect of the present invention, there is provided a surgical console, comprising: a processing module operable to direct operation of devices operably coupled to the surgical console; at least one memory device operably coupled to the processing module, wherein the at least one memory device is operable to store content; and a user interface, wherein the user interface allows operators to: select content on the memory device for playback; and playback the selected content, wherein the processing module is operable to interrupt playback of the selected content during a surgical procedure when an operating parameter and/or surgical mode compares unfavorably to an expected operating parameter and/or surgical mode associated with the surgical procedure.</p>
+    <p num="9">According to another aspect of the present invention, there is provided a surgical console, comprising: a processing module operable to direct operations of peripheral devices operably coupled to the surgical console; and monitor operating parameters and surgical modes associated with a surgical procedure; at least one memory device operably coupled to the processing module, wherein the at least one memory device is operable to store surgical procedures and multimedia content; an external interface operably coupled to the processing module, wherein the external interface is operable to interface the surgical console to an external multimedia source; and a user interface, wherein the user interface allows operators to: initialize the surgical console for a surgical procedure; select the surgical procedure to be executed; playback the selected surgical procedure; select multimedia content for playback; and playback the selected multimedia content, wherein the processing module is operable to interrupt playback of the selected multimedia content during the surgical procedure when an operating parameter and/or surgical mode compares unfavorably to an expected operating parameter and/or surgical mode associated with the surgical procedure.</p>
+    <p num="10">One embodiment of the surgical console of the present invention can include means for receiving, at a surgical system (console), multimedia content from a mass storage device. This multimedia content may include audio and/or video for entertainment purposes, such as background music, or audio/video describing one or more steps in setting up a consumable based on consumable information. Another embodiment of the invention is directed to a surgical system capable of displaying a video clip or other suitable media file. The video clip may correspond to a consumable or consumable pack which can be scanned or selected by the user or otherwise recognized by the surgical system. The video clip showing the setup instructions may be displayed in one or more ways (e.g., with or without audio, text, graphics, etc.). The surgical system, according to one embodiment can include a display, a recognition device, and a controller operatively coupled to said display and said recognition device, wherein said controller comprises a processor and a computer-readable medium carrying program instructions executable by said processor. The program instructions can comprise, code for receiving an identification of a first consumable pack which contains a set of consumables, code for automatically obtaining consumable information associated with said set of consumables, code for updating settings of said surgical system based on said consumable information and code for displaying on said display content comprising at least a video showing a set of steps in setting up the set of consumables.</p>
+    <p num="11">In embodiments of the invention, the control of the video clip or other suitable media file can be tailored to suit the various needs, knowledge, and/or skill levels of users. In one embodiment, the surgical system can provide multiple modes: Advanced, Audio, Video, and Wizard. Any one of the modes can be configured as the default mode. In a first mode, a user can skip the playback of the audio/video clip entirely and simply jump to or select a desired point or topic related to a particular instrument or consumable. In a second mode, a user can choose to play the entire clip or file(s) (audio and/or video) without interruption. In a third (e.g., wizard) mode, step-by-step instructions are displayed and, optionally, a user may be required to acknowledge at the completion of each step in order to move forward to the next step in a predefined setup sequence.</p>
+    <p num="12">An advantage provided by the embodiments of the present invention relates to providing a more convenient system and interface for playing audio or other content in a surgical environment, such as for background music during a procedure. Embodiments of this invention operable to provide this advantage can comprise a surgical console including an interface, such as the interfaces commonly found on a compact disc player, DVD player, mp3 player or other such audio/video player as will be familiar to those having skill in the art. Further, embodiments can include an input operable to connect an external player to the surgical console to play selected audio or other multimedia content through the surgical console.</p>
+    <p num="13">Another advantage provided by embodiments of the present invention relates to a surgical system's ability of facilitating a user to setup complex ophthalmic surgical instrumentation and consumables associated therewith.</p>
+    <p num="14">Still another advantage provided by embodiments of the present invention relates to a surgical system's flexibility of facilitating diverse users with various levels of skills in setting up complex ophthalmic surgical instrumentation and consumables associated therewith and establishing a calm environment in which the procedure can occur.</p>
+    <p num="15">Other advantages of the present invention will become more apparent to one skilled in the art upon reading and understanding the detailed description of the preferred embodiments described herein with reference to the following drawings.</p>
+    <heading>BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+    <p num="16">For a more complete understanding of the present invention arid the advantages thereof, reference is now made to the following description taken in conjunction with the accompanying drawings in which like reference numerals indicate like features and wherein: FIG. 1 is a perspective view of one surgical console that may be used with embodiments of the present invention; FIG. 2 is a functional block diagram of one surgical console in accordance with embodiments of the present invention; FIG. 3 is a perspective view of one surgical console in accordance with embodiments of the present invention; FIG. 4 is a perspective view of one surgical console surgical cassette receiver in accordance with embodiments of the present invention; FIG. 5 is a diagrammatic representation of one embodiment of a surgical cassette employed by a surgical console in accordance with embodiments of the present invention; FIG.6 provides a logic flow diagram associated with one embodiment of the present invention that allows for the playback of multimedia content files such as audio files, MP3 files or other audio content during a surgical procedure; and FIG. 7 provides a logic flow diagram associated with one embodiment of the present invention that allows for executing a recorded surgical procedure and for the playback of multimedia content files such as audio files, MP3 files or other audio content during a surgical procedure.</p>
+    <heading>DETAILED DESCRIPTION OF THE INVENTION</heading>
+    <p num="17">Preferred embodiments of the present invention are illustrated in the FIGs., like numerals being used to refer to like and corresponding parts of the various drawings.</p>
+    <p num="18">An audio and/or multimedia playback device provided by embodiments of the present invention may be implemented as part of any suitable surgical console such as, but not limited to, the Series 2000® Legacy® cataract surgical system, the InfinitiTM Vision System surgical system, or the Accunis® 400VS surgical system, as seen in FIG. 1. These consoles are commercially available from Alcon Laboratories, Inc., of Fort Worth, Texas. For example, these consoles can provide access to various multimedia files stored within memory or storage devices accessible to the surgical console. In a similar manner, audio or multimedia content stored on an external media, such as a compact disk, portable memory device, DVD or mp3 player, can be played through a surgical console embodiment of the present invention.</p>
+    <p num="19">FIG. 1 is an illustration of a surgical console 10 in accordance with the present invention. Microsurgical Console 10 may operably couple to a number of user interfaces 12, such as a foot pedal assembly, or other push-button type assembly not shown, and to microsurgical peripheral devices 14. Console 10 allows an operator, such as a surgeon, to begin a surgical procedure by setting the initial operating parameters and modes into the console. This may be done by allowing the operator to interface with the surgical console through user interfaces 12 or other interfaces provided on the front panel 16. These may include an electronic display screen 17, a plurality of push-button switches or touch-sensitive pads 18, a plurality of endless digital potentiometer knobs 20, or other like interfaces known to those skilled in the art. The pushbuttons 18 and knobs 20 are actuable by an operator to access various different operating modes and functions. Console 10 may also include the ability to accept storage media such as cassette tapes, memory cards, floppy disks, compact discs (CDs), digital video disks (DVDs), or other like devices known to those skilled in the art.</p>
+    <p num="20">Electronic display screen 17 may be controlled by a processing module that allows the operator access to one or more different menus or messages that relate to the functions and operations of the various push buttons 18 and knobs 20. In one embodiment, the display screen 17 may be divided into display screen regions associated with individual push buttons 18. This arrangement allows for the indicated function of each button 18 or knob 20 to be readily changed. Additionally, the use of the electronic display screen 17 also permits the buttons 18 and knobs 20 to be labeled in virtually any language.</p>
+    <p num="21">Microsurgical console 10 may be adapted for use with a number of different surgical instruments (i.e., microsurgical peripheral devices 14). For example, these may include a fiber optic illumination instrument, a fragmentation emulsification instrument, a cutting instrument, such as a guillotine cutter for vitrectomy procedures, and/or micro-scissors inset for proportionate and multiple cutting. While the above-identified microsurgical instruments are provided for illustrative purposes, it should be understood that the microsurgical console 10 can be used with other similar equipped instruments.</p>
+    <p num="22">In general, any microsurgical instruments that are actuated or controlled by pneumatic or electronic signals may be operably coupled to and controlled by console 10. This control or actuation may be governed by pneumatic, electronic, optical, or other like signals known to those skilled in the art wherein the signals are generated or provided by console 10. Each of these illustrated microsurgical devices that couple to console 10 may have different modes of operation that may require different settings or parameters that are provided by the microsurgical console 10. By saving these operating parameters and surgical modes that are associated with specific steps of a surgical procedure in memory, the setup of the microsurgical peripheral devices 14 is facilitated by eliminating the often tedious or cumbersome process of initializing these devices manually via the surgical console 10 for each step of a surgical procedure.</p>
+    <p num="23">As the operator/surgeon advances through a surgical procedure, pertinent changes to the operating modes and peripheral device operating parameters are accessed from console memory and used to initialize or setup the microsurgical devices for individual steps within an overall surgical procedure. At the completion of a surgical procedure, the completed surgical procedure may be saved as a recorded procedure in memory coupled to console 10. It should be noted that within surgical console 10 is a processing module coupled to memory where the processing module is operable to execute steps that will be discussed in the logic flow diagrams herein. Additionally, surgical console 10 may include a microphone and/or speaker 22. Further, surgical console 10 may be coupled to a mass storage device 24. This mass storage device may take the form of an external digital playback device such as an MP3 player, a compact disc external to the microsurgical console 10 or within that microsurgical console 10, digital video disc, or other mass storage device that may support the retrieval of multi-media information to be presented using microsurgical console 10. The retrieval and playback of the multi-media may be done through the display screen 17 and associated buttons 18 or through dedicated buttons 18 and knobs 20 that relate to specific functions associated with the playback of information.</p>
+    <p num="24">FIG. 2 depicts a block diagram of various functional modules that may be located within a surgical console 10 of this invention. Host multimedia module 30 of console 10 may functionally include a processing module 32, a power signal 52 provided to input-output (I/0) interface printed circuit board (PCB) 34, mass storage devices 36, 38, and 40, speaker(s) 46, display interface 50, expansion panel 42, and an external connection to audio inputs. Interface PCB 34 may include an audio output 58, a power output 59 (functionally distributed as power outputs 59A-59E), and audio input(s) 54.</p>
+    <p num="25">Interface PCB 34 couples to an external or internal power supply 53 (not shown). Then interface PCB 34 may distribute power to various other elements contained within various other functional elements of surgical console 10. For example, power may be distributed through connections 59A, 59B, 59C, 59D and 59E to processing module 32, mass storage devices 36-40, expansion panel 42, and other functional units within the surgical console 10 as required. Additionally, interface PCB 34 may receive audio signals through audio ports 54 that may be for external connections with which to receive audio signals, or connections to processing system 32 that provide audio signals that interface PCB 34 may route to audio output port 58 and speakers 46. Mass storage devices 36-40 may further include hard drives, DVD drives, CD drives, and other like drives.</p>
+    <p num="26">Power is supplied by the interface PCB 34 to these mass storage devices, wherein the multimedia content contained therein or other information contained therein may be accessed through various interfaces to processing module 32 and then routed to an appropriate playback portion of the surgical console through, for example, interface PCB 34. For example, the audio signal may be routed to a speaker in the case of a digital audio file such as an MP3 file, wave file or other like file or to display module 17 in the case of video or image content. Thus, interface PCB 34 can process and playback audio or video files from internal mass storage devices 36-40, which can contain multi-media files to be played back during a surgical procedure. Also, an external multi-media playback device such as, but not limited to, an MP3 player, CD player or DVD player may be coupled to the interface PCB 34 and provide audio and/or video signals to the interface PCB 34 which may then be processed using processing module 32 and presented using the appropriate playback means, such as speakers 46 or display module 17. Additionally, control devices such as a keyboard or mouse may be coupled to interface PCB 34 as a user interface to control the playback of the multi-media files. Otherwise, native controls such as buttons 18 and/or knobs 20, that may have functions defined as presented in display 17, may be used to control the playback of the multi-media content.</p>
+    <p num="27">Processing module 32 may be a single processing device or a plurality of processing devices. Such a processing device may be a microprocessor, micro-controller, digital signal processor, microcomputer, central processing unit, field programmable gate array, programmable logic device, state machine, logic circuitry, analog circuitry, digital circuitry, and/or any device that manipulates signals (analog and/or digital) based on operational instructions. The memory, such as internal mass storage devices 36-40, may be a single memory device or a plurality of memory devices. Such a memory device may be a read-only memory, random access memory, volatile memory, non-volatile memory, static memory, dynamic memory, flash memory, cache memory, and/or any device that stores digital information. Note that when the processing module 32 implements one or more of its functions via a state machine, analog circuitry, digital circuitry, and/or logic circuitry, the memory storing the corresponding operational instructions may be embedded within, or external to, the circuitry comprising the state machine, analog circuitry, digital circuitry, and/or logic circuitry. The memory stores, and the processing module executes, operational instructions corresponding to at least some of the steps and/or functions illustrated in the FIGs.</p>
+    <p num="28">FIGs. 3-5 illustrate one example of a surgical system and a related consumable, in this case a cassette. These drawings exemplify a surgical environment in which embodiments of the present invention may be implemented. It can be seen from FIGs. 3-5 that a surgical console acts in cooperation with a number of consumables that may require setup before a surgical procedure takes place. Embodiments of the present invention provide a system and method for facilitating surgical procedures with video and multimedia content displayed on or played back with a surgical console. As described further below, the console can recognize the consumables to be used through a variety of mechanisms and play the appropriate content for the user to aid the user in setting up the consumables. Through the use of videos and other multimedia content, the present invention provides a mechanism that substantially facilitates surgical procedures, or at least substantially reduces the shortcomings of previous methods.</p>
+    <p num="29">One embodiment of the invention is directed to a surgical system capable of displaying a video clip, audio file, or other suitable media file. The invention and various features and advantageous details thereof are explained more fully with reference to the exemplary, and therefore non-limiting, embodiments illustrated in the accompanying drawings and detailed in the following description. Descriptions of known programming techniques, computer software, hardware, operating platforms and protocols may be omitted so as not to unnecessarily obscure the invention in detail. It should be understood, however, that the detailed description and the specific examples, while indicating the preferred embodiments of the invention, are given by way of illustration only and not by way of limitation. Various substitutions, modifications, additions and/or rearrangements within the spirit and/or scope of the underlying inventive concept will become apparent to those skilled in the art from this disclosure.</p>
+    <p num="30">FIG. 3 is a diagrammatic representation of one embodiment of an ophthalmic surgical console 100. Surgical console 100 can include a swivel monitor 110 that has touch screen 115. Swivel monitor 110 can be positioned in a variety of orientations for whomever needs to see touch screen 115. Swivel monitor 110 can swing from side to side, as well as rotate and tilt. Touch screen 115 provides a graphical user interface ("GUI") that allows a user to interact with console 100.</p>
+    <p num="31">Surgical console 100 also includes a connection panel 120 used to connect various tools and consumables to surgical console 100. Connection panel 120 can include, for example, a coagulation connector, balanced salt solution receiver, connectors for various hand pieces and a fluid management system ("FMS") or cassette receiver 125. Surgical console 100 can also include a variety of user friendly features, such as a foot pedal control (e.g., stored behind panel 130) and other features. In operation, a cassette (not shown) can be placed in cassette receiver 125. Clamps in surgical console 100 clamp the cassette in place to minimize movement of the cassette during use. The clamps can clamp the top and bottom of the cassette, the sides of the cassette or otherwise clamp the cassette.</p>
+    <p num="32">Surgical console 100 is provided by way of example and embodiments of the present invention can be implemented with a variety of surgical systems. Example surgical systems in which cassettes according to various embodiments of the present invention can be used include, for example, the Series 2000® Legacy@ cataract surgical system, the Accurus® 400VS surgical system, and the InfinitiTM Vision System surgical system, all available from Alcon Laboratories Inc. of Fort Worth, Texas. Additionally, embodiments of the present invention can be used with a variety of surgical cassettes, examples of which are described in U. S. Pub. Nos. 2005/0186098 (Application No. 11/114,289 to Davis et al.), 2004/0253129 (Application No. 10/891,642 to Sorensen et al.), 2005/0065462 (Application No. 10/979,433 to Nazarifar et al.), 2003/0225363 (Application No. 10/156,175 to Gordon et al.), 2001/0016711 (Application No. 09/846,724 to Sorensen et al.) and United States Patent Nos. 6,293,926 to Sorensen et al., 4,493,695 to Cook, 4,627,833 to Cook, 4,395,258 to Wang et al., 4,713,051 to Steppe, et al., 4,798,850 to DeMeo, et al., 4,758,238 to Sundblom et al., 4,790,816 to Sundblom et al., 6,036,458 to Cole et al., and 6,059,544 to Jung et al., each of which is hereby fully incorporated by reference herein. Embodiments of the present invention can be implemented for other suitable surgical systems and cassettes as would be understood by one of ordinary skill in the art.</p>
+    <p num="33">FIG. 4 is a diagrammatic representation of one embodiment of cassette receiver 125 without a cassette. Cassette receiver 125 can have various input and output ports (indicated generally at 135) to receive fluids (i.e., liquids and gasses) from the surgical cassette. Cassette receiver 125 can further include an opening to allow peristaltic pump rollers 140 to contact the surgical cassette during operation. One embodiment of a peristaltic pump and complimentary cassette is described in United States Patent No. 6,293,926 to Sorensen, which is hereby fully incorporated by reference herein.</p>
+    <p num="34">The surgical cassette, in the embodiment of FIG. 4, is held in place by a clamp having a bottom rail 142 and a top rail (not shown). Each rail can have clamping fingers (e.g., clamp finger 144) that contact the cassette in corresponding clamping zones. One embodiment of a surgical cassette clamp is described in United States Patent Application Publication No. 2003/0202894 (Serial No. 10/132,797 to Leukanech, et al.), which is hereby fully incorporated by reference herein. A release button 145 is pressed to initiate release of the cassette from the clamp. Depending on the surgical console 100, the cassette release process can include several steps, including venting of pressure or fluids, disengaging the clamps or other steps. The configuration of FIG. 4 is provided by way of example. The form factor of cassette receiver 125, placement and number of input/output ports and other features of cassette receiver 125 can depend on the surgical console 100, on the surgical procedure being performed or on other factors.</p>
+    <p num="35">FIG. 5 is a diagrammatic representation of one embodiment of a surgical cassette 150. Cassette 150 can provide a closed system fluidic device that can be discarded following a surgical procedure. Cassette 150 can include a cassette body 155 and clamp receiving portions (e.g., indicated generally at clamping zones 160 and 165) projecting from the cassette body 155. In the embodiment shown, cassette 150 is formed from three primary sections: an inner or surgical console interface section 170 that faces the surgical console when cassette 150 is inserted into surgical console 100, a middle section 175 and a back plate 180. The various sections of cassette 150 can be coupled together via a press fit, interlocking tabs, chemical bonding, thermal bonding, mechanical fasteners or other attachment mechanism known in the art.</p>
+    <p num="36">Surgical console interface section 170 can provide an interface for fluid flow channels (e.g., flow channel 177 for the peristaltic pump provided by an elastomeric pump membrane), valves (e.g., irrigation/aspiration valves), pressure sensors and other features to manage fluid flow. Cassette 150 can also attach to a fluid bag (not shown) to collect fluids during a procedure.</p>
+    <p num="37">FIG. 6 provides a logic flow diagram associated with one embodiment of the present invention that allows for the playback of multimedia content files such as audio files, MP3 files or other audio content during a surgical procedure. During normal operation of a surgical procedure, a member of the surgical team may, at step 202, select multimedia content for display. (i.e., a user may select a series of audio files to be played back during the surgical procedure.) These files or sources, once selected from either an internal or external source, may be provided, at step 204, to the surgical room/team using speakers of the surgical console or speakers coupled to the surgical console. The processing system of the surgical console may continually monitor the operating parameters associated with the surgical procedure. At decision point 206, a determination is continuously made as to whether or not an interrupt condition exists requiring that an alert be issued to the surgical team of a condition requiring their attention. This interrupt or alert notifies the surgical team of a specific step, a specific parameter, or an abnormality associated with parameters of the surgical procedure. Should no such interrupt condition exist, the playback may continue by returning to step 204. Otherwise, at step 208, the surgical console may interrupt the playback of the selected multimedia content and issue an interrupt to the surgical team to make them aware of specific conditions associated with the surgical procedure.</p>
+    <p num="38">Existing surgical consoles do not offer the ability to play background audio files during surgical procedures. Thus surgical teams often use a separate playback device to provide background music during the surgical procedure. However should an audible alarm or condition not be heard on an existing surgical console due to the playback of other audio devices within the surgical theater, important data or changes in operating parameters may not be acted on in a timely manner. Embodiments of the present invention provide the playback of selected multimedia files or other content routed through the surgical console to ensure that the surgical team is alerted to changing operating parameters. This is an important advantage over the ability offered in prior art surgical consoles.</p>
+    <p num="39">FIG. 7 provides a logic flow diagram illustrating one method by which a recorded surgical procedure may be executed within a surgical console operable to simultaneously playback background multimedia. At Step 302, an operator recalls a recorded procedure. This may be done by using an interface, such as the electronic display screen 17 of the surgical console 10, push buttons 18, a voice or audio interface, or other like means known to those having skill in the art. One embodiment may allow the operator to recall the recorded procedure herein, includes direct coupling and indirect coupling via another component, element, circuit, or module where, for indirect coupling, the intervening component, element, circuit, or module does not modify the information of a signal but may adjust its current level, voltage level, and/or power level. As one of average skill in the art will also appreciate, inferred coupling (i.e., where one element is coupled to another element by inference) includes direct and indirect coupling between two elements in the same manner, as "operably coupled". As one of average skill in the art will further appreciate, the term "compares favorably", as may be used herein, indicates that a comparison between two or more elements, items, signals, etc., provides a desired relationship. For example, when the desired relationship is that signal 1 has a greater magnitude than signal 2, a favorable comparison may be achieved when the magnitude of signal 1 is greater than that of signal 2 or when the magnitude of signal 2 is less than that of signal 1.</p>
+    <p num="40">Although the present invention is described in detail, it should be understood that various changes, substitutions and alterations can be made hereto without departing from the spirit and scope of the invention as described by the appended claims.</p>
+    <p num="41">Throughout the description and claims of this specification the word "comprise" and variations of that word, such as "comprises" and "comprising", are not intended to exclude other additives, components, integers or steps.</p>
+  </description>
+  <claims format="original" lang="en" id="claim_en">
+    <claim num="1">
+      <claim-text>1. A surgical console, comprising: a processing module operable to direct operation of devices operably coupled to the surgical console; at least one memory device operably coupled to the processing module, wherein the at least one memory device is operable to store content; and a user interface, wherein the user interface allows operators to: select content on the memory device for playback; and playback the selected content, wherein the processing module is operable to interrupt playback of the selected content during a surgical procedure when an operating parameter and/or surgical mode compares unfavorably to an expected operating parameter and/or surgical mode associated with the surgical procedure.</claim-text>
+    </claim>
+    <claim num="2">
+      <claim-text>2. The surgical console of Claim 1, further comprising an external interface operably coupled to the processing module, wherein the external interface is operable to interface the surgical console to an external media source.</claim-text>
+    </claim>
+    <claim num="3">
+      <claim-text>3. The surgical console of Claim 2, wherein the external media source is a compact disc player, a DVD player or an mp3 player, and wherein the external media source is operable to play content via a surgical console output device.</claim-text>
+    </claim>
+    <claim num="4">
+      <claim-text>4. The surgical console of Claim 3, wherein the surgical console output device is a surgical console speaker.</claim-text>
+    </claim>
+    <claim num="5">
+      <claim-text>5. The surgical console of any one of Claims 1 to 4, wherein the processing module is operable to monitor operating parameters and surgical modes associated with a surgical procedure.</claim-text>
+    </claim>
+    <claim num="6">
+      <claim-text>6. The surgical console of any one of Claims 1 to 4, wherein the processing module is operable to: alter operating modes of devices operably coupled to the surgical console; or alter peripheral device operating parameters of devices operably coupled to the surgical console,</claim-text>
+    </claim>
+    <claim num="7">
+      <claim-text>7. A surgical console, comprising: a processing module operable to: direct operations of peripheral devices operably coupled to the surgical console; and monitor operating parameters and surgical modes associated with a surgical procedure; at least one memory device operably coupled to the processing module, wherein the at least one memory device is operable to store surgical procedures and multimedia content; an external interface operably coupled to the processing module, wherein the external interface is operable to interface the surgical console to an external multimedia source; and a user interface, wherein the user interface allows operators to: initialize the surgical console for a surgical procedure; select the surgical procedure to be executed; playback the selected surgical procedure; select multimedia content for playback; and playback the selected multimedia content, wherein the processing module is operable to interrupt playback of the selected multimedia content during the surgical procedure when an operating parameter and/or surgical mode compares unfavorably to an expected operating parameter and/or surgical mode associated with the surgical procedure.</claim-text>
+    </claim>
+    <claim num="8">
+      <claim-text>8. The surgical console of Claim 7, wherein the processing module is operable to: alter operating modes of devices operably coupled to the surgical console; or alter peripheral device operating parameters of devices operably coupled to the surgical console.</claim-text>
+    </claim>
+    <claim num="9">
+      <claim-text>9. The surgical console of Claim 7 or 8, wherein the surgical procedure is ophthalmic surgical procedure.</claim-text>
+    </claim>
+    <claim num="10">
+      <claim-text>10. The surgical console of any one of Claims 7 to 9, wherein the operating parameters and surgical modes associated with the surgical procedure(s) comprise: pneumatic and electronic parameters associated with surgical peripheral devices operably coupled to the surgical console.</claim-text>
+    </claim>
+    <claim num="11">
+      <claim-text>11. A surgical console substantially as hereinbefore described with reference to any one of the embodiments shown in Figures 2 to 5.</claim-text>
+    </claim>
+  </claims>
+</questel-patent-document>
