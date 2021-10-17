@@ -39,11 +39,11 @@ mongodb+srv://db:challenge123@cluster0.0wp5e.mongodb.net/test
 
 ```
 
-##Code Execution time
+## Code Execution time
 
 For 10 patent documents the average time running all the services locally(parser + monogDB writes) takes about 2.5 seconds. Since the mongoDB that has been use for deplyement is on the mongo cloud cluster it takes about 16 seconds to writw to the repository.
 
-##Ideas for future improvements
+## Ideas for future improvements
 
 * Develop a dictionary of keywords to refer while extracting key phrases.
 * Use a sentence tokenizer to extract all the sentences and determine the semantic scores based on the keywords (Train a deep learning model). Transformer models can be urilized to determine this score.
