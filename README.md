@@ -27,11 +27,16 @@ The general flow of the pipeline is depicted in the flowchart above and is expla
 * Replace the relative path to the folder containing the patents. "DIR" variable stored the path of the patent folder.
 
 
-
-## Other ideas
-
-
 ## Run Docker
 
 
+In the cloned repository folder open up command promp and run the below commands. This will set up a mongoDB instance for the program to idenify and store the keywords extracted from text.
+```
+docker-compose up --build
+```
 
+To view the mongoDB collection download mongo compass. Click connect and use this connection string to find the database collection.
+```
+mongodb://db:secret@db:27017/?authSource=admin
+
+```
