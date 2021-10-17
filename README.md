@@ -29,14 +29,14 @@ The general flow of the pipeline is depicted in the flowchart above and is expla
 
 ## Run Docker
 
-
-In the cloned repository folder open up command promp and run the below commands. This will set up a mongoDB instance for the program to idenify and store the keywords extracted from text.
 ```
-docker-compose up --build
+docker pull rajath9/challenge_chemo
+
+docker run rajath9/challenge_chemo
 ```
 
 To view the mongoDB collection download mongo compass. Click connect and use this connection string to find the database collection.
 ```
-mongodb://db:secret@db:27017/?authSource=admin
+mongodb+srv://db:challenge123@cluster0.0wp5e.mongodb.net/test
 
 ```
