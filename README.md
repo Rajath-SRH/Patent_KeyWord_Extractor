@@ -46,4 +46,4 @@ For 10 patent documents the average time running all the services locally(parser
 ## Ideas for future improvements
 
 * Develop a dictionary of keywords to refer while extracting key phrases.
-* Use a sentence tokenizer to extract all the sentences and determine the semantic scores based on the keywords (Train a deep learning model). Transformer models can be urilized to determine this score.
+* Use a sentence tokenizer to extract all the sentences and determine the semantic scores based on the keywords (Train a deep learning model). Transformer models can be utiiized to determine this score.
